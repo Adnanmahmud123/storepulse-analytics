@@ -1,0 +1,776 @@
+﻿book_id,title,author,genre,publisher,year,authors_normalized,authors_display,author_set_label
+22063,"The World, the Flesh and the Devil","Refugio Rodriguez Esq., Prof. Catherin Ward",Essay,HarperTrophy,2003,"[""prof catherin ward"", ""refugio rodriguez esq""]","[""Prof. Catherin Ward"", ""Refugio Rodriguez Esq.""]","Prof. Catherin Ward, Refugio Rodriguez Esq."
+22125,The Mermaids Singing,"Latrina Fahey MD, Felicia Moen",Classic,University of Michigan Press,1987,"[""felicia moen"", ""latrina fahey md""]","[""Felicia Moen"", ""Latrina Fahey MD""]","Felicia Moen, Latrina Fahey MD"
+22435,What's Become of Waring,"Son Nikolaus, Golden Predovic, Todd Kreiger",Tall tale,Addison-Wesley,2020,"[""golden predovic"", ""son nikolaus"", ""todd kreiger""]","[""Golden Predovic"", ""Son Nikolaus"", ""Todd Kreiger""]","Golden Predovic, Son Nikolaus, Todd Kreiger"
+22136,The Glory and the Dream,Johna Krajcik,Biography/Autobiography,Basic Books,2019,"[""johna krajcik""]","[""Johna Krajcik""]",Johna Krajcik
+22119,Overwatch,Santo Purdy Jr.,Mythology,Parachute Publishing,2025,"[""santo purdy jr""]","[""Santo Purdy Jr.""]",Santo Purdy Jr.
+22110,Metropolis,Mrs. Marlena Hahn,Classic,Signet Books,1981,"[""mrs marlena hahn""]","[""Mrs. Marlena Hahn""]",Mrs. Marlena Hahn
+22022,Down to a Sunless Sea,Mistie Brekke PhD,Textbook,McClelland and Stewart,1995,"[""mistie brekke phd""]","[""Mistie Brekke PhD""]",Mistie Brekke PhD
+21972,Counter-Strike: Source,Arleen Strosin,Folklore,Black Library,1992,"[""arleen strosin""]","[""Arleen Strosin""]",Arleen Strosin
+21784,The Witcher 3: Wild Hunt,"Sen. Althea Rogahn, Mana Gleichner",Comic/Graphic Novel,United States Government Publishing Office,2010,"[""mana gleichner"", ""sen althea rogahn""]","[""Mana Gleichner"", ""Sen. Althea Rogahn""]","Mana Gleichner, Sen. Althea Rogahn"
+22024,Commandos 2: Men of Courage,Bobby Brakus,Textbook,Taunton Press,2004,"[""bobby brakus""]","[""Bobby Brakus""]",Bobby Brakus
+21731,Halo: Reach,Lisbeth Homenick,Speech,Da Capo Press,1987,"[""lisbeth homenick""]","[""Lisbeth Homenick""]",Lisbeth Homenick
+22434,Day of the Tentacle,"Carlee Gusikowski, Cathrine Baumbach VM, Demarcus Feeney",Mystery,Brill,2019,"[""carlee gusikowski"", ""cathrine baumbach vm"", ""demarcus feeney""]","[""Carlee Gusikowski"", ""Cathrine Baumbach VM"", ""Demarcus Feeney""]","Carlee Gusikowski, Cathrine Baumbach VM, Demarcus Feeney"
+22049,Civilization VI,Helga Vandervort DC,Speech,Hawthorne Books,2000,"[""helga vandervort dc""]","[""Helga Vandervort DC""]",Helga Vandervort DC
+21699,Kingdom Hearts,Joaquin Romaguera,Fanfiction,,1992,"[""joaquin romaguera""]","[""Joaquin Romaguera""]",Joaquin Romaguera
+22320,Room,Gov. Vertie Kovacek,Short story,J. M. Dent,1984,"[""gov vertie kovacek""]","[""Gov. Vertie Kovacek""]",Gov. Vertie Kovacek
+21861,Pokémon X,Gil Bradtke,Short story,McGraw Hill Financial,2018,"[""gil bradtke""]","[""Gil Bradtke""]",Gil Bradtke
+21975,Number the Stars,"Cathrine Baumbach VM, Carlee Gusikowski, Rev. Katina Pagac, Laree Mayer, Tristan Gerlach, Demarcus Feeney",Humor,New Village Press,2026,"[""carlee gusikowski"", ""cathrine baumbach vm"", ""demarcus feeney"", ""laree mayer"", ""rev katina pagac"", ""tristan gerlach""]","[""Carlee Gusikowski"", ""Cathrine Baumbach VM"", ""Demarcus Feeney"", ""Laree Mayer"", ""Rev. Katina Pagac"", ""Tristan Gerlach""]","Carlee Gusikowski, Cathrine Baumbach VM, Demarcus Feeney, Laree Mayer, Rev. Katina Pagac, Tristan Gerlach"
+21743,Civilization V,Cristen Berge JD,Reference book,FabJob,2000,"[""cristen berge jd""]","[""Cristen Berge JD""]",Cristen Berge JD
+21920,Can't Slow Down,"Suellen Swaniawski PhD, Jerold Runolfsson JD",Fiction narrative,Hackett Publishing Company,1844,"[""jerold runolfsson jd"", ""suellen swaniawski phd""]","[""Jerold Runolfsson JD"", ""Suellen Swaniawski PhD""]","Jerold Runolfsson JD, Suellen Swaniawski PhD"
+22085,"If Not Now, When?",Mr. Omer Heidenreich,Fairy tale,NavPress,2020,"[""mr omer heidenreich""]","[""Mr. Omer Heidenreich""]",Mr. Omer Heidenreich
+21830,Of Human Bondage,Bart Cassin,Reference book,Bellevue Literary Press,1987,"[""bart cassin""]","[""Bart Cassin""]",Bart Cassin
+21795,Banjo-Kazooie: Nuts & Bolts,Kyle Green Jr.,Suspense/Thriller,Ten Speed Press,1982,"[""kyle green jr""]","[""Kyle Green Jr.""]",Kyle Green Jr.
+21788,The Lord of the Rings: The Fellowship of the Ring,Gayle Johnson,Short story,Blue Ribbon Books,1999,"[""gayle johnson""]","[""Gayle Johnson""]",Gayle Johnson
+22101,Blood's a Rover,Arianne Fritsch MD,Crime/Detective,Bantam Spectra,2006,"[""arianne fritsch md""]","[""Arianne Fritsch MD""]",Arianne Fritsch MD
+22180,Dishonored,"Justina Ritchie, Odelia Greenholt III",Mystery,Haynes Manuals,2018,"[""justina ritchie"", ""odelia greenholt iii""]","[""Justina Ritchie"", ""Odelia Greenholt III""]","Justina Ritchie, Odelia Greenholt III"
+21838,Led Zeppelin IV,Karl Wolf,Legend,Gaspereau Press,2011,"[""karl wolf""]","[""Karl Wolf""]",Karl Wolf
+22378,Donnie Darko,Ms. Sol Friesen,Crime/Detective,New Village Press,2005,"[""ms sol friesen""]","[""Ms. Sol Friesen""]",Ms. Sol Friesen
+21958,The Monkey's Raincoat,"Dianne Moen Jr., Thersa Marvin, Adena MacGyver",Fiction in verse,Pavilion Books,1995,"[""adena macgyver"", ""dianne moen jr"", ""thersa marvin""]","[""Adena MacGyver"", ""Dianne Moen Jr."", ""Thersa Marvin""]","Adena MacGyver, Dianne Moen Jr., Thersa Marvin"
+21872,Half-Life 2: Episode One,Karlyn Mills,Folklore,Firebrand Books,2015,"[""karlyn mills""]","[""Karlyn Mills""]",Karlyn Mills
+21766,Modern Times,Santo Purdy Jr.,Reference book,Libertas Academica,2014,"[""santo purdy jr""]","[""Santo Purdy Jr.""]",Santo Purdy Jr.
+21835,Finding Nemo,"Emil Rempel, Heriberto Kutch, Merle Rice",Folklore,Emerald Group Publishing,,"[""emil rempel"", ""heriberto kutch"", ""merle rice""]","[""Emil Rempel"", ""Heriberto Kutch"", ""Merle Rice""]","Emil Rempel, Heriberto Kutch, Merle Rice"
+22128,Judgment at Nuremberg,Drema Little,Tall tale,Kogan Page,2011,"[""drema little""]","[""Drema Little""]",Drema Little
+22423,Rocky,Young Jast CPA,Mystery,Boydell & Brewer,1902,"[""young jast cpa""]","[""Young Jast CPA""]",Young Jast CPA
+22224,After Many a Summer Dies the Swan,Jacquelyn Wintheiser,Fairy tale,Karadi Tales,1997,"[""jacquelyn wintheiser""]","[""Jacquelyn Wintheiser""]",Jacquelyn Wintheiser
+22441,Portal,Yong Lehner,Textbook,Pan Books,2009,"[""yong lehner""]","[""Yong Lehner""]",Yong Lehner
+21873,Mr. Smith Goes to Washington,Mrs. Maye Collier,Narrative nonfiction,Blackie and Son Limited,1995,"[""mrs maye collier""]","[""Mrs. Maye Collier""]",Mrs. Maye Collier
+22111,Pokémon Black 2,Amb. Maudie Connelly,Short story,Papadakis Publisher,1998,"[""amb maudie connelly""]","[""Amb. Maudie Connelly""]",Amb. Maudie Connelly
+22014,Oh! To be in England,Jacques Rau,Narrative nonfiction,Butterworth-Heinemann,2021,"[""jacques rau""]","[""Jacques Rau""]",Jacques Rau
+22432,Star Wars: Episode IV – A New Hope,Elmer Cronin,Historical fiction,Hachette Book Group USA,1986,"[""elmer cronin""]","[""Elmer Cronin""]",Elmer Cronin
+22065,Firewatch,"Virgilio Wisoky, Howard Skiles",Short story,McClelland and Stewart,1959,"[""howard skiles"", ""virgilio wisoky""]","[""Howard Skiles"", ""Virgilio Wisoky""]","Howard Skiles, Virgilio Wisoky"
+21681,The Needle's Eye,Isa Williamson,Science fiction,Holland Park Press,1975,"[""isa williamson""]","[""Isa Williamson""]",Isa Williamson
+22241,Star Wars: Episode IX – The Rise of Skywalker,Foster Cassin,Horror,Cengage Learning,1978,"[""foster cassin""]","[""Foster Cassin""]",Foster Cassin
+21718,Unforgiven,Christopher Green,Speech,Orion Books,1994,"[""christopher green""]","[""Christopher Green""]",Christopher Green
+21768,A Glass of Blessings,Ethel Morar,Comic/Graphic Novel,HarperPrism,1990,"[""ethel morar""]","[""Ethel Morar""]",Ethel Morar
+22244,Many Waters,"Rev. Katina Pagac, Tristan Gerlach, Santo Purdy Jr., Laree Mayer",Reference book,Hawthorne Books,1987,"[""laree mayer"", ""rev katina pagac"", ""santo purdy jr"", ""tristan gerlach""]","[""Laree Mayer"", ""Rev. Katina Pagac"", ""Santo Purdy Jr."", ""Tristan Gerlach""]","Laree Mayer, Rev. Katina Pagac, Santo Purdy Jr., Tristan Gerlach"
+22408,Call of Duty: World at War,Morris Kessler V,Realistic fiction,Mapin Publishing,2017,"[""morris kessler v""]","[""Morris Kessler V""]",Morris Kessler V
+21749,The Line of Beauty,Joseph Green DO,Tall tale,Random House,2024,"[""joseph green do""]","[""Joseph Green DO""]",Joseph Green DO
+22048,It Happened One Night,"Claudio Rippin, Lindy Schaden, Alvin Kautzer",Mystery,McFarland & Company,1999,"[""alvin kautzer"", ""claudio rippin"", ""lindy schaden""]","[""Alvin Kautzer"", ""Claudio Rippin"", ""Lindy Schaden""]","Alvin Kautzer, Claudio Rippin, Lindy Schaden"
+22012,Vanity Fair,Alan Cormier,Western,Earthscan,2002,"[""alan cormier""]","[""Alan Cormier""]",Alan Cormier
+22416,12 Years a Slave,Ms. Sol Friesen,Comic/Graphic Novel,University of Michigan Press,1975,"[""ms sol friesen""]","[""Ms. Sol Friesen""]",Ms. Sol Friesen
+22089,Yoshi's Wooly World,"Latoria Nitzsche, Fran Shields",Mystery,Pan Books,2000,"[""fran shields"", ""latoria nitzsche""]","[""Fran Shields"", ""Latoria Nitzsche""]","Fran Shields, Latoria Nitzsche"
+22146,Abbey Road,Gil Runolfsdottir,Fanfiction,,1981,"[""gil runolfsdottir""]","[""Gil Runolfsdottir""]",Gil Runolfsdottir
+22174,Nectar in a Sieve,Paul Yundt,Tall tale,Mandrake Press,2012,"[""paul yundt""]","[""Paul Yundt""]",Paul Yundt
+22334,The Woman in Me,Lisbeth Homenick,Humor,Jaico Publishing House,1979,"[""lisbeth homenick""]","[""Lisbeth Homenick""]",Lisbeth Homenick
+22266,Castle Crashers,Lisbeth Homenick,Humor,Hackett Publishing Company,1979,"[""lisbeth homenick""]","[""Lisbeth Homenick""]",Lisbeth Homenick
+22367,Diablo,"Fr. Ward Greenfelder, Brendon Mante, Verna Dooley",Suspense/Thriller,Dalkey Archive Press,2025,"[""brendon mante"", ""fr ward greenfelder"", ""verna dooley""]","[""Brendon Mante"", ""Fr. Ward Greenfelder"", ""Verna Dooley""]","Brendon Mante, Fr. Ward Greenfelder, Verna Dooley"
+22339,Unweaving the Rainbow,Bobby Brakus,Short story,Belknap Press,1970,"[""bobby brakus""]","[""Bobby Brakus""]",Bobby Brakus
+22036,Left 4 Dead,Kacy Kemmer,Biography/Autobiography,Chronicle Books,2024,"[""kacy kemmer""]","[""Kacy Kemmer""]",Kacy Kemmer
+22285,F-Zero,"Marshall Hauck, Mr. Stephine Monahan, Hong Cassin IV",Crime/Detective,Fearless Books,1984,"[""hong cassin iv"", ""marshall hauck"", ""mr stephine monahan""]","[""Hong Cassin IV"", ""Marshall Hauck"", ""Mr. Stephine Monahan""]","Hong Cassin IV, Marshall Hauck, Mr. Stephine Monahan"
+22410,Let's Talk About Love,Morris Kessler V,Fiction in verse,Allen Ltd,2024,"[""morris kessler v""]","[""Morris Kessler V""]",Morris Kessler V
+21931,Come Away with Me,Bart Cassin,Classic,Bellevue Literary Press,2010,"[""bart cassin""]","[""Bart Cassin""]",Bart Cassin
+21694,From Here to Eternity,Ms. Sol Friesen,Fantasy,Pavilion Books,-,"[""ms sol friesen""]","[""Ms. Sol Friesen""]",Ms. Sol Friesen
+22350,Jaws,"Dale Ebert, Tennie Mante",Fiction in verse,HarperCollins,2003,"[""dale ebert"", ""tennie mante""]","[""Dale Ebert"", ""Tennie Mante""]","Dale Ebert, Tennie Mante"
+22002,Desperados 2: Cooper's Revenge,Delmar Heaney CPA,Fairy tale,University of Chicago Press,2007,"[""delmar heaney cpa""]","[""Delmar Heaney CPA""]",Delmar Heaney CPA
+22253,That Hideous Strength,Tennie Mante,Horror,Gefen Publishing House,2018,"[""tennie mante""]","[""Tennie Mante""]",Tennie Mante
+22077,The Treasure of the Sierra Madre,"Jerold Runolfsson JD, Suellen Swaniawski PhD",Legend,New Directions Publishing,2001,"[""jerold runolfsson jd"", ""suellen swaniawski phd""]","[""Jerold Runolfsson JD"", ""Suellen Swaniawski PhD""]","Jerold Runolfsson JD, Suellen Swaniawski PhD"
+22062,I Will Fear No Evil,"Gov. Bradly McCullough, Barbera Pfannerstill, Terence Kuhn",Fairy tale,Peace Hill Press,1998,"[""barbera pfannerstill"", ""gov bradly mccullough"", ""terence kuhn""]","[""Barbera Pfannerstill"", ""Gov. Bradly McCullough"", ""Terence Kuhn""]","Barbera Pfannerstill, Gov. Bradly McCullough, Terence Kuhn"
+22031,Carrion Comfort,"Shaina Wehner, Elida Muller DDS",Realistic fiction,Carcanet Press,1989,"[""elida muller dds"", ""shaina wehner""]","[""Elida Muller DDS"", ""Shaina Wehner""]","Elida Muller DDS, Shaina Wehner"
+22193,The Daffodil Sky,Foster Cassin,Realistic fiction,Kensington Books,2013,"[""foster cassin""]","[""Foster Cassin""]",Foster Cassin
+22023,When the Green Woods Laugh,Roy Gleichner,Fairy tale,Carlton Publishing Group,2019,"[""roy gleichner""]","[""Roy Gleichner""]",Roy Gleichner
+22144,Pokémon Yellow,Wendi Cartwright,Fantasy,Charles Scribner's Sons,1981,"[""wendi cartwright""]","[""Wendi Cartwright""]",Wendi Cartwright
+22374,The Prestige,"Roy Gleichner, Omer Paucek VM",Fanfiction,Bloomsbury Publishing Plc,1988,"[""omer paucek vm"", ""roy gleichner""]","[""Omer Paucek VM"", ""Roy Gleichner""]","Omer Paucek VM, Roy Gleichner"
+22331,Lemonade,Alan Cormier,Mystery,Ten Speed Press,1896,"[""alan cormier""]","[""Alan Cormier""]",Alan Cormier
+22037,Call of Duty: Modern Warfare Remastered,"Jules Grady, Viva Wyman Jr.",Fantasy,McFarland & Company,1988,"[""jules grady"", ""viva wyman jr""]","[""Jules Grady"", ""Viva Wyman Jr.""]","Jules Grady, Viva Wyman Jr."
+21770,Double Indemnity,"Dr. Latanya Homenick, Goldie Cartwright",Mythology,Open University Press,1997,"[""dr latanya homenick"", ""goldie cartwright""]","[""Dr. Latanya Homenick"", ""Goldie Cartwright""]","Dr. Latanya Homenick, Goldie Cartwright"
+22186,Whitney Houston,Micheal Runte,Fiction in verse,Leaf Books,1988,"[""micheal runte""]","[""Micheal Runte""]",Micheal Runte
+22335,Inside Out,Pat Lueilwitz,Western,,2005,"[""pat lueilwitz""]","[""Pat Lueilwitz""]",Pat Lueilwitz
+21740,Psycho,"Merle Rice, Heriberto Kutch, Emil Rempel",Legend,Black Sparrow Books,1992,"[""emil rempel"", ""heriberto kutch"", ""merle rice""]","[""Emil Rempel"", ""Heriberto Kutch"", ""Merle Rice""]","Emil Rempel, Heriberto Kutch, Merle Rice"
+22287,Postern of Fate,"Juli Bailey, Darron Orn",Western,Paulist Press,2021,"[""darron orn"", ""juli bailey""]","[""Darron Orn"", ""Juli Bailey""]","Darron Orn, Juli Bailey"
+22165,Riot!,Elmer Cronin,Fable,Carlton Publishing Group,1991,"[""elmer cronin""]","[""Elmer Cronin""]",Elmer Cronin
+21885,Of Mice and Men,"Tai Boyer, Barbera Pfannerstill, Terence Kuhn, Tiffany Wisoky, Gov. Bradly McCullough, Salvador Osinski",Humor,Breslov Research Institute,1822,"[""barbera pfannerstill"", ""gov bradly mccullough"", ""salvador osinski"", ""tai boyer"", ""terence kuhn"", ""tiffany wisoky""]","[""Barbera Pfannerstill"", ""Gov. Bradly McCullough"", ""Salvador Osinski"", ""Tai Boyer"", ""Terence Kuhn"", ""Tiffany Wisoky""]","Barbera Pfannerstill, Gov. Bradly McCullough, Salvador Osinski, Tai Boyer, Terence Kuhn, Tiffany Wisoky"
+22291,The Moving Finger,Felicia Moen,Mystery,Koren Publishers Jerusalem,2003,"[""felicia moen""]","[""Felicia Moen""]",Felicia Moen
+21716,A Farewell to Arms,Ms. Sol Friesen,Fanfiction,Kensington Books,1850,"[""ms sol friesen""]","[""Ms. Sol Friesen""]",Ms. Sol Friesen
+22155,X&Y,"Joaquin Romaguera, Garland Schaefer DDS, Marcellus Rolfson, Maud Swift",Fantasy,Andrews McMeel Publishing,1981,"[""garland schaefer dds"", ""joaquin romaguera"", ""marcellus rolfson"", ""maud swift""]","[""Garland Schaefer DDS"", ""Joaquin Romaguera"", ""Marcellus Rolfson"", ""Maud Swift""]","Garland Schaefer DDS, Joaquin Romaguera, Marcellus Rolfson, Maud Swift"
+22087,The Best Years of Our Lives,"Adena MacGyver, Thersa Marvin",Narrative nonfiction,Vintage Books at Random House,1989,"[""adena macgyver"", ""thersa marvin""]","[""Adena MacGyver"", ""Thersa Marvin""]","Adena MacGyver, Thersa Marvin"
+21962,Catch Me If You Can,Colene Von,Narrative nonfiction,Charles Scribner's Sons,1981,"[""colene von""]","[""Colene Von""]",Colene Von
+22349,The Maltese Falcon,Marylynn Morissette,Comic/Graphic Novel,Basic Books,2024,"[""marylynn morissette""]","[""Marylynn Morissette""]",Marylynn Morissette
+22004,Pokémon Platinum,"Caitlin Ward, Noel Daugherty",Fiction in verse,"Farrar, Straus & Giroux",2017,"[""caitlin ward"", ""noel daugherty""]","[""Caitlin Ward"", ""Noel Daugherty""]","Caitlin Ward, Noel Daugherty"
+21974,Tracy Chapman,Lacy Cruickshank Ret.,Narrative nonfiction,Hodder Headline,1895,"[""lacy cruickshank ret""]","[""Lacy Cruickshank Ret.""]",Lacy Cruickshank Ret.
+22041,Mary and Max,"Latrina Fahey MD, Felicia Moen",Horror,Ian Allan Publishing,1998,"[""felicia moen"", ""latrina fahey md""]","[""Felicia Moen"", ""Latrina Fahey MD""]","Felicia Moen, Latrina Fahey MD"
+22176,A Darkling Plain,Kelvin Mueller,Fairy tale,André Deutsch,2016,"[""kelvin mueller""]","[""Kelvin Mueller""]",Kelvin Mueller
+21764,A Wednesday,The Hon. Carma Swaniawski,Folklore,Target Books,2014,"[""the hon carma swaniawski""]","[""The Hon. Carma Swaniawski""]",The Hon. Carma Swaniawski
+22046,LittleBigPlanet,Jacques Rau,Suspense/Thriller,Legend Books,1989,"[""jacques rau""]","[""Jacques Rau""]",Jacques Rau
+21702,Spirited Away,Lisbeth Homenick,Metafiction,Bellevue Literary Press,2008,"[""lisbeth homenick""]","[""Lisbeth Homenick""]",Lisbeth Homenick
+22215,Metroid Prime 2: Echoes,Wiley Rosenbaum,Legend,Marshall Pickering,,"[""wiley rosenbaum""]","[""Wiley Rosenbaum""]",Wiley Rosenbaum
+22164,The Line of Beauty,Joseph Green DO,Tall tale,Cambridge University Press,2013,"[""joseph green do""]","[""Joseph Green DO""]",Joseph Green DO
+21922,Mario Kart DS,Marya Zulauf,Mythology,Felony & Mayhem Press,1981,"[""marya zulauf""]","[""Marya Zulauf""]",Marya Zulauf
+21778,The Little Foxes,Marylynn Morissette,Metafiction,Del Rey Books,1949,"[""marylynn morissette""]","[""Marylynn Morissette""]",Marylynn Morissette
+21733,The Wings of the Dove,Brittni O'Kon JD,Comic/Graphic Novel,David & Charles,1991,"[""brittni o kon jd""]","[""Brittni O'Kon JD""]",Brittni O'Kon JD
+22257,Pokémon Diamond,Mamie MacGyver DC,Humor,Berg Publishers,2009,"[""mamie macgyver dc""]","[""Mamie MacGyver DC""]",Mamie MacGyver DC
+21998,Hands All Over,Maryellen Klein,Metafiction,Pan Books,2001,"[""maryellen klein""]","[""Maryellen Klein""]",Maryellen Klein
+21890,Dirty Dancing,Chan Hilpert Sr.,Realistic fiction,Black Dog Publishing,1999,"[""chan hilpert sr""]","[""Chan Hilpert Sr.""]",Chan Hilpert Sr.
+21996,The Joshua Tree,"Minh Leuschke, Alphonse Wisozk, Alonso Pagac",Comic/Graphic Novel,Lethe Press,1993,"[""alonso pagac"", ""alphonse wisozk"", ""minh leuschke""]","[""Alonso Pagac"", ""Alphonse Wisozk"", ""Minh Leuschke""]","Alonso Pagac, Alphonse Wisozk, Minh Leuschke"
+21897,Pokémon LeafGreen,Vannesa Bailey,Folklore,Seagull Books,1985,"[""vannesa bailey""]","[""Vannesa Bailey""]",Vannesa Bailey
+21824,Once Upon a Time in the West,"Vicki Balistreri, Zina Prohaska II",Tall tale,Cambridge University Press,1990,"[""vicki balistreri"", ""zina prohaska ii""]","[""Vicki Balistreri"", ""Zina Prohaska II""]","Vicki Balistreri, Zina Prohaska II"
+22400,Star Wars: Episode III – Revenge of the Sith,"Mrs. Marlon Kris, Tai Boyer, Tiffany Wisoky, Salvador Osinski",Historical fiction,Sidgwick & Jackson,1995,"[""mrs marlon kris"", ""salvador osinski"", ""tai boyer"", ""tiffany wisoky""]","[""Mrs. Marlon Kris"", ""Salvador Osinski"", ""Tai Boyer"", ""Tiffany Wisoky""]","Mrs. Marlon Kris, Salvador Osinski, Tai Boyer, Tiffany Wisoky"
+22240,Brandy of the Damned,"Nieves Schulist, Shasta Mohr Sr.",Historical fiction,Haynes Manuals,1977,"[""nieves schulist"", ""shasta mohr sr""]","[""Nieves Schulist"", ""Shasta Mohr Sr.""]","Nieves Schulist, Shasta Mohr Sr."
+22195,Fight Club,Aretha Lueilwitz,Fairy tale,Apress,1941,"[""aretha lueilwitz""]","[""Aretha Lueilwitz""]",Aretha Lueilwitz
+22103,The Legend of Zelda: Breath of the Wild,"Latrina Fahey MD, Felicia Moen",Comic/Graphic Novel,O'Reilly Media,2023,"[""felicia moen"", ""latrina fahey md""]","[""Felicia Moen"", ""Latrina Fahey MD""]","Felicia Moen, Latrina Fahey MD"
+22366,Command & Conquer: Red Alert 2 - Yuris Revenge,Deshawn Cassin V,Essay,HarperTrophy,1997,"[""deshawn cassin v""]","[""Deshawn Cassin V""]",Deshawn Cassin V
+21807,Hotel Rwanda,Ms. Jack Kuvalis,Crime/Detective,Gaspereau Press,2020,"[""ms jack kuvalis""]","[""Ms. Jack Kuvalis""]",Ms. Jack Kuvalis
+21799,Civilization III,"Mana Gleichner, Sen. Althea Rogahn",Historical fiction,Mandrake of Oxford,1985,"[""mana gleichner"", ""sen althea rogahn""]","[""Mana Gleichner"", ""Sen. Althea Rogahn""]","Mana Gleichner, Sen. Althea Rogahn"
+22061,Firewatch,"Virgilio Wisoky, Howard Skiles",Short story,Reed Elsevier,1958,"[""howard skiles"", ""virgilio wisoky""]","[""Howard Skiles"", ""Virgilio Wisoky""]","Howard Skiles, Virgilio Wisoky"
+22293,Quake,Gil Bradtke,Biography/Autobiography,Brill,1990,"[""gil bradtke""]","[""Gil Bradtke""]",Gil Bradtke
+22191,Die Hard,Cornelius Cronin,Metafiction,D. Appleton & Company,2006,"[""cornelius cronin""]","[""Cornelius Cronin""]",Cornelius Cronin
+22431,Everything is Illuminated,"Thersa Marvin, Adena MacGyver",Comic/Graphic Novel,Parachute Publishing,1986,"[""adena macgyver"", ""thersa marvin""]","[""Adena MacGyver"", ""Thersa Marvin""]","Adena MacGyver, Thersa Marvin"
+22034,Commandos: Behind Enemy Lines,Rusty Batz,Short story,Parachute Publishing,1976,"[""rusty batz""]","[""Rusty Batz""]",Rusty Batz
+21933,The Heart Is Deceitful Above All Things,Prof. Catherin Ward,Folklore,FabJob,1976,"[""prof catherin ward""]","[""Prof. Catherin Ward""]",Prof. Catherin Ward
+22220,Super Mario Bros. 2,Edyth McCullough,Classic,D. Appleton & Company,2006,"[""edyth mccullough""]","[""Edyth McCullough""]",Edyth McCullough
+21804,Batman: Arkham Asylum,Kaycee Quigley MD,Mythopoeia,City Lights Publishers,2022,"[""kaycee quigley md""]","[""Kaycee Quigley MD""]",Kaycee Quigley MD
+22279,Starcraft II,Drema Little,Essay,Manning Publications,1959,"[""drema little""]","[""Drema Little""]",Drema Little
+22326,Counter-Strike,Darron Sporer,Mythology,Darakwon Press,1990,"[""darron sporer""]","[""Darron Sporer""]",Darron Sporer
+22090,The Last of Us,Vicki Balistreri,Historical fiction,Marshall Cavendish,1979,"[""vicki balistreri""]","[""Vicki Balistreri""]",Vicki Balistreri
+21862,Millennium,Amb. Maudie Connelly,Crime/Detective,Berg Publishers,2020,"[""amb maudie connelly""]","[""Amb. Maudie Connelly""]",Amb. Maudie Connelly
+21924,Dangerous,Mrs. Ben Brekke,Narrative nonfiction,Sams Publishing,2012,"[""mrs ben brekke""]","[""Mrs. Ben Brekke""]",Mrs. Ben Brekke
+21692,Heat,Blake Turcotte,Folklore,No Starch Press,1991,"[""blake turcotte""]","[""Blake Turcotte""]",Blake Turcotte
+21709,Full Metal Jacket,"Heriberto Kutch, Merle Rice, Emil Rempel",Crime/Detective,Taylor & Francis,2023,"[""emil rempel"", ""heriberto kutch"", ""merle rice""]","[""Emil Rempel"", ""Heriberto Kutch"", ""Merle Rice""]","Emil Rempel, Heriberto Kutch, Merle Rice"
+21859,The Help,Valencia Dooley,Fiction narrative,Kogan Page,2018,"[""valencia dooley""]","[""Valencia Dooley""]",Valencia Dooley
+22445,Doom 3: BFG,Tim Barrows,Western,Velazquez Press,2013,"[""tim barrows""]","[""Tim Barrows""]",Tim Barrows
+22394,Groundhog Day,Burl Schulist,Science fiction,Academic Press,2005,"[""burl schulist""]","[""Burl Schulist""]",Burl Schulist
+22140,Beauty and the Beast,Domingo Rice V,Classic,Scholastic Press,1990,"[""domingo rice v""]","[""Domingo Rice V""]",Domingo Rice V
+21849,Mario Kart 8 Deluxe,"Juli Bailey, Marcel Blanda, Darron Orn",Speech,Seagull Books,2002,"[""darron orn"", ""juli bailey"", ""marcel blanda""]","[""Darron Orn"", ""Juli Bailey"", ""Marcel Blanda""]","Darron Orn, Juli Bailey, Marcel Blanda"
+21938,Boston,Jules Grady,Speech,Shoemaker & Hoard Publishers,2005,"[""jules grady""]","[""Jules Grady""]",Jules Grady
+21785,Memento,Mrs. Marlena Hahn,Tall tale,University of Alaska Press,2003,"[""mrs marlena hahn""]","[""Mrs. Marlena Hahn""]",Mrs. Marlena Hahn
+21869,Call of Duty: Black Ops 4,"Alvin Kautzer, Claudio Rippin, Lindy Schaden",Realistic fiction,Virgin Publishing,1989,"[""alvin kautzer"", ""claudio rippin"", ""lindy schaden""]","[""Alvin Kautzer"", ""Claudio Rippin"", ""Lindy Schaden""]","Alvin Kautzer, Claudio Rippin, Lindy Schaden"
+21995,Kid Icarus,Myong Connelly,Realistic fiction,Mainstream Publishing,1830,"[""myong connelly""]","[""Myong Connelly""]",Myong Connelly
+22377,Bury My Heart at Wounded Knee,Johna Krajcik,Fanfiction,University of California Press,,"[""johna krajcik""]","[""Johna Krajcik""]",Johna Krajcik
+21703,Halo 3,Kyle Green Jr.,Fable,Tate Publishing & Enterprises,1992,"[""kyle green jr""]","[""Kyle Green Jr.""]",Kyle Green Jr.
+22316,Civilization IV,"Marshall Schiller, Rayford Hyatt, Louella Schultz, Daysi Huel",Historical fiction,Legend Books,1902,"[""daysi huel"", ""louella schultz"", ""marshall schiller"", ""rayford hyatt""]","[""Daysi Huel"", ""Louella Schultz"", ""Marshall Schiller"", ""Rayford Hyatt""]","Daysi Huel, Louella Schultz, Marshall Schiller, Rayford Hyatt"
+22153,I Sing the Body Electric,Ms. Janett Wilderman,Metafiction,St. Martin's Press,1899,"[""ms janett wilderman""]","[""Ms. Janett Wilderman""]",Ms. Janett Wilderman
+21717,Full Metal Jacket,"Heriberto Kutch, Merle Rice, Emil Rempel",Crime/Detective,Berkley Books,2015,"[""emil rempel"", ""heriberto kutch"", ""merle rice""]","[""Emil Rempel"", ""Heriberto Kutch"", ""Merle Rice""]","Emil Rempel, Heriberto Kutch, Merle Rice"
+22383,There Will Be Blood,Keisha Koelpin DC,Tall tale,Shoemaker & Hoard Publishers,2010,"[""keisha koelpin dc""]","[""Keisha Koelpin DC""]",Keisha Koelpin DC
+22066,Ego Dominus Tuus,"Loyd Hettinger, Louella Schultz",Crime/Detective,Atlantic Books,1995,"[""louella schultz"", ""loyd hettinger""]","[""Louella Schultz"", ""Loyd Hettinger""]","Louella Schultz, Loyd Hettinger"
+22424,Nectar in a Sieve,Paul Yundt,Tall tale,Manchester University Press,1990,"[""paul yundt""]","[""Paul Yundt""]",Paul Yundt
+21947,The Widening Gyre,"Viva Wyman Jr., Prof. Nathanael Cronin",Folklore,Jaico Publishing House,,"[""prof nathanael cronin"", ""viva wyman jr""]","[""Prof. Nathanael Cronin"", ""Viva Wyman Jr.""]","Prof. Nathanael Cronin, Viva Wyman Jr."
+22353,Star Wars: Episode VII - The Force Awakens,Hong Kuphal,Classic,Airiti Press,1989,"[""hong kuphal""]","[""Hong Kuphal""]",Hong Kuphal
+21748,Half-Life: Blue Shift,"Latoria Nitzsche, Fran Shields",Mystery,New Directions Publishing,2012,"[""fran shields"", ""latoria nitzsche""]","[""Fran Shields"", ""Latoria Nitzsche""]","Fran Shields, Latoria Nitzsche"
+21728,Fear and Trembling,Cary Erdman,Tall tale,André Deutsch,1980,"[""cary erdman""]","[""Cary Erdman""]",Cary Erdman
+21680,Bastion,Deonna McCullough,Western,Blackie and Son Limited,2011,"[""deonna mccullough""]","[""Deonna McCullough""]",Deonna McCullough
+21909,To Your Scattered Bodies Go,Dexter Jacobi,Mythology,Tarpaulin Sky Press,1984,"[""dexter jacobi""]","[""Dexter Jacobi""]",Dexter Jacobi
+22341,Gold: Greatest Hits,Grant Treutel,Comic/Graphic Novel,Newnes,1981,"[""grant treutel""]","[""Grant Treutel""]",Grant Treutel
+21765,Born in the U.S.A.,Wendi Balistreri,Fiction in verse,Marshall Cavendish,2001,"[""wendi balistreri""]","[""Wendi Balistreri""]",Wendi Balistreri
+21836,Time of our Darkness,Myong Connelly,Fantasy,Flame Tree Publishing,2003,"[""myong connelly""]","[""Myong Connelly""]",Myong Connelly
+22340,Kirby's Dream Land,Bernie Wintheiser,Essay,McGraw-Hill Education,1989,"[""bernie wintheiser""]","[""Bernie Wintheiser""]",Bernie Wintheiser
+22297,Goodfellas,Kylie Gerlach,Fable,United States Government Publishing Office,2015,"[""kylie gerlach""]","[""Kylie Gerlach""]",Kylie Gerlach
+21744,The Curious Incident of the Dog in the Night-Time,Miss Terrance Wolff,Fantasy,Adis International,1989,"[""miss terrance wolff""]","[""Miss Terrance Wolff""]",Miss Terrance Wolff
+22055,All Passion Spent,Refugio Rodriguez Esq.,Science fiction,Penguin Books,2000,"[""refugio rodriguez esq""]","[""Refugio Rodriguez Esq.""]",Refugio Rodriguez Esq.
+21939,Pokémon Moon,Santo Purdy Jr.,Speech,E. P. Dutton,1894,"[""santo purdy jr""]","[""Santo Purdy Jr.""]",Santo Purdy Jr.
+22418,Pokémon Sword,"Shanelle Bartoletti, Humberto Ferry JD",Tall tale,Salt Publishing,2025,"[""humberto ferry jd"", ""shanelle bartoletti""]","[""Humberto Ferry JD"", ""Shanelle Bartoletti""]","Humberto Ferry JD, Shanelle Bartoletti"
+22405,The Immaculate Collection,Chan Hilpert Sr.,Fiction in verse,Mapin Publishing,1991,"[""chan hilpert sr""]","[""Chan Hilpert Sr.""]",Chan Hilpert Sr.
+22083,An Acceptable Time,Jamie Schaden,Classic,Applewood Books,1972,"[""jamie schaden""]","[""Jamie Schaden""]",Jamie Schaden
+21695,The Witcher 2: Assassins of Kings,"Terisa Christiansen DDS, Leandro Turcotte Jr., Rudolph Schneider",Fiction narrative,Bellevue Literary Press,2005,"[""leandro turcotte jr"", ""rudolph schneider"", ""terisa christiansen dds""]","[""Leandro Turcotte Jr."", ""Rudolph Schneider"", ""Terisa Christiansen DDS""]","Leandro Turcotte Jr., Rudolph Schneider, Terisa Christiansen DDS"
+22310,Eyeless in Gaza,Casie Bechtelar,Suspense/Thriller,Schocken Books,2006,"[""casie bechtelar""]","[""Casie Bechtelar""]",Casie Bechtelar
+22446,V for Vendetta,Forrest Vandervort,Historical fiction,Charles Scribner's Sons,2021,"[""forrest vandervort""]","[""Forrest Vandervort""]",Forrest Vandervort
+21763,Moab Is My Washpot,Mrs. Vickey Boehm,Suspense/Thriller,Salt Publishing,1891,"[""mrs vickey boehm""]","[""Mrs. Vickey Boehm""]",Mrs. Vickey Boehm
+21712,A Time of Gifts,Micah Von,Metafiction,Virgin Publishing,1983,"[""micah von""]","[""Micah Von""]",Micah Von
+21973,Commandos: Strike Force,"Jerold Runolfsson JD, Suellen Swaniawski PhD",Metafiction,Bantam Spectra,1970,"[""jerold runolfsson jd"", ""suellen swaniawski phd""]","[""Jerold Runolfsson JD"", ""Suellen Swaniawski PhD""]","Jerold Runolfsson JD, Suellen Swaniawski PhD"
+21967,Where Angels Fear to Tread,"Eddie Effertz, Virginia Goyette",Fiction in verse,Newnes,2008,"[""eddie effertz"", ""virginia goyette""]","[""Eddie Effertz"", ""Virginia Goyette""]","Eddie Effertz, Virginia Goyette"
+22319,Fame Is the Spur,Jules Grady,Short story,University of Akron Press,1991,"[""jules grady""]","[""Jules Grady""]",Jules Grady
+22053,The Moon by Night,"Barbera Pfannerstill, Salvador Osinski, Gov. Bradly McCullough, Tai Boyer, Terence Kuhn, Tiffany Wisoky",Suspense/Thriller,Breslov Research Institute,1859,"[""barbera pfannerstill"", ""gov bradly mccullough"", ""salvador osinski"", ""tai boyer"", ""terence kuhn"", ""tiffany wisoky""]","[""Barbera Pfannerstill"", ""Gov. Bradly McCullough"", ""Salvador Osinski"", ""Tai Boyer"", ""Terence Kuhn"", ""Tiffany Wisoky""]","Barbera Pfannerstill, Gov. Bradly McCullough, Salvador Osinski, Tai Boyer, Terence Kuhn, Tiffany Wisoky"
+22399,Team Fortress 2,Tijuana Lemke,Western,Book League of America,1988,"[""tijuana lemke""]","[""Tijuana Lemke""]",Tijuana Lemke
+21790,Halo 4,Paul Yundt,Short story,Brill,1986,"[""paul yundt""]","[""Paul Yundt""]",Paul Yundt
+21842,The Doors of Perception,Cori Koepp,Legend,Golden Cockerel Press,1999,"[""cori koepp""]","[""Cori Koepp""]",Cori Koepp
+21772,The Lord of the Rings: The Two Towers,Camila Kunze,Western,Ziff Davis Media,1980,"[""camila kunze""]","[""Camila Kunze""]",Camila Kunze
+22275,The House of Mirth,"Felisha Kshlerin Sr., Rev. Maximo Torphy, Miss Dustin Gleichner, Rev. Timothy O'Kon",Fiction in verse,"Farrar, Straus & Giroux",2015,"[""felisha kshlerin sr"", ""miss dustin gleichner"", ""rev maximo torphy"", ""rev timothy o kon""]","[""Felisha Kshlerin Sr."", ""Miss Dustin Gleichner"", ""Rev. Maximo Torphy"", ""Rev. Timothy O'Kon""]","Felisha Kshlerin Sr., Miss Dustin Gleichner, Rev. Maximo Torphy, Rev. Timothy O'Kon"
+21994,The Kid,Richie Dickens,Fanfiction,Hachette Book Group USA,1990,"[""richie dickens""]","[""Richie Dickens""]",Richie Dickens
+22228,Bicycle Thieves,"Tiffany Wisoky, Salvador Osinski, Tai Boyer, Mrs. Marlon Kris",Biography/Autobiography,University of Chicago Press,2006,"[""mrs marlon kris"", ""salvador osinski"", ""tai boyer"", ""tiffany wisoky""]","[""Mrs. Marlon Kris"", ""Salvador Osinski"", ""Tai Boyer"", ""Tiffany Wisoky""]","Mrs. Marlon Kris, Salvador Osinski, Tai Boyer, Tiffany Wisoky"
+21895,Dunkirk,Christopher Green,Narrative nonfiction,Ballantine Books,1987,"[""christopher green""]","[""Christopher Green""]",Christopher Green
+21854,Vanity Fair,Alan Cormier,Western,Blackie and Son Limited,2020,"[""alan cormier""]","[""Alan Cormier""]",Alan Cormier
+21829,Recovery,Julian Stroman,Realistic fiction,,2001,"[""julian stroman""]","[""Julian Stroman""]",Julian Stroman
+22235,Rumours,Richie Dickens,Comic/Graphic Novel,George H. Doran Company,1982,"[""richie dickens""]","[""Richie Dickens""]",Richie Dickens
+21928,Super Mario Odyssey,Myong Connelly,Mythopoeia,George Routledge & Sons,2018,"[""myong connelly""]","[""Myong Connelly""]",Myong Connelly
+21888,Puyo Puyo Tetris,Providencia O'Conner,Historical fiction,Berg Publishers,1905,"[""providencia o conner""]","[""Providencia O'Conner""]",Providencia O'Conner
+21921,Gone with the Wind,"Darrin Goodwin V, Kesha Rempel IV, Sen. Mickey Crist",Fantasy,Da Capo Press,1834,"[""darrin goodwin v"", ""kesha rempel iv"", ""sen mickey crist""]","[""Darrin Goodwin V"", ""Kesha Rempel IV"", ""Sen. Mickey Crist""]","Darrin Goodwin V, Kesha Rempel IV, Sen. Mickey Crist"
+21753,The Pianist,"Prof. Catherin Ward, Refugio Rodriguez Esq.",Fantasy,Faber and Faber,1982,"[""prof catherin ward"", ""refugio rodriguez esq""]","[""Prof. Catherin Ward"", ""Refugio Rodriguez Esq.""]","Prof. Catherin Ward, Refugio Rodriguez Esq."
+22093,The Wonderful 101,"Paulina Franecki, Howard Skiles",Fairy tale,Shoemaker & Hoard Publishers,2017,"[""howard skiles"", ""paulina franecki""]","[""Howard Skiles"", ""Paulina Franecki""]","Howard Skiles, Paulina Franecki"
+21678,(What's the Story) Morning Glory?,Mrs. Marlena Hahn,Fable,Jaico Publishing House,1974,"[""mrs marlena hahn""]","[""Mrs. Marlena Hahn""]",Mrs. Marlena Hahn
+21723,Grim Fandango,Pat Lueilwitz,Mythopoeia,Eerdmans Publishing,2004,"[""pat lueilwitz""]","[""Pat Lueilwitz""]",Pat Lueilwitz
+21867,Half-Life,"Gov. Bradly McCullough, Barbera Pfannerstill, Terence Kuhn",Historical fiction,Manchester University Press,2015,"[""barbera pfannerstill"", ""gov bradly mccullough"", ""terence kuhn""]","[""Barbera Pfannerstill"", ""Gov. Bradly McCullough"", ""Terence Kuhn""]","Barbera Pfannerstill, Gov. Bradly McCullough, Terence Kuhn"
+22230,Highway Blossoms,"Darron Orn, Juli Bailey, Marcel Blanda",Realistic fiction,,1986,"[""darron orn"", ""juli bailey"", ""marcel blanda""]","[""Darron Orn"", ""Juli Bailey"", ""Marcel Blanda""]","Darron Orn, Juli Bailey, Marcel Blanda"
+22313,By Grand Central Station I Sat Down and Wept,"Claud Cruickshank, Prof. Larae Wunsch, Gene Wolf",Science fiction,Tachyon Publications,1979,"[""claud cruickshank"", ""gene wolf"", ""prof larae wunsch""]","[""Claud Cruickshank"", ""Gene Wolf"", ""Prof. Larae Wunsch""]","Claud Cruickshank, Gene Wolf, Prof. Larae Wunsch"
+22260,Team Fortress Classic,Debra Blanda II,Short story,HarperTrophy,1848,"[""debra blanda ii""]","[""Debra Blanda II""]",Debra Blanda II
+22372,Ring of Bright Water,Omer Paucek VM,Fiction in verse,Chronicle Books,2008,"[""omer paucek vm""]","[""Omer Paucek VM""]",Omer Paucek VM
+21817,Call of Duty: Modern Warfare Remastered,"Jules Grady, Viva Wyman Jr.",Fantasy,Ballantine Books,1963,"[""jules grady"", ""viva wyman jr""]","[""Jules Grady"", ""Viva Wyman Jr.""]","Jules Grady, Viva Wyman Jr."
+21761,The Wealth of Nations,Zina Prohaska II,Metafiction,Ziff Davis Media,1992,"[""zina prohaska ii""]","[""Zina Prohaska II""]",Zina Prohaska II
+21684,Hybrid Theory,"Daysi Huel, Louella Schultz, Marshall Schiller, Rayford Hyatt",Folklore,Secker & Warburg,2011,"[""daysi huel"", ""louella schultz"", ""marshall schiller"", ""rayford hyatt""]","[""Daysi Huel"", ""Louella Schultz"", ""Marshall Schiller"", ""Rayford Hyatt""]","Daysi Huel, Louella Schultz, Marshall Schiller, Rayford Hyatt"
+22376,Call of Duty: Black Ops III,Brendon Kuhic,Short story,Firebrand Books,2012,"[""brendon kuhic""]","[""Brendon Kuhic""]",Brendon Kuhic
+22384,The Departed,"Todd Kreiger, Son Nikolaus",Mythology,Mascot Books,1979,"[""son nikolaus"", ""todd kreiger""]","[""Son Nikolaus"", ""Todd Kreiger""]","Son Nikolaus, Todd Kreiger"
+22167,American Beauty,Kaylene Willms VM,Classic,University of Alaska Press,2012,"[""kaylene willms vm""]","[""Kaylene Willms VM""]",Kaylene Willms VM
+21685,Wolfenstein 3D,Forrest Vandervort,Fable,Ten Speed Press,2015,"[""forrest vandervort""]","[""Forrest Vandervort""]",Forrest Vandervort
+22381,Commandos 3: Destination Berlin,Mrs. Andy Rolfson,Classic,Harlequin Enterprises Ltd,1981,"[""mrs andy rolfson""]","[""Mrs. Andy Rolfson""]",Mrs. Andy Rolfson
+22175,Jacob Have I Loved,"Rev. Katina Pagac, Laree Mayer, Tristan Gerlach",Metafiction,Vintage Books,1960,"[""laree mayer"", ""rev katina pagac"", ""tristan gerlach""]","[""Laree Mayer"", ""Rev. Katina Pagac"", ""Tristan Gerlach""]","Laree Mayer, Rev. Katina Pagac, Tristan Gerlach"
+22414,Super Mario Sunshine,Cori Koepp,Fable,Scholastic Press,1978,"[""cori koepp""]","[""Cori Koepp""]",Cori Koepp
+21855,Desperados: Wanted Dead or Alive,"Jerrell Roob, Pearly Flatley",Fiction narrative,McGraw Hill Financial,1990,"[""jerrell roob"", ""pearly flatley""]","[""Jerrell Roob"", ""Pearly Flatley""]","Jerrell Roob, Pearly Flatley"
+22205,Confessions,Beverlee Koch,Mythopoeia,Atheneum Books,2015,"[""beverlee koch""]","[""Beverlee Koch""]",Beverlee Koch
+22268,For Whom the Bell Tolls,"Refugio Rodriguez Esq., Prof. Catherin Ward",Essay,Holland Park Press,1996,"[""prof catherin ward"", ""refugio rodriguez esq""]","[""Prof. Catherin Ward"", ""Refugio Rodriguez Esq.""]","Prof. Catherin Ward, Refugio Rodriguez Esq."
+21881,Oldboy,Lue Prohaska Sr.,Horror,Ace Books,1978,"[""lue prohaska sr""]","[""Lue Prohaska Sr.""]",Lue Prohaska Sr.
+22300,Terminator 2: Judgment Day,Mr. Sherman Roberts,Textbook,Kodansha,2008,"[""mr sherman roberts""]","[""Mr. Sherman Roberts""]",Mr. Sherman Roberts
+22321,Sgt. Pepper's Lonely Hearts Club Band,"Rayford Hyatt, Daysi Huel, Marshall Schiller",Suspense/Thriller,Book League of America,1979,"[""daysi huel"", ""marshall schiller"", ""rayford hyatt""]","[""Daysi Huel"", ""Marshall Schiller"", ""Rayford Hyatt""]","Daysi Huel, Marshall Schiller, Rayford Hyatt"
+21779,Half-Life 2: Lost Coast,"Juli Bailey, Darron Orn, Marcel Blanda",Fiction narrative,Firebrand Books,2010,"[""darron orn"", ""juli bailey"", ""marcel blanda""]","[""Darron Orn"", ""Juli Bailey"", ""Marcel Blanda""]","Darron Orn, Juli Bailey, Marcel Blanda"
+22151,Falling into You,Ezekiel Nolan,Science fiction,Edupedia Publications,2011,"[""ezekiel nolan""]","[""Ezekiel Nolan""]",Ezekiel Nolan
+22422,Command & Conquer: Red Alert,Rick Runolfsdottir,Fantasy,,2010,"[""rick runolfsdottir""]","[""Rick Runolfsdottir""]",Rick Runolfsdottir
+22288,Star Wars: Episode II – Attack of the Clones,Marilyn Botsford,Suspense/Thriller,Churchill Livingstone,2019,"[""marilyn botsford""]","[""Marilyn Botsford""]",Marilyn Botsford
+21839,Counter-Strike: Global Offensive,Glayds Roob I,Comic/Graphic Novel,University of California Press,2021,"[""glayds roob i""]","[""Glayds Roob I""]",Glayds Roob I
+21796,Just Cause 2,The Hon. Carma Swaniawski,Mystery,Penguin Books,1997,"[""the hon carma swaniawski""]","[""The Hon. Carma Swaniawski""]",The Hon. Carma Swaniawski
+22388,The Wives of Bath,"Lizzette Schultz, Young Fay",Narrative nonfiction,FabJob,1976,"[""lizzette schultz"", ""young fay""]","[""Lizzette Schultz"", ""Young Fay""]","Lizzette Schultz, Young Fay"
+21690,The Dark Knight Rises,Rep. Anton Blanda,Historical fiction,Harvest House,1978,"[""rep anton blanda""]","[""Rep. Anton Blanda""]",Rep. Anton Blanda
+22161,Command & Conquer: Rivals,Tim Barrows,Comic/Graphic Novel,Caister Academic Press,2013,"[""tim barrows""]","[""Tim Barrows""]",Tim Barrows
+22010,Pokémon Red,"Heriberto Kutch, Merle Rice, Emil Rempel",Folklore,Brill,2024,"[""emil rempel"", ""heriberto kutch"", ""merle rice""]","[""Emil Rempel"", ""Heriberto Kutch"", ""Merle Rice""]","Emil Rempel, Heriberto Kutch, Merle Rice"
+22239,Casablanca,Dianne Moen Jr.,Biography/Autobiography,Shambhala Publications,1996,"[""dianne moen jr""]","[""Dianne Moen Jr.""]",Dianne Moen Jr.
+22255,Bayonetta,"Tiffany Wisoky, Salvador Osinski, Tai Boyer",Horror,,1992,"[""salvador osinski"", ""tai boyer"", ""tiffany wisoky""]","[""Salvador Osinski"", ""Tai Boyer"", ""Tiffany Wisoky""]","Salvador Osinski, Tai Boyer, Tiffany Wisoky"
+21982,Vampire: The Masquerade – Bloodlines,Colene Von,Crime/Detective,Tarpaulin Sky Press,1991,"[""colene von""]","[""Colene Von""]",Colene Von
+21883,Fargo,"Tiffany Wisoky, Tai Boyer, Salvador Osinski, Mrs. Marlon Kris",Biography/Autobiography,Caister Academic Press,2020,"[""mrs marlon kris"", ""salvador osinski"", ""tai boyer"", ""tiffany wisoky""]","[""Mrs. Marlon Kris"", ""Salvador Osinski"", ""Tai Boyer"", ""Tiffany Wisoky""]","Mrs. Marlon Kris, Salvador Osinski, Tai Boyer, Tiffany Wisoky"
+21985,Sunset Blvd.,Shasta Mohr Sr.,Crime/Detective,Karadi Tales,2018,"[""shasta mohr sr""]","[""Shasta Mohr Sr.""]",Shasta Mohr Sr.
+22421,The Far-Distant Oxus,Fonda McClure,Reference book,HarperPrism,1987,"[""fonda mcclure""]","[""Fonda McClure""]",Fonda McClure
+22141,Pokémon Sapphire,"Gov. Jeanne Wunsch, Ms. Arden Gorczany, Mohammed Leannon",Historical fiction,Dedalus Books,1995,"[""gov jeanne wunsch"", ""mohammed leannon"", ""ms arden gorczany""]","[""Gov. Jeanne Wunsch"", ""Mohammed Leannon"", ""Ms. Arden Gorczany""]","Gov. Jeanne Wunsch, Mohammed Leannon, Ms. Arden Gorczany"
+22148,Some Like It Hot,Aretha Lueilwitz,Legend,Tammi,2016,"[""aretha lueilwitz""]","[""Aretha Lueilwitz""]",Aretha Lueilwitz
+22318,Hotel California,Joaquin Romaguera,Western,Gefen Publishing House,2011,"[""joaquin romaguera""]","[""Joaquin Romaguera""]",Joaquin Romaguera
+21683,Halo Wars,Latrina Fahey MD,Realistic fiction,Tartarus Press,1980,"[""latrina fahey md""]","[""Latrina Fahey MD""]",Latrina Fahey MD
+22194,Mass Effect 2,"Jacques Rau, Major Parker, India Heaney, Sen. Chi Swaniawski",Metafiction,Blackstaff Press,2009,"[""india heaney"", ""jacques rau"", ""major parker"", ""sen chi swaniawski""]","[""India Heaney"", ""Jacques Rau"", ""Major Parker"", ""Sen. Chi Swaniawski""]","India Heaney, Jacques Rau, Major Parker, Sen. Chi Swaniawski"
+22336,The Immaculate Collection,Chan Hilpert Sr.,Fiction in verse,Voyager Books,1987,"[""chan hilpert sr""]","[""Chan Hilpert Sr.""]",Chan Hilpert Sr.
+21864,Sleep the Brave,Amb. Maudie Connelly,Speech,Harvard University Press,2000,"[""amb maudie connelly""]","[""Amb. Maudie Connelly""]",Amb. Maudie Connelly
+21801,The Apartment,"Joaquin Romaguera, Garland Schaefer DDS, Maud Swift, Marcellus Rolfson",Western,University of Akron Press,1988,"[""garland schaefer dds"", ""joaquin romaguera"", ""marcellus rolfson"", ""maud swift""]","[""Garland Schaefer DDS"", ""Joaquin Romaguera"", ""Marcellus Rolfson"", ""Maud Swift""]","Garland Schaefer DDS, Joaquin Romaguera, Marcellus Rolfson, Maud Swift"
+22204,L.A. Confidential,Enrique Swift CPA,Narrative nonfiction,New Village Press,1995,"[""enrique swift cpa""]","[""Enrique Swift CPA""]",Enrique Swift CPA
+21966,Alien,Shana Morissette Ret.,Realistic fiction,Fairview Press,2023,"[""shana morissette ret""]","[""Shana Morissette Ret.""]",Shana Morissette Ret.
+22298,Flashdance: Original Soundtrack from the Motion Picture,Clifton Mitchell PhD,Horror,Daedalus Publishing,2023,"[""clifton mitchell phd""]","[""Clifton Mitchell PhD""]",Clifton Mitchell PhD
+21949,Cabbages and Kings,"Son Nikolaus, Todd Kreiger",Fantasy,Random House,1993,"[""son nikolaus"", ""todd kreiger""]","[""Son Nikolaus"", ""Todd Kreiger""]","Son Nikolaus, Todd Kreiger"
+22437,Touch of Evil,"Tennie Mante, Dale Ebert",Fanfiction,Flame Tree Publishing,1994,"[""dale ebert"", ""tennie mante""]","[""Dale Ebert"", ""Tennie Mante""]","Dale Ebert, Tennie Mante"
+22444,Pokémon Silver,Brittni O'Kon JD,Biography/Autobiography,University of Alaska Press,2020,"[""brittni o kon jd""]","[""Brittni O'Kon JD""]",Brittni O'Kon JD
+22236,O Jerusalem!,Carey Kertzmann,Short story,D. Reidel,1990,"[""carey kertzmann""]","[""Carey Kertzmann""]",Carey Kertzmann
+21886,Sleeping Dogs,Dusty Predovic,Western,Athabasca University Press,1914,"[""dusty predovic""]","[""Dusty Predovic""]",Dusty Predovic
+21774,Slippery When Wet,Arianne Fritsch MD,Science fiction,Shambhala Publications,1988,"[""arianne fritsch md""]","[""Arianne Fritsch MD""]",Arianne Fritsch MD
+22218,Portal 2,Gov. Vertie Kovacek,Fanfiction,McFarland & Company,1835,"[""gov vertie kovacek""]","[""Gov. Vertie Kovacek""]",Gov. Vertie Kovacek
+22019,Life is Strange,"Trey Harris, Ruthanne Lebsack",Metafiction,Flame Tree Publishing,2011,"[""ruthanne lebsack"", ""trey harris""]","[""Ruthanne Lebsack"", ""Trey Harris""]","Ruthanne Lebsack, Trey Harris"
+22137,Kirby's Epic Yarn,Anne Abshire,Realistic fiction,Macmillan Publishers,2022,"[""anne abshire""]","[""Anne Abshire""]",Anne Abshire
+21738,All About Eve,Helga Vandervort DC,Mythology,Jaico Publishing House,1987,"[""helga vandervort dc""]","[""Helga Vandervort DC""]",Helga Vandervort DC
+22183,Wii Sports,Minh Leuschke,Reference book,Harvill Press at Random House,1992,"[""minh leuschke""]","[""Minh Leuschke""]",Minh Leuschke
+21767,The Matrix,Tennie Mante,Western,Charles Scribner's Sons,2015,"[""tennie mante""]","[""Tennie Mante""]",Tennie Mante
+21688,Unplugged,Miss Cherryl Pollich,Crime/Detective,Tate Publishing & Enterprises,2025,"[""miss cherryl pollich""]","[""Miss Cherryl Pollich""]",Miss Cherryl Pollich
+22292,Pokémon Red,"Heriberto Kutch, Merle Rice, Emil Rempel",Folklore,Ellora's Cave,2019,"[""emil rempel"", ""heriberto kutch"", ""merle rice""]","[""Emil Rempel"", ""Heriberto Kutch"", ""Merle Rice""]","Emil Rempel, Heriberto Kutch, Merle Rice"
+22227,Call of Duty 4: Modern Warfare,"Johanna Crona CPA, Johnathan Cole, Rolf Conroy",Metafiction,University of Michigan Press,1999,"[""johanna crona cpa"", ""johnathan cole"", ""rolf conroy""]","[""Johanna Crona CPA"", ""Johnathan Cole"", ""Rolf Conroy""]","Johanna Crona CPA, Johnathan Cole, Rolf Conroy"
+22000,North by Northwest,"Msgr. Clara Hermiston, Randell Jerde I, Ruby Wolff",Short story,McGraw Hill Financial,1983,"[""msgr clara hermiston"", ""randell jerde i"", ""ruby wolff""]","[""Msgr. Clara Hermiston"", ""Randell Jerde I"", ""Ruby Wolff""]","Msgr. Clara Hermiston, Randell Jerde I, Ruby Wolff"
+21984,(What's the Story) Morning Glory?,Mrs. Marlena Hahn,Fable,Barrie & Jenkins,1988,"[""mrs marlena hahn""]","[""Mrs. Marlena Hahn""]",Mrs. Marlena Hahn
+22375,Monty Python and the Holy Grail,Ms. Sol Friesen,Biography/Autobiography,Fearless Books,1903,"[""ms sol friesen""]","[""Ms. Sol Friesen""]",Ms. Sol Friesen
+22130,Come On Over,Shirley Kub,Speech,Kessinger Publishing,1996,"[""shirley kub""]","[""Shirley Kub""]",Shirley Kub
+21705,The Skull Beneath the Skin,Felicia Moen,Comic/Graphic Novel,Atlantic Books,2013,"[""felicia moen""]","[""Felicia Moen""]",Felicia Moen
+21916,Kingdom Hearts II,"Hong Kuphal, Blake Turcotte",Mythopoeia,New Holland Publishers,1980,"[""blake turcotte"", ""hong kuphal""]","[""Blake Turcotte"", ""Hong Kuphal""]","Blake Turcotte, Hong Kuphal"
+21741,Animal Crossing: City Folk,Wei O'Kon,Reference book,Jarrolds Publishing,2008,"[""wei o kon""]","[""Wei O'Kon""]",Wei O'Kon
+21730,Back to the Future,Mrs. Maye Collier,Fiction in verse,ECW Press,1998,"[""mrs maye collier""]","[""Mrs. Maye Collier""]",Mrs. Maye Collier
+22196,Taxi Driver,Drema Little,Fiction in verse,,2020,"[""drema little""]","[""Drema Little""]",Drema Little
+21843,Crysis 2,Grant Treutel,Fanfiction,Atlantic Books,1981,"[""grant treutel""]","[""Grant Treutel""]",Grant Treutel
+21893,Life of Brian,"Ezekiel Nolan, Darron Orn, Juli Bailey",Narrative nonfiction,Viking Press,1982,"[""darron orn"", ""ezekiel nolan"", ""juli bailey""]","[""Darron Orn"", ""Ezekiel Nolan"", ""Juli Bailey""]","Darron Orn, Ezekiel Nolan, Juli Bailey"
+22222,Mirror's Edge,Debra Blanda II,Mystery,Ballantine Books,2015,"[""debra blanda ii""]","[""Debra Blanda II""]",Debra Blanda II
+21880,Mass Effect 3,Camila Kunze,Fiction narrative,O'Reilly Media,2014,"[""camila kunze""]","[""Camila Kunze""]",Camila Kunze
+22058,Little Hands Clapping,Monte White,Essay,HarperPrism,2016,"[""monte white""]","[""Monte White""]",Monte White
+22095,Legend: The Best of Bob Marley & The Wailers,Tennie Mante,Science fiction,Airiti Press,0,"[""tennie mante""]","[""Tennie Mante""]",Tennie Mante
+22338,Behold the Man,Santo Purdy Jr.,Suspense/Thriller,Black Library,1988,"[""santo purdy jr""]","[""Santo Purdy Jr.""]",Santo Purdy Jr.
+22184,The Wolf of Wall Street,Mamie MacGyver DC,Fairy tale,,1986,"[""mamie macgyver dc""]","[""Mamie MacGyver DC""]",Mamie MacGyver DC
+21806,Pokémon White,Prof. Catherin Ward,Narrative nonfiction,Salt Publishing,1986,"[""prof catherin ward""]","[""Prof. Catherin Ward""]",Prof. Catherin Ward
+21935,BioShock,Amb. Shawn Collier,Western,Viking Press,2019,"[""amb shawn collier""]","[""Amb. Shawn Collier""]",Amb. Shawn Collier
+21845,In the Name of the Father,Felicia Moen,Suspense/Thriller,Gaspereau Press,2007,"[""felicia moen""]","[""Felicia Moen""]",Felicia Moen
+21713,City of God,Gertrude Rogahn,Fanfiction,Unfinished Monument Press,2008,"[""gertrude rogahn""]","[""Gertrude Rogahn""]",Gertrude Rogahn
+21902,To Kill a Mockingbird,Oren Donnelly,Short story,United States Government Publishing Office,1994,"[""oren donnelly""]","[""Oren Donnelly""]",Oren Donnelly
+22027,Dead Poets Society,Tommy Kozey,Essay,DAW Books,1978,"[""tommy kozey""]","[""Tommy Kozey""]",Tommy Kozey
+22360,His Dark Materials,Rev. Carolynn Ernser,Biography/Autobiography,Tarpaulin Sky Press,1901,"[""rev carolynn ernser""]","[""Rev. Carolynn Ernser""]",Rev. Carolynn Ernser
+22132,The Torment of Others,"Zada Runolfsdottir, Gil Runolfsdottir",Fiction in verse,Breslov Research Institute,2007,"[""gil runolfsdottir"", ""zada runolfsdottir""]","[""Gil Runolfsdottir"", ""Zada Runolfsdottir""]","Gil Runolfsdottir, Zada Runolfsdottir"
+21946,Forrest Gump,Laverna Hermann III,Horror,McFarland & Company,2004,"[""laverna hermann iii""]","[""Laverna Hermann III""]",Laverna Hermann III
+22127,The Intouchables,"Omer Paucek VM, Roy Gleichner",Mystery,Pan Books,2009,"[""omer paucek vm"", ""roy gleichner""]","[""Omer Paucek VM"", ""Roy Gleichner""]","Omer Paucek VM, Roy Gleichner"
+22425,Sunrise: A Song of Two Humans,"Jules Grady, Prof. Nathanael Cronin",Folklore,Macmillan Publishers,1994,"[""jules grady"", ""prof nathanael cronin""]","[""Jules Grady"", ""Prof. Nathanael Cronin""]","Jules Grady, Prof. Nathanael Cronin"
+22433,"Monsters, Inc.",Zina Prohaska II,Metafiction,Harvard University Press,1984,"[""zina prohaska ii""]","[""Zina Prohaska II""]",Zina Prohaska II
+21789,Breakfast in America,"Dianne Moen Jr., Caitlin Ward",Classic,Bantam Books,2006,"[""caitlin ward"", ""dianne moen jr""]","[""Caitlin Ward"", ""Dianne Moen Jr.""]","Caitlin Ward, Dianne Moen Jr."
+22264,Command & Conquer 4: Tiberian Twilight,"Rev. Jovan Koelpin, Seth Carter",Metafiction,"Harry N. Abrams, Inc.",1996,"[""rev jovan koelpin"", ""seth carter""]","[""Rev. Jovan Koelpin"", ""Seth Carter""]","Rev. Jovan Koelpin, Seth Carter"
+22333,Super Smash Bros. Melee,Gil Bradtke,Textbook,Cengage Learning,2011,"[""gil bradtke""]","[""Gil Bradtke""]",Gil Bradtke
+22020,Star Wars,"Micheal Reinger, Tennie Mante",Short story,Blackstaff Press,2026,"[""micheal reinger"", ""tennie mante""]","[""Micheal Reinger"", ""Tennie Mante""]","Micheal Reinger, Tennie Mante"
+21927,The Legend of Zelda: Skyward Sword,Kaylene Willms VM,Folklore,University of Alaska Press,2024,"[""kaylene willms vm""]","[""Kaylene Willms VM""]",Kaylene Willms VM
+22442,Dial M for Murder,Leta Armstrong,Legend,"Harry N. Abrams, Inc.",1987,"[""leta armstrong""]","[""Leta Armstrong""]",Leta Armstrong
+22056,Once Upon a Time in America,Nestor Jacobs,Realistic fiction,,2013,"[""nestor jacobs""]","[""Nestor Jacobs""]",Nestor Jacobs
+22201,Shadow of the Colossus,Mrs. Marlon Kris,Horror,Darakwon Press,1992,"[""mrs marlon kris""]","[""Mrs. Marlon Kris""]",Mrs. Marlon Kris
+22352,Dance Dance Dance,Lacy Cruickshank Ret.,Narrative nonfiction,Taylor & Francis,2014,"[""lacy cruickshank ret""]","[""Lacy Cruickshank Ret.""]",Lacy Cruickshank Ret.
+22013,Vertigo,"Omer Paucek VM, Roy Gleichner",Reference book,Edupedia Publications,1982,"[""omer paucek vm"", ""roy gleichner""]","[""Omer Paucek VM"", ""Roy Gleichner""]","Omer Paucek VM, Roy Gleichner"
+22308,Helldorado,Ezekiel Nolan,Reference book,Belknap Press,2010,"[""ezekiel nolan""]","[""Ezekiel Nolan""]",Ezekiel Nolan
+22368,Batman Begins,Christopher Green,Fairy tale,SAGE Publications,2021,"[""christopher green""]","[""Christopher Green""]",Christopher Green
+22306,American Beauty,Kaylene Willms VM,Classic,Paulist Press,2019,"[""kaylene willms vm""]","[""Kaylene Willms VM""]",Kaylene Willms VM
+21840,O Pioneers!,Lita Ratke,Biography/Autobiography,"Farrar, Straus & Giroux",1988,"[""lita ratke""]","[""Lita Ratke""]",Lita Ratke
+22064,Tapestry,Deshawn Cassin V,Reference book,Chronicle Books,2008,"[""deshawn cassin v""]","[""Deshawn Cassin V""]",Deshawn Cassin V
+21726,Spice,"Kandy Treutel, Earline Fisher",Classic,T & T Clark,2012,"[""earline fisher"", ""kandy treutel""]","[""Earline Fisher"", ""Kandy Treutel""]","Earline Fisher, Kandy Treutel"
+22429,Fair Stood the Wind for France,Mrs. Vickey Boehm,Short story,HMSO,1999,"[""mrs vickey boehm""]","[""Mrs. Vickey Boehm""]",Mrs. Vickey Boehm
+22449,The Sting,Sol McDermott,Folklore,Target Books,1948,"[""sol mcdermott""]","[""Sol McDermott""]",Sol McDermott
+21786,Sonic Unleashed,Antonio Bechtelar,Essay,Chronicle Books,2024,"[""antonio bechtelar""]","[""Antonio Bechtelar""]",Antonio Bechtelar
+21682,Banjo-Kazooie: Grunty's Revenge,"Hong Kuphal, Blake Turcotte",Suspense/Thriller,D. Reidel,1991,"[""blake turcotte"", ""hong kuphal""]","[""Blake Turcotte"", ""Hong Kuphal""]","Blake Turcotte, Hong Kuphal"
+22243,The Colour of My Love,Nieves Schulist,Reference book,Faber and Faber,2018,"[""nieves schulist""]","[""Nieves Schulist""]",Nieves Schulist
+22149,Eternal Sunshine of the Spotless Mind,Minh Leuschke,Western,Candlewick Press,1986,"[""minh leuschke""]","[""Minh Leuschke""]",Minh Leuschke
+22247,"Such, Such Were the Joys",Marylynn Morissette,Science fiction,Verso Books,1996,"[""marylynn morissette""]","[""Marylynn Morissette""]",Marylynn Morissette
+21846,The Golden Bowl,Rev. Maximo Torphy,Historical fiction,Leaf Books,1993,"[""rev maximo torphy""]","[""Rev. Maximo Torphy""]",Rev. Maximo Torphy
+21711,Titanic: Music from the Motion Picture,Paulina Franecki,Fanfiction,Tarpaulin Sky Press,,"[""paulina franecki""]","[""Paulina Franecki""]",Paulina Franecki
+21914,The Stars' Tennis Balls,Wiley Rosenbaum,Reference book,John Blake Publishing,2024,"[""wiley rosenbaum""]","[""Wiley Rosenbaum""]",Wiley Rosenbaum
+21937,Pulp Fiction,Mable Conroy JD,Textbook,Parragon,2025,"[""mable conroy jd""]","[""Mable Conroy JD""]",Mable Conroy JD
+22325,Saving Private Ryan,Mistie Brekke PhD,Biography/Autobiography,Borgo Press,1999,"[""mistie brekke phd""]","[""Mistie Brekke PhD""]",Mistie Brekke PhD
+21794,"Those Barren Leaves, Thrones, Dominations",Suellen Swaniawski PhD,Essay,Chronicle Books,,"[""suellen swaniawski phd""]","[""Suellen Swaniawski PhD""]",Suellen Swaniawski PhD
+22035,System Shock,Paul Yundt,Mythology,Carlton Publishing Group,1978,"[""paul yundt""]","[""Paul Yundt""]",Paul Yundt
+22166,Halo 2,"Pearly Flatley, Jerrell Roob",Crime/Detective,Bellevue Literary Press,1979,"[""jerrell roob"", ""pearly flatley""]","[""Jerrell Roob"", ""Pearly Flatley""]","Jerrell Roob, Pearly Flatley"
+22073,Mario Kart Wii,"Virginia Goyette, Eddie Effertz",Biography/Autobiography,Library of America,1987,"[""eddie effertz"", ""virginia goyette""]","[""Eddie Effertz"", ""Virginia Goyette""]","Eddie Effertz, Virginia Goyette"
+22314,Pokémon SoulSilver,"Shaina Wehner, Elida Muller DDS",Realistic fiction,University of Alaska Press,1981,"[""elida muller dds"", ""shaina wehner""]","[""Elida Muller DDS"", ""Shaina Wehner""]","Elida Muller DDS, Shaina Wehner"
+22154,An Evil Cradling,Paul Yundt,Narrative nonfiction,Papadakis Publisher,2008,"[""paul yundt""]","[""Paul Yundt""]",Paul Yundt
+22152,Wii Sports Resort,Golden Predovic,Fairy tale,Imperial War Museum,1981,"[""golden predovic""]","[""Golden Predovic""]",Golden Predovic
+22047,The Other Side of Silence,"Asuncion Runolfsson, Fr. Danette West",Fiction in verse,Faber and Faber,1834,"[""asuncion runolfsson"", ""fr danette west""]","[""Asuncion Runolfsson"", ""Fr. Danette West""]","Asuncion Runolfsson, Fr. Danette West"
+21912,Specimen Days,Colene Von,Fairy tale,Atheneum Books,1991,"[""colene von""]","[""Colene Von""]",Colene Von
+21706,Amadeus,Elliott Ziemann,Fantasy,Parachute Publishing,2024,"[""elliott ziemann""]","[""Elliott Ziemann""]",Elliott Ziemann
+22102,"Paris, Texas",Jamie Schaden,Crime/Detective,Sams Publishing,2019,"[""jamie schaden""]","[""Jamie Schaden""]",Jamie Schaden
+22159,Quo Vadis,Dr. Latoya Schaden,Humor,Breslov Research Institute,1983,"[""dr latoya schaden""]","[""Dr. Latoya Schaden""]",Dr. Latoya Schaden
+21809,Backstreet Boys,"Hong Cassin IV, Marshall Hauck, Mr. Stephine Monahan",Realistic fiction,Anvil Press Poetry,2000,"[""hong cassin iv"", ""marshall hauck"", ""mr stephine monahan""]","[""Hong Cassin IV"", ""Marshall Hauck"", ""Mr. Stephine Monahan""]","Hong Cassin IV, Marshall Hauck, Mr. Stephine Monahan"
+21708,Jagged Little Pill,"Claud Cruickshank, Prof. Larae Wunsch, Gene Wolf",Humor,Hodder & Stoughton,2010,"[""claud cruickshank"", ""gene wolf"", ""prof larae wunsch""]","[""Claud Cruickshank"", ""Gene Wolf"", ""Prof. Larae Wunsch""]","Claud Cruickshank, Gene Wolf, Prof. Larae Wunsch"
+22385,Brand New Eyes,"Ruthanne Lebsack, Trey Harris",Legend,Taylor & Francis,2012,"[""ruthanne lebsack"", ""trey harris""]","[""Ruthanne Lebsack"", ""Trey Harris""]","Ruthanne Lebsack, Trey Harris"
+21746,The Eminem Show,"Vernon Von, Tracie Sauer",Legend,University of Chicago Press,1986,"[""tracie sauer"", ""vernon von""]","[""Tracie Sauer"", ""Vernon Von""]","Tracie Sauer, Vernon Von"
+22286,Blade Runner,Domingo Rice V,Humor,Velazquez Press,2004,"[""domingo rice v""]","[""Domingo Rice V""]",Domingo Rice V
+22187,Desperados III,"Terence Kuhn, Tai Boyer, Salvador Osinski, Barbera Pfannerstill, Gov. Bradly McCullough, Tiffany Wisoky",Metafiction,Chick Publications,2013,"[""barbera pfannerstill"", ""gov bradly mccullough"", ""salvador osinski"", ""tai boyer"", ""terence kuhn"", ""tiffany wisoky""]","[""Barbera Pfannerstill"", ""Gov. Bradly McCullough"", ""Salvador Osinski"", ""Tai Boyer"", ""Terence Kuhn"", ""Tiffany Wisoky""]","Barbera Pfannerstill, Gov. Bradly McCullough, Salvador Osinski, Tai Boyer, Terence Kuhn, Tiffany Wisoky"
+22097,Katamari Damacy,Mamie MacGyver DC,Fable,Adis International,2020,"[""mamie macgyver dc""]","[""Mamie MacGyver DC""]",Mamie MacGyver DC
+21930,Some Buried Caesar,"Celestina Fadel, Msgr. Thurman Hoppe",Humor,DAW Books,2018,"[""celestina fadel"", ""msgr thurman hoppe""]","[""Celestina Fadel"", ""Msgr. Thurman Hoppe""]","Celestina Fadel, Msgr. Thurman Hoppe"
+22412,The Legend of Zelda: Twilight Princess,"Rev. Jovan Koelpin, Seth Carter",Fiction in verse,Vintage Books at Random House,2009,"[""rev jovan koelpin"", ""seth carter""]","[""Rev. Jovan Koelpin"", ""Seth Carter""]","Rev. Jovan Koelpin, Seth Carter"
+22370,Star Wars: Episode V - The Empire Strikes Back,"Rev. Katina Pagac, Laree Mayer, Tristan Gerlach",Reference book,Penguin Books,1992,"[""laree mayer"", ""rev katina pagac"", ""tristan gerlach""]","[""Laree Mayer"", ""Rev. Katina Pagac"", ""Tristan Gerlach""]","Laree Mayer, Rev. Katina Pagac, Tristan Gerlach"
+21957,Network,"Prof. Nathanael Cronin, Jules Grady",Mythopoeia,Mark Batty Publisher,1984,"[""jules grady"", ""prof nathanael cronin""]","[""Jules Grady"", ""Prof. Nathanael Cronin""]","Jules Grady, Prof. Nathanael Cronin"
+22415,Full Metal Jacket,"Heriberto Kutch, Merle Rice, Emil Rempel",Crime/Detective,Penguin Books,2010,"[""emil rempel"", ""heriberto kutch"", ""merle rice""]","[""Emil Rempel"", ""Heriberto Kutch"", ""Merle Rice""]","Emil Rempel, Heriberto Kutch, Merle Rice"
+22054,Batman: Arkham City,"Marshall Hauck, Sol McDermott, Mr. Stephine Monahan, Hong Cassin IV",Mythopoeia,Penguin Books,1979,"[""hong cassin iv"", ""marshall hauck"", ""mr stephine monahan"", ""sol mcdermott""]","[""Hong Cassin IV"", ""Marshall Hauck"", ""Mr. Stephine Monahan"", ""Sol McDermott""]","Hong Cassin IV, Marshall Hauck, Mr. Stephine Monahan, Sol McDermott"
+22209,The Cricket on the Hearth,Chan Hilpert Sr.,Mystery,Allen Ltd,1985,"[""chan hilpert sr""]","[""Chan Hilpert Sr.""]",Chan Hilpert Sr.
+22347,Dangerous,Mrs. Ben Brekke,Narrative nonfiction,Open University Press,2024,"[""mrs ben brekke""]","[""Mrs. Ben Brekke""]",Mrs. Ben Brekke
+22016,Wii Play,Alan Cormier,Narrative nonfiction,Carcanet Press,2023,"[""alan cormier""]","[""Alan Cormier""]",Alan Cormier
+22323,Super Mario Bros.,"Dianne Moen Jr., Caitlin Ward",Humor,Reed Publishing,2004,"[""caitlin ward"", ""dianne moen jr""]","[""Caitlin Ward"", ""Dianne Moen Jr.""]","Caitlin Ward, Dianne Moen Jr."
+22011,Star Wars: Episode VI - Return of the Jedi,Shirley Kub,Speech,Unfinished Monument Press,1992,"[""shirley kub""]","[""Shirley Kub""]",Shirley Kub
+21758,That Good Night,Jerold Runolfsson JD,Classic,Lethe Press,2016,"[""jerold runolfsson jd""]","[""Jerold Runolfsson JD""]",Jerold Runolfsson JD
+22163,The Legend of Zelda,Hobert Kreiger LLD,Fanfiction,Airiti Press,2000,"[""hobert kreiger lld""]","[""Hobert Kreiger LLD""]",Hobert Kreiger LLD
+21756,Of Mice and Men,"Tai Boyer, Barbera Pfannerstill, Terence Kuhn, Tiffany Wisoky, Gov. Bradly McCullough, Salvador Osinski",Humor,United States Government Publishing Office,1846,"[""barbera pfannerstill"", ""gov bradly mccullough"", ""salvador osinski"", ""tai boyer"", ""terence kuhn"", ""tiffany wisoky""]","[""Barbera Pfannerstill"", ""Gov. Bradly McCullough"", ""Salvador Osinski"", ""Tai Boyer"", ""Terence Kuhn"", ""Tiffany Wisoky""]","Barbera Pfannerstill, Gov. Bradly McCullough, Salvador Osinski, Tai Boyer, Terence Kuhn, Tiffany Wisoky"
+22068,The Lives of Others,Goldie Cartwright,Horror,FabJob,2003,"[""goldie cartwright""]","[""Goldie Cartwright""]",Goldie Cartwright
+21960,Snatch,"Marcellus Rolfson, Garland Schaefer DDS, Maud Swift, Joaquin Romaguera",Mystery,FabJob,2026,"[""garland schaefer dds"", ""joaquin romaguera"", ""marcellus rolfson"", ""maud swift""]","[""Garland Schaefer DDS"", ""Joaquin Romaguera"", ""Marcellus Rolfson"", ""Maud Swift""]","Garland Schaefer DDS, Joaquin Romaguera, Marcellus Rolfson, Maud Swift"
+22256,Million Dollar Baby,Dewey Mueller,Mythology,Hodder Headline,2015,"[""dewey mueller""]","[""Dewey Mueller""]",Dewey Mueller
+22018,Perfect Dark,Shanon Walter,Science fiction,Banner of Truth Trust,2020,"[""shanon walter""]","[""Shanon Walter""]",Shanon Walter
+22190,The Road Less Traveled,Marilyn Botsford,Essay,Horizon Scientific Press,2016,"[""marilyn botsford""]","[""Marilyn Botsford""]",Marilyn Botsford
+21826,Transistor,Shantel Davis,Crime/Detective,Black Library,1939,"[""shantel davis""]","[""Shantel Davis""]",Shantel Davis
+22348,Touch of Evil,"Tennie Mante, Dale Ebert",Fanfiction,Naiad Press,1964,"[""dale ebert"", ""tennie mante""]","[""Dale Ebert"", ""Tennie Mante""]","Dale Ebert, Tennie Mante"
+22072,In Dubious Battle,"Sen. Chi Swaniawski, Major Parker, India Heaney",Legend,McFarland & Company,2020,"[""india heaney"", ""major parker"", ""sen chi swaniawski""]","[""India Heaney"", ""Major Parker"", ""Sen. Chi Swaniawski""]","India Heaney, Major Parker, Sen. Chi Swaniawski"
+21847,Now Sleeps the Crimson Petal,"Rayford Hyatt, Marshall Schiller, Louella Schultz, Daysi Huel",Metafiction,Shire Books,2023,"[""daysi huel"", ""louella schultz"", ""marshall schiller"", ""rayford hyatt""]","[""Daysi Huel"", ""Louella Schultz"", ""Marshall Schiller"", ""Rayford Hyatt""]","Daysi Huel, Louella Schultz, Marshall Schiller, Rayford Hyatt"
+22392,Tiger! Tiger!,Jacques Rau,Metafiction,University of Alaska Press,2012,"[""jacques rau""]","[""Jacques Rau""]",Jacques Rau
+22213,Pokémon Omega Ruby,"Caitlin Ward, Dianne Moen Jr.",Fiction in verse,"Harry N. Abrams, Inc.",1907,"[""caitlin ward"", ""dianne moen jr""]","[""Caitlin Ward"", ""Dianne Moen Jr.""]","Caitlin Ward, Dianne Moen Jr."
+22160,The Green Mile,"Adena MacGyver, Thersa Marvin",Mythology,Anova Books,1978,"[""adena macgyver"", ""thersa marvin""]","[""Adena MacGyver"", ""Thersa Marvin""]","Adena MacGyver, Thersa Marvin"
+22401,The Legend of Zelda: Ocarina of Time,Tim Barrows,Textbook,Basic Books,1995,"[""tim barrows""]","[""Tim Barrows""]",Tim Barrows
+21918,Lawrence of Arabia,"Loyd Hettinger, Louella Schultz",Classic,Cloverdale Corporation,1995,"[""louella schultz"", ""loyd hettinger""]","[""Louella Schultz"", ""Loyd Hettinger""]","Louella Schultz, Loyd Hettinger"
+21803,Command & Conquer: Generals,"Rev. Timothy O'Kon, Felisha Kshlerin Sr., Miss Dustin Gleichner",Mythology,George Routledge & Sons,1980,"[""felisha kshlerin sr"", ""miss dustin gleichner"", ""rev timothy o kon""]","[""Felisha Kshlerin Sr."", ""Miss Dustin Gleichner"", ""Rev. Timothy O'Kon""]","Felisha Kshlerin Sr., Miss Dustin Gleichner, Rev. Timothy O'Kon"
+22177,Animal Crossing: New Leaf,Elmer Cronin,Science fiction,Bantam Books,1959,"[""elmer cronin""]","[""Elmer Cronin""]",Elmer Cronin
+22094,Inception,Mrs. Ben Brekke,Suspense/Thriller,Mapin Publishing,1988,"[""mrs ben brekke""]","[""Mrs. Ben Brekke""]",Mrs. Ben Brekke
+21755,Commandos: Strike Force,"Jerold Runolfsson JD, Suellen Swaniawski PhD",Metafiction,Vintage Books,1991,"[""jerold runolfsson jd"", ""suellen swaniawski phd""]","[""Jerold Runolfsson JD"", ""Suellen Swaniawski PhD""]","Jerold Runolfsson JD, Suellen Swaniawski PhD"
+22238,Ice Climbers,Jerold Runolfsson JD,Mystery,Hay House,1997,"[""jerold runolfsson jd""]","[""Jerold Runolfsson JD""]",Jerold Runolfsson JD
+22317,Super Meat Boy,"Emil Rempel, Heriberto Kutch, Mrs. Ben Brekke, Merle Rice",Textbook,Burns & Oates,1880,"[""emil rempel"", ""heriberto kutch"", ""merle rice"", ""mrs ben brekke""]","[""Emil Rempel"", ""Heriberto Kutch"", ""Merle Rice"", ""Mrs. Ben Brekke""]","Emil Rempel, Heriberto Kutch, Merle Rice, Mrs. Ben Brekke"
+22147,Mario Kart: Double Dash,Paulina Franecki,Mythology,André Deutsch,2016,"[""paulina franecki""]","[""Paulina Franecki""]",Paulina Franecki
+22395,Seven Samurai,"Rep. Jacques Keeling, Chana Cummerata CPA, Roderick Fay",Metafiction,Harvard University Press,2008,"[""chana cummerata cpa"", ""rep jacques keeling"", ""roderick fay""]","[""Chana Cummerata CPA"", ""Rep. Jacques Keeling"", ""Roderick Fay""]","Chana Cummerata CPA, Rep. Jacques Keeling, Roderick Fay"
+22363,No Jacket Required,Virgilio Wisoky,Fiction in verse,Adis International,2014,"[""virgilio wisoky""]","[""Virgilio Wisoky""]",Virgilio Wisoky
+22254,Cool Hand Luke,Mrs. Ben Brekke,Fanfiction,Hackett Publishing Company,2003,"[""mrs ben brekke""]","[""Mrs. Ben Brekke""]",Mrs. Ben Brekke
+22082,Waiting for the Barbarians,Dr. Meridith Pfannerstill,Western,Black Sparrow Books,2023,"[""dr meridith pfannerstill""]","[""Dr. Meridith Pfannerstill""]",Dr. Meridith Pfannerstill
+21751,Wii Sports Resort,Golden Predovic,Fairy tale,New Directions Publishing,1959,"[""golden predovic""]","[""Golden Predovic""]",Golden Predovic
+21676,"Look Homeward, Angel","Todd Kreiger, Golden Predovic, Son Nikolaus",Biography/Autobiography,Cisco Press,1981,"[""golden predovic"", ""son nikolaus"", ""todd kreiger""]","[""Golden Predovic"", ""Son Nikolaus"", ""Todd Kreiger""]","Golden Predovic, Son Nikolaus, Todd Kreiger"
+22265,Dookie,Prof. Nathanael Cronin,Science fiction,Ten Speed Press,1990,"[""prof nathanael cronin""]","[""Prof. Nathanael Cronin""]",Prof. Nathanael Cronin
+22411,The Way Through the Woods,Providencia O'Conner,Crime/Detective,UCL Press,2019,"[""providencia o conner""]","[""Providencia O'Conner""]",Providencia O'Conner
+22296,Garry's Mod,"Prof. Larae Wunsch, Claud Cruickshank, Gene Wolf",Fanfiction,Da Capo Press,1986,"[""claud cruickshank"", ""gene wolf"", ""prof larae wunsch""]","[""Claud Cruickshank"", ""Gene Wolf"", ""Prof. Larae Wunsch""]","Claud Cruickshank, Gene Wolf, Prof. Larae Wunsch"
+22096,Paper Moon,Ezekiel Nolan,Speech,University of Chicago Press,2022,"[""ezekiel nolan""]","[""Ezekiel Nolan""]",Ezekiel Nolan
+22315,Spice,"Kandy Treutel, Earline Fisher",Classic,Anova Books,1995,"[""earline fisher"", ""kandy treutel""]","[""Earline Fisher"", ""Kandy Treutel""]","Earline Fisher, Kandy Treutel"
+22181,Cool Hand Luke,Mrs. Ben Brekke,Fanfiction,Pan Books,2018,"[""mrs ben brekke""]","[""Mrs. Ben Brekke""]",Mrs. Ben Brekke
+21698,The Shining,Lawerence Miller,Fiction in verse,Boydell & Brewer,2009,"[""lawerence miller""]","[""Lawerence Miller""]",Lawerence Miller
+21697,The Wizard of Oz,Aimee Fay,Essay,University of Akron Press,2023,"[""aimee fay""]","[""Aimee Fay""]",Aimee Fay
+22358,The Great Dictator,Suellen Swaniawski PhD,Essay,Tarpaulin Sky Press,2006,"[""suellen swaniawski phd""]","[""Suellen Swaniawski PhD""]",Suellen Swaniawski PhD
+21729,The Bourne Ultimatum,Dianne Moen Jr.,Speech,Booktrope,1990,"[""dianne moen jr""]","[""Dianne Moen Jr.""]",Dianne Moen Jr.
+22356,Wolfenstein: The New Order,Kyle Green Jr.,Fairy tale,Atheneum Books,1995,"[""kyle green jr""]","[""Kyle Green Jr.""]",Kyle Green Jr.
+21811,The Usual Suspects,"Fran Shields, Latoria Nitzsche",Classic,HarperCollins,1979,"[""fran shields"", ""latoria nitzsche""]","[""Fran Shields"", ""Latoria Nitzsche""]","Fran Shields, Latoria Nitzsche"
+22393,The Waste Land,Carey Kertzmann,Crime/Detective,Casemate Publishers,2021,"[""carey kertzmann""]","[""Carey Kertzmann""]",Carey Kertzmann
+21745,WALL·E,"Justina Ritchie, Odelia Greenholt III",Folklore,Papadakis Publisher,2025,"[""justina ritchie"", ""odelia greenholt iii""]","[""Justina Ritchie"", ""Odelia Greenholt III""]","Justina Ritchie, Odelia Greenholt III"
+22171,If I Forget Thee Jerusalem,Alfred Monahan,Comic/Graphic Novel,Vintage Books,1976,"[""alfred monahan""]","[""Alfred Monahan""]",Alfred Monahan
+22120,Super Mario Galaxy,"Ruthanne Lebsack, Trey Harris",Fable,Mainstream Publishing,2022,"[""ruthanne lebsack"", ""trey harris""]","[""Ruthanne Lebsack"", ""Trey Harris""]","Ruthanne Lebsack, Trey Harris"
+22123,Bad,Kylie Gerlach,Fiction narrative,Daedalus Publishing,2008,"[""kylie gerlach""]","[""Kylie Gerlach""]",Kylie Gerlach
+21739,PlayerUnknown's Battlegrounds,"Alphonse Wisozk, Alonso Pagac",Western,Tachyon Publications,1995,"[""alonso pagac"", ""alphonse wisozk""]","[""Alonso Pagac"", ""Alphonse Wisozk""]","Alonso Pagac, Alphonse Wisozk"
+21742,The Marshall Mathers LP,Lacy Cruickshank Ret.,Essay,ECW Press,2002,"[""lacy cruickshank ret""]","[""Lacy Cruickshank Ret.""]",Lacy Cruickshank Ret.
+21877,Wildfire at Midnight,"Latoria Nitzsche, Fran Shields, Elliott Ziemann",Metafiction,DAW Books,1976,"[""elliott ziemann"", ""fran shields"", ""latoria nitzsche""]","[""Elliott Ziemann"", ""Fran Shields"", ""Latoria Nitzsche""]","Elliott Ziemann, Fran Shields, Latoria Nitzsche"
+21760,Monster Hunter: World,Alan Cormier,Horror,Parachute Publishing,1978,"[""alan cormier""]","[""Alan Cormier""]",Alan Cormier
+22443,The Elephant Man,Helga Vandervort DC,Science fiction,Harvill Press at Random House,2001,"[""helga vandervort dc""]","[""Helga Vandervort DC""]",Helga Vandervort DC
+22289,Back in Black,Dr. Latoya Schaden,Fairy tale,Daedalus Publishing,2013,"[""dr latoya schaden""]","[""Dr. Latoya Schaden""]",Dr. Latoya Schaden
+21825,Metropolis,Mrs. Marlena Hahn,Classic,Manchester University Press,1960,"[""mrs marlena hahn""]","[""Mrs. Marlena Hahn""]",Mrs. Marlena Hahn
+22006,The Man Within,Mamie MacGyver DC,Metafiction,Airiti Press,1979,"[""mamie macgyver dc""]","[""Mamie MacGyver DC""]",Mamie MacGyver DC
+21757,Half-Life 2: Episode One,Karlyn Mills,Folklore,John Blake Publishing,1997,"[""karlyn mills""]","[""Karlyn Mills""]",Karlyn Mills
+21900,Call of Duty: Black Ops II,Zada Runolfsdottir,Fantasy,Heyday Books,2005,"[""zada runolfsdottir""]","[""Zada Runolfsdottir""]",Zada Runolfsdottir
+21868,Casino,Beverlee Koch,Metafiction,Hodder & Stoughton,2001,"[""beverlee koch""]","[""Beverlee Koch""]",Beverlee Koch
+22309,Halo 3,Kyle Green Jr.,Fable,Packt Publishing,1989,"[""kyle green jr""]","[""Kyle Green Jr.""]",Kyle Green Jr.
+22033,Super Mario Bros. 3,Drema Little,Textbook,Manning Publications,1996,"[""drema little""]","[""Drema Little""]",Drema Little
+21720,Crysis,Gertrude Rogahn,Mythology,Chatto and Windus,1995,"[""gertrude rogahn""]","[""Gertrude Rogahn""]",Gertrude Rogahn
+22263,Day of Defeat,Noel Daugherty,Fable,Harvest House,1995,"[""noel daugherty""]","[""Noel Daugherty""]",Noel Daugherty
+21951,Batman: Arkham City,"Marshall Hauck, Sol McDermott, Mr. Stephine Monahan, Hong Cassin IV",Mythopoeia,FabJob,1960,"[""hong cassin iv"", ""marshall hauck"", ""mr stephine monahan"", ""sol mcdermott""]","[""Hong Cassin IV"", ""Marshall Hauck"", ""Mr. Stephine Monahan"", ""Sol McDermott""]","Hong Cassin IV, Marshall Hauck, Mr. Stephine Monahan, Sol McDermott"
+22091,Bayonetta 2,Wendi Balistreri,Biography/Autobiography,Left Book Club,1994,"[""wendi balistreri""]","[""Wendi Balistreri""]",Wendi Balistreri
+22197,A Passage to India,Chanel Daugherty,Tall tale,Ace Books,-1,"[""chanel daugherty""]","[""Chanel Daugherty""]",Chanel Daugherty
+22365,25,Tennie Mante,Textbook,Bella Books,1986,"[""tennie mante""]","[""Tennie Mante""]",Tennie Mante
+22005,Dog Day Afternoon,Dexter Jacobi,Realistic fiction,Schocken Books,2006,"[""dexter jacobi""]","[""Dexter Jacobi""]",Dexter Jacobi
+22278,Wii Sports,Minh Leuschke,Reference book,University of Minnesota Press,1962,"[""minh leuschke""]","[""Minh Leuschke""]",Minh Leuschke
+21936,Daydream,Shantel Davis,Speech,Legend Books,2006,"[""shantel davis""]","[""Shantel Davis""]",Shantel Davis
+21989,L.A. Noire,Mr. Jenice Leannon,Mythopoeia,O'Reilly Media,1978,"[""mr jenice leannon""]","[""Mr. Jenice Leannon""]",Mr. Jenice Leannon
+22117,Far From the Madding Crowd,Shasta Mohr Sr.,Humor,Chambers Harrap,,"[""shasta mohr sr""]","[""Shasta Mohr Sr.""]",Shasta Mohr Sr.
+21944,Jesting Pilate,Richie Dickens,Reference book,Addison-Wesley,1978,"[""richie dickens""]","[""Richie Dickens""]",Richie Dickens
+22382,Memento,Mrs. Marlena Hahn,Tall tale,Brimstone Press,2026,"[""mrs marlena hahn""]","[""Mrs. Marlena Hahn""]",Mrs. Marlena Hahn
+21915,Se7en,"Alysa Schmidt V, Olivia Roberts",Fiction in verse,Holland Park Press,1982,"[""alysa schmidt v"", ""olivia roberts""]","[""Alysa Schmidt V"", ""Olivia Roberts""]","Alysa Schmidt V, Olivia Roberts"
+22088,Call of Duty: Modern Warfare 2,"Hong Kuphal, Blake Turcotte",Crime/Detective,Pantheon Books at Random House,1980,"[""blake turcotte"", ""hong kuphal""]","[""Blake Turcotte"", ""Hong Kuphal""]","Blake Turcotte, Hong Kuphal"
+21965,Intouchables,"Justina Ritchie, Odelia Greenholt III",Textbook,Ziff Davis Media,1996,"[""justina ritchie"", ""odelia greenholt iii""]","[""Justina Ritchie"", ""Odelia Greenholt III""]","Justina Ritchie, Odelia Greenholt III"
+21833,Paths of Glory,"Jerold Runolfsson JD, Suellen Swaniawski PhD",Essay,Cambridge University Press,2026,"[""jerold runolfsson jd"", ""suellen swaniawski phd""]","[""Jerold Runolfsson JD"", ""Suellen Swaniawski PhD""]","Jerold Runolfsson JD, Suellen Swaniawski PhD"
+21722,Metallica,"Ms. Arden Gorczany, Gov. Jeanne Wunsch, Mohammed Leannon",Essay,Peace Hill Press,1983,"[""gov jeanne wunsch"", ""mohammed leannon"", ""ms arden gorczany""]","[""Gov. Jeanne Wunsch"", ""Mohammed Leannon"", ""Ms. Arden Gorczany""]","Gov. Jeanne Wunsch, Mohammed Leannon, Ms. Arden Gorczany"
+22134,La La Land,Joaquin Romaguera,Classic,Chronicle Books,1996,"[""joaquin romaguera""]","[""Joaquin Romaguera""]",Joaquin Romaguera
+22008,Inglourious Basterds,"Rev. Maximo Torphy, Rev. Timothy O'Kon, Felisha Kshlerin Sr., Miss Dustin Gleichner",Science fiction,Bellevue Literary Press,2019,"[""felisha kshlerin sr"", ""miss dustin gleichner"", ""rev maximo torphy"", ""rev timothy o kon""]","[""Felisha Kshlerin Sr."", ""Miss Dustin Gleichner"", ""Rev. Maximo Torphy"", ""Rev. Timothy O'Kon""]","Felisha Kshlerin Sr., Miss Dustin Gleichner, Rev. Maximo Torphy, Rev. Timothy O'Kon"
+22284,The Golden Apples of the Sun,"Cori Koepp, Zina Prohaska II",Textbook,O'Reilly Media,1889,"[""cori koepp"", ""zina prohaska ii""]","[""Cori Koepp"", ""Zina Prohaska II""]","Cori Koepp, Zina Prohaska II"
+22188,Butter In a Lordly Dish,"Roy Gleichner, Omer Paucek VM",Metafiction,Focal Press,1998,"[""omer paucek vm"", ""roy gleichner""]","[""Omer Paucek VM"", ""Roy Gleichner""]","Omer Paucek VM, Roy Gleichner"
+22051,Grease: The Original Soundtrack from the Motion Picture,"Darrin Goodwin V, Kesha Rempel IV, Sen. Mickey Crist",Humor,Edupedia Publications,1985,"[""darrin goodwin v"", ""kesha rempel iv"", ""sen mickey crist""]","[""Darrin Goodwin V"", ""Kesha Rempel IV"", ""Sen. Mickey Crist""]","Darrin Goodwin V, Kesha Rempel IV, Sen. Mickey Crist"
+22231,Jesting Pilate,Richie Dickens,Reference book,University of Alaska Press,1988,"[""richie dickens""]","[""Richie Dickens""]",Richie Dickens
+22131,The Lathe of Heaven,Pamella Zieme,Metafiction,Blue Ribbon Books,2004,"[""pamella zieme""]","[""Pamella Zieme""]",Pamella Zieme
+21898,Toy Story 3,Fonda McClure,Fanfiction,Bantam Books,1964,"[""fonda mcclure""]","[""Fonda McClure""]",Fonda McClure
+21837,Diablo II,Elfriede Schaden I,Reference book,Broadview Press,1976,"[""elfriede schaden i""]","[""Elfriede Schaden I""]",Elfriede Schaden I
+21892,Frozen,"Alonso Pagac, Alphonse Wisozk",Reference book,Open University Press,1976,"[""alonso pagac"", ""alphonse wisozk""]","[""Alonso Pagac"", ""Alphonse Wisozk""]","Alonso Pagac, Alphonse Wisozk"
+22402,Nine Coaches Waiting,Miss Terrance Wolff,Fiction in verse,University of Minnesota Press,2022,"[""miss terrance wolff""]","[""Miss Terrance Wolff""]",Miss Terrance Wolff
+21850,High School Musical 2,Parker Bartell,Fiction narrative,Ian Allan Publishing,2012,"[""parker bartell""]","[""Parker Bartell""]",Parker Bartell
+22299,Far Cry,"Tracie Sauer, Vernon Von",Reference book,"Farrar, Straus & Giroux",-1,"[""tracie sauer"", ""vernon von""]","[""Tracie Sauer"", ""Vernon Von""]","Tracie Sauer, Vernon Von"
+22380,Mario Kart 64,Lizzette Schultz,Science fiction,Harcourt Assessment,2010,"[""lizzette schultz""]","[""Lizzette Schultz""]",Lizzette Schultz
+21853,WarioWare: Touched!,"Eddie Effertz, Virginia Goyette",Mythology,Darakwon Press,1984,"[""eddie effertz"", ""virginia goyette""]","[""Eddie Effertz"", ""Virginia Goyette""]","Eddie Effertz, Virginia Goyette"
+21929,Into the Wild,Kari Fahey,Metafiction,Manor House Publishing,1981,"[""kari fahey""]","[""Kari Fahey""]",Kari Fahey
+22229,Pokémon Gold,Tennie Mante,Horror,,2013,"[""tennie mante""]","[""Tennie Mante""]",Tennie Mante
+22312,Jesting Pilate,Richie Dickens,Reference book,Tachyon Publications,1976,"[""richie dickens""]","[""Richie Dickens""]",Richie Dickens
+21769,This Lime Tree Bower,Young Fay,Mythology,Casemate Publishers,,"[""young fay""]","[""Young Fay""]",Young Fay
+22355,His Dark Materials,Rev. Carolynn Ernser,Biography/Autobiography,Manor House Publishing,1888,"[""rev carolynn ernser""]","[""Rev. Carolynn Ernser""]",Rev. Carolynn Ernser
+22233,Cidade de Deus,Karlyn Mills,Suspense/Thriller,Target Books,1854,"[""karlyn mills""]","[""Karlyn Mills""]",Karlyn Mills
+21798,Blade Runner 2049,Eloise O'Conner,Legend,George Newnes,2011,"[""eloise o conner""]","[""Eloise O'Conner""]",Eloise O'Conner
+21953,Just Cause,Anne Abshire,Speech,Apress,2003,"[""anne abshire""]","[""Anne Abshire""]",Anne Abshire
+21959,Noli Me Tangere,Joseph Green DO,Humor,Heyday Books,1977,"[""joseph green do""]","[""Joseph Green DO""]",Joseph Green DO
+22282,Bastion,Deonna McCullough,Western,Random House,2004,"[""deonna mccullough""]","[""Deonna McCullough""]",Deonna McCullough
+21925,The Yellow Meads of Asphodel,Roy Gleichner,Horror,Hackett Publishing Company,1989,"[""roy gleichner""]","[""Roy Gleichner""]",Roy Gleichner
+22108,Françoise Sagan,Patrina Kunze III,Textbook,,2021,"[""patrina kunze iii""]","[""Patrina Kunze III""]",Patrina Kunze III
+22373,Nuovo Cinema Paradiso,Virgilio Wisoky,Metafiction,O'Reilly Media,2022,"[""virgilio wisoky""]","[""Virgilio Wisoky""]",Virgilio Wisoky
+22357,Life Is Beautiful,"Marcellus Rolfson, Garland Schaefer DDS, Maud Swift",Humor,Anvil Press Poetry,1991,"[""garland schaefer dds"", ""marcellus rolfson"", ""maud swift""]","[""Garland Schaefer DDS"", ""Marcellus Rolfson"", ""Maud Swift""]","Garland Schaefer DDS, Marcellus Rolfson, Maud Swift"
+21734,Slippery When Wet,Arianne Fritsch MD,Science fiction,Palgrave Macmillan,2007,"[""arianne fritsch md""]","[""Arianne Fritsch MD""]",Arianne Fritsch MD
+22129,Super Mario World,Valencia Dooley,Mystery,City Lights Publishers,1977,"[""valencia dooley""]","[""Valencia Dooley""]",Valencia Dooley
+21802,Songs About Jane,Rusty Batz,Narrative nonfiction,University of Akron Press,2005,"[""rusty batz""]","[""Rusty Batz""]",Rusty Batz
+22200,Diablo III,Kelvin Mueller,Mystery,Oberon Books,1977,"[""kelvin mueller""]","[""Kelvin Mueller""]",Kelvin Mueller
+21693,Pokémon FireRed,"Rev. Katina Pagac, Laree Mayer, Tristan Gerlach, Prof. Nathanael Cronin",Legend,Butterworth-Heinemann,2015,"[""laree mayer"", ""prof nathanael cronin"", ""rev katina pagac"", ""tristan gerlach""]","[""Laree Mayer"", ""Prof. Nathanael Cronin"", ""Rev. Katina Pagac"", ""Tristan Gerlach""]","Laree Mayer, Prof. Nathanael Cronin, Rev. Katina Pagac, Tristan Gerlach"
+22138,The Sign,Bobby Brakus,Historical fiction,Chick Publications,1988,"[""bobby brakus""]","[""Bobby Brakus""]",Bobby Brakus
+22346,Clouds of Witness,Lisbeth Homenick,Legend,Pavilion Books,2010,"[""lisbeth homenick""]","[""Lisbeth Homenick""]",Lisbeth Homenick
+22029,Wii Sports,Minh Leuschke,Reference book,Charles Scribner's Sons,1982,"[""minh leuschke""]","[""Minh Leuschke""]",Minh Leuschke
+22179,The Painted Veil,Mrs. Andy Rolfson,Textbook,Kogan Page,1982,"[""mrs andy rolfson""]","[""Mrs. Andy Rolfson""]",Mrs. Andy Rolfson
+21979,Memento,Mrs. Marlena Hahn,Tall tale,Horizon Scientific Press,2018,"[""mrs marlena hahn""]","[""Mrs. Marlena Hahn""]",Mrs. Marlena Hahn
+21735,Pokémon Y,"Pearly Flatley, Jerrell Roob",Narrative nonfiction,Ellora's Cave,2005,"[""jerrell roob"", ""pearly flatley""]","[""Jerrell Roob"", ""Pearly Flatley""]","Jerrell Roob, Pearly Flatley"
+22407,A Catskill Eagle,"Kesha Rempel IV, Sen. Mickey Crist, Darrin Goodwin V",Speech,Hay House,2017,"[""darrin goodwin v"", ""kesha rempel iv"", ""sen mickey crist""]","[""Darrin Goodwin V"", ""Kesha Rempel IV"", ""Sen. Mickey Crist""]","Darrin Goodwin V, Kesha Rempel IV, Sen. Mickey Crist"
+22232,All the King's Men,Ji Morar,Narrative nonfiction,Berkley Books,2026,"[""ji morar""]","[""Ji Morar""]",Ji Morar
+22269,Breakfast in America,"Dianne Moen Jr., Caitlin Ward",Classic,"Harry N. Abrams, Inc.",2004,"[""caitlin ward"", ""dianne moen jr""]","[""Caitlin Ward"", ""Dianne Moen Jr.""]","Caitlin Ward, Dianne Moen Jr."
+21752,Good Will Hunting,"Verna Dooley, Fr. Ward Greenfelder, Brendon Mante",Fiction narrative,Harvard University Press,1981,"[""brendon mante"", ""fr ward greenfelder"", ""verna dooley""]","[""Brendon Mante"", ""Fr. Ward Greenfelder"", ""Verna Dooley""]","Brendon Mante, Fr. Ward Greenfelder, Verna Dooley"
+21860,The Terminator,Rev. Jovan Koelpin,Crime/Detective,Zondervan,1987,"[""rev jovan koelpin""]","[""Rev. Jovan Koelpin""]",Rev. Jovan Koelpin
+22252,The Dark Knight,Antonio Bechtelar,Suspense/Thriller,Hodder & Stoughton,2016,"[""antonio bechtelar""]","[""Antonio Bechtelar""]",Antonio Bechtelar
+21875,Mega Man,Rev. Jovan Koelpin,Fiction in verse,Holland Park Press,2002,"[""rev jovan koelpin""]","[""Rev. Jovan Koelpin""]",Rev. Jovan Koelpin
+22199,Grave of the Fireflies,Virgilio Wisoky,Comic/Graphic Novel,Shuter & Shooter Publishers,,"[""virgilio wisoky""]","[""Virgilio Wisoky""]",Virgilio Wisoky
+22417,Pokémon Blue,"Dr. Latanya Homenick, Goldie Cartwright",Mythopoeia,Martinus Nijhoff Publishers,2008,"[""dr latanya homenick"", ""goldie cartwright""]","[""Dr. Latanya Homenick"", ""Goldie Cartwright""]","Dr. Latanya Homenick, Goldie Cartwright"
+22386,Super Mario Bros. 2,Edyth McCullough,Classic,University of Nebraska Press,2021,"[""edyth mccullough""]","[""Edyth McCullough""]",Edyth McCullough
+21942,The Wind's Twelve Quarters,Mr. Jenice Leannon,Textbook,Shuter & Shooter Publishers,1991,"[""mr jenice leannon""]","[""Mr. Jenice Leannon""]",Mr. Jenice Leannon
+21696,Little Hands Clapping,Monte White,Essay,University of California Press,2000,"[""monte white""]","[""Monte White""]",Monte White
+22124,Fortnite,Paul Yundt,Fantasy,Adis International,2020,"[""paul yundt""]","[""Paul Yundt""]",Paul Yundt
+22404,The Moving Toyshop,Goldie Cartwright,Mythopoeia,Lion Hudson,2002,"[""goldie cartwright""]","[""Goldie Cartwright""]",Goldie Cartwright
+21848,Pokémon Alpha Sapphire,Mrs. Marlon Kris,Folklore,Shuter & Shooter Publishers,2003,"[""mrs marlon kris""]","[""Mrs. Marlon Kris""]",Mrs. Marlon Kris
+21815,Mario Kart 7,"Zina Prohaska II, Cori Koepp",Reference book,Broadview Press,2026,"[""cori koepp"", ""zina prohaska ii""]","[""Cori Koepp"", ""Zina Prohaska II""]","Cori Koepp, Zina Prohaska II"
+21907,Mr Standfast,Suzie Bauch,Textbook,Mandrake of Oxford,2016,"[""suzie bauch""]","[""Suzie Bauch""]",Suzie Bauch
+22113,The Dark Side of the Moon,Felicia Moen,Horror,Cengage Learning,-1,"[""felicia moen""]","[""Felicia Moen""]",Felicia Moen
+22076,Wolfenstein 3D,Forrest Vandervort,Fable,Open Court Publishing Company,2008,"[""forrest vandervort""]","[""Forrest Vandervort""]",Forrest Vandervort
+22050,The Shawshank Redemption,Denita Farrell,Suspense/Thriller,Academic Press,1994,"[""denita farrell""]","[""Denita Farrell""]",Denita Farrell
+21686,The Needle's Eye,Isa Williamson,Science fiction,Edupedia Publications,1965,"[""isa williamson""]","[""Isa Williamson""]",Isa Williamson
+21759,Of Mice and Men,"Tai Boyer, Barbera Pfannerstill, Terence Kuhn, Tiffany Wisoky, Gov. Bradly McCullough, Salvador Osinski",Humor,Academic Press,1848,"[""barbera pfannerstill"", ""gov bradly mccullough"", ""salvador osinski"", ""tai boyer"", ""terence kuhn"", ""tiffany wisoky""]","[""Barbera Pfannerstill"", ""Gov. Bradly McCullough"", ""Salvador Osinski"", ""Tai Boyer"", ""Terence Kuhn"", ""Tiffany Wisoky""]","Barbera Pfannerstill, Gov. Bradly McCullough, Salvador Osinski, Tai Boyer, Terence Kuhn, Tiffany Wisoky"
+22150,Perfect Dark,Shanon Walter,Science fiction,Banner of Truth Trust,2026,"[""shanon walter""]","[""Shanon Walter""]",Shanon Walter
+21956,Commandos: Strike Force,"Jerold Runolfsson JD, Suellen Swaniawski PhD",Metafiction,Shire Books,1999,"[""jerold runolfsson jd"", ""suellen swaniawski phd""]","[""Jerold Runolfsson JD"", ""Suellen Swaniawski PhD""]","Jerold Runolfsson JD, Suellen Swaniawski PhD"
+21787,Tirra Lirra by the River,Latrina Fahey MD,Tall tale,J. M. Dent,1989,"[""latrina fahey md""]","[""Latrina Fahey MD""]",Latrina Fahey MD
+22143,The Bridge on the River Kwai,"Alonso Pagac, Alphonse Wisozk",Reference book,Bison Books,1993,"[""alonso pagac"", ""alphonse wisozk""]","[""Alonso Pagac"", ""Alphonse Wisozk""]","Alonso Pagac, Alphonse Wisozk"
+21858,Toy Story,Yong Lehner,Humor,Shambhala Publications,1994,"[""yong lehner""]","[""Yong Lehner""]",Yong Lehner
+22043,The Lion King,Rev. Carolynn Ernser,Classic,Liberty Fund,1976,"[""rev carolynn ernser""]","[""Rev. Carolynn Ernser""]",Rev. Carolynn Ernser
+21961,Indiana Jones and the Last Crusade,Johanna Pollich PhD,Biography/Autobiography,United States Government Publishing Office,2007,"[""johanna pollich phd""]","[""Johanna Pollich PhD""]",Johanna Pollich PhD
+22170,Mass Effect,Cary Erdman,Classic,Felony & Mayhem Press,1830,"[""cary erdman""]","[""Cary Erdman""]",Cary Erdman
+21776,Time To Murder And Create,Suellen Swaniawski PhD,Classic,Central European University Press,2026,"[""suellen swaniawski phd""]","[""Suellen Swaniawski PhD""]",Suellen Swaniawski PhD
+22389,The Millstone,Brendon Kuhic,Essay,Bantam Books,2010,"[""brendon kuhic""]","[""Brendon Kuhic""]",Brendon Kuhic
+22040,Max Payne 2: The Fall of Max Payne,Nella Reilly DDS,Biography/Autobiography,Vintage Books at Random House,2011,"[""nella reilly dds""]","[""Nella Reilly DDS""]",Nella Reilly DDS
+21993,Wii Music,Shana Morissette Ret.,Essay,,1989,"[""shana morissette ret""]","[""Shana Morissette Ret.""]",Shana Morissette Ret.
+22332,A Handful of Dust,Dennis Greenfelder V,Essay,Carnegie Mellon University Press,1857,"[""dennis greenfelder v""]","[""Dennis Greenfelder V""]",Dennis Greenfelder V
+21878,No Country for Old Men,Laverna Hermann III,Biography/Autobiography,Marion Boyars Publishers,1979,"[""laverna hermann iii""]","[""Laverna Hermann III""]",Laverna Hermann III
+21943,Faith,"Marshall Hauck, Hong Cassin IV, Mr. Stephine Monahan",Biography/Autobiography,Sams Publishing,1994,"[""hong cassin iv"", ""marshall hauck"", ""mr stephine monahan""]","[""Hong Cassin IV"", ""Marshall Hauck"", ""Mr. Stephine Monahan""]","Hong Cassin IV, Marshall Hauck, Mr. Stephine Monahan"
+21851,Commandos: Beyond the Call of Duty,Paul Yundt,Metafiction,Virgin Publishing,2017,"[""paul yundt""]","[""Paul Yundt""]",Paul Yundt
+21910,Things Fall Apart,Myong Connelly,Fantasy,St. Martin's Press,1991,"[""myong connelly""]","[""Myong Connelly""]",Myong Connelly
+21999,12 Angry Men,Mrs. Marlena Hahn,Mythopoeia,Breslov Research Institute,1983,"[""mrs marlena hahn""]","[""Mrs. Marlena Hahn""]",Mrs. Marlena Hahn
+21832,Happy Nation,Lawerence Miller,Suspense/Thriller,G. P. Putnam's Sons,1851,"[""lawerence miller""]","[""Lawerence Miller""]",Lawerence Miller
+22044,The Lord of the Rings: The Return of the King,Lindsay Jacobson,Fantasy,Legend Books,1992,"[""lindsay jacobson""]","[""Lindsay Jacobson""]",Lindsay Jacobson
+21727,A Confederacy of Dunces,Lachelle Thompson,Fable,Horizon Scientific Press,2000,"[""lachelle thompson""]","[""Lachelle Thompson""]",Lachelle Thompson
+22226,Dying of the Light,"Randell Jerde I, Ruby Wolff, Msgr. Clara Hermiston",Fiction in verse,SAGE Publications,2022,"[""msgr clara hermiston"", ""randell jerde i"", ""ruby wolff""]","[""Msgr. Clara Hermiston"", ""Randell Jerde I"", ""Ruby Wolff""]","Msgr. Clara Hermiston, Randell Jerde I, Ruby Wolff"
+22364,Dwarf Fortress,Beverlee Koch,Metafiction,Shambhala Publications,2019,"[""beverlee koch""]","[""Beverlee Koch""]",Beverlee Koch
+22276,Whitney,Forest Veum,Fiction in verse,Golden Cockerel Press,2006,"[""forest veum""]","[""Forest Veum""]",Forest Veum
+21950,Firewatch,"Virgilio Wisoky, Howard Skiles",Short story,Airiti Press,1962,"[""howard skiles"", ""virgilio wisoky""]","[""Howard Skiles"", ""Virgilio Wisoky""]","Howard Skiles, Virgilio Wisoky"
+22345,Pac-Man,Ms. Sol Friesen,Humor,New Village Press,1986,"[""ms sol friesen""]","[""Ms. Sol Friesen""]",Ms. Sol Friesen
+21714,Midnight Memories,Shasta Mohr Sr.,Mystery,Atlas Press,2016,"[""shasta mohr sr""]","[""Shasta Mohr Sr.""]",Shasta Mohr Sr.
+22390,The Parliament of Man,Karlyn Wuckert,Comic/Graphic Novel,Focal Press,1876,"[""karlyn wuckert""]","[""Karlyn Wuckert""]",Karlyn Wuckert
+22413,Breakfast in America,"Dianne Moen Jr., Caitlin Ward",Classic,Belknap Press,1994,"[""caitlin ward"", ""dianne moen jr""]","[""Caitlin Ward"", ""Dianne Moen Jr.""]","Caitlin Ward, Dianne Moen Jr."
+22262,The Needle's Eye,Isa Williamson,Science fiction,Manchester University Press,1984,"[""isa williamson""]","[""Isa Williamson""]",Isa Williamson
+22391,Halo 3: ODST,"Howard Skiles, Virgilio Wisoky",Mythopoeia,Belknap Press,1892,"[""howard skiles"", ""virgilio wisoky""]","[""Howard Skiles"", ""Virgilio Wisoky""]","Howard Skiles, Virgilio Wisoky"
+22214,Infamous,Lyle Moore,Humor,Target Books,2020,"[""lyle moore""]","[""Lyle Moore""]",Lyle Moore
+21754,"Ah, Wilderness!",Caitlin Ward,Fable,"Farrar, Straus & Giroux",2020,"[""caitlin ward""]","[""Caitlin Ward""]",Caitlin Ward
+22210,Spotlight,"Rev. Jovan Koelpin, Seth Carter",Humor,Blackstaff Press,1997,"[""rev jovan koelpin"", ""seth carter""]","[""Rev. Jovan Koelpin"", ""Seth Carter""]","Rev. Jovan Koelpin, Seth Carter"
+21970,The Departed,"Todd Kreiger, Son Nikolaus",Mythology,Del Rey Books,1983,"[""son nikolaus"", ""todd kreiger""]","[""Son Nikolaus"", ""Todd Kreiger""]","Son Nikolaus, Todd Kreiger"
+22115,Half-Life 2,Shirley Steuber,Crime/Detective,Orion Books,2008,"[""shirley steuber""]","[""Shirley Steuber""]",Shirley Steuber
+22322,Bat Out of Hell,"Elliott Ziemann, Fran Shields, Latoria Nitzsche",Western,"Farrar, Straus & Giroux",2003,"[""elliott ziemann"", ""fran shields"", ""latoria nitzsche""]","[""Elliott Ziemann"", ""Fran Shields"", ""Latoria Nitzsche""]","Elliott Ziemann, Fran Shields, Latoria Nitzsche"
+22294,The Mirror Crack'd from Side to Side,"Omer Paucek VM, Roy Gleichner",Short story,Hay House,1993,"[""omer paucek vm"", ""roy gleichner""]","[""Omer Paucek VM"", ""Roy Gleichner""]","Omer Paucek VM, Roy Gleichner"
+21704,Brütal Legend,Bo Zulauf DC,Tall tale,Hamish Hamilton,0,"[""bo zulauf dc""]","[""Bo Zulauf DC""]",Bo Zulauf DC
+21891,...Baby One More Time,"Verna Dooley, Brendon Mante, Fr. Ward Greenfelder",Folklore,Bison Books,2016,"[""brendon mante"", ""fr ward greenfelder"", ""verna dooley""]","[""Brendon Mante"", ""Fr. Ward Greenfelder"", ""Verna Dooley""]","Brendon Mante, Fr. Ward Greenfelder, Verna Dooley"
+22343,The Sixth Sense,Elliott Ziemann,Narrative nonfiction,Simon & Schuster,1896,"[""elliott ziemann""]","[""Elliott Ziemann""]",Elliott Ziemann
+22351,Vile Bodies,Seth Carter,Science fiction,"Farrar, Straus & Giroux",2005,"[""seth carter""]","[""Seth Carter""]",Seth Carter
+22203,Pale Kings and Princes,Rusty Batz,Tall tale,Kensington Books,1986,"[""rusty batz""]","[""Rusty Batz""]",Rusty Batz
+22003,Pokémon White 2,"Major Parker, Sen. Chi Swaniawski, Jacques Rau, India Heaney",Textbook,Atheneum Publishers,2019,"[""india heaney"", ""jacques rau"", ""major parker"", ""sen chi swaniawski""]","[""India Heaney"", ""Jacques Rau"", ""Major Parker"", ""Sen. Chi Swaniawski""]","India Heaney, Jacques Rau, Major Parker, Sen. Chi Swaniawski"
+21899,To a God Unknown,Patrina Kunze III,Classic,Atlas Press,2018,"[""patrina kunze iii""]","[""Patrina Kunze III""]",Patrina Kunze III
+22107,His Dark Materials,Rev. Carolynn Ernser,Biography/Autobiography,Central European University Press,1896,"[""rev carolynn ernser""]","[""Rev. Carolynn Ernser""]",Rev. Carolynn Ernser
+22060,The Violent Bear It Away,"Zada Runolfsdottir, Gil Runolfsdottir",Legend,HMSO,1977,"[""gil runolfsdottir"", ""zada runolfsdottir""]","[""Gil Runolfsdottir"", ""Zada Runolfsdottir""]","Gil Runolfsdottir, Zada Runolfsdottir"
+21797,Left 4 Dead 2,Tessa Moen,Realistic fiction,Daedalus Publishing,2014,"[""tessa moen""]","[""Tessa Moen""]",Tessa Moen
+21777,The Deer Hunter,Delmar Heaney CPA,Suspense/Thriller,Lion Hudson,2024,"[""delmar heaney cpa""]","[""Delmar Heaney CPA""]",Delmar Heaney CPA
+21856,21,Dale Ebert,Classic,Bloomsbury Publishing Plc,2020,"[""dale ebert""]","[""Dale Ebert""]",Dale Ebert
+22112,Devil May Cry,"Darron Orn, Juli Bailey",Historical fiction,Ian Allan Publishing,2009,"[""darron orn"", ""juli bailey""]","[""Darron Orn"", ""Juli Bailey""]","Darron Orn, Juli Bailey"
+21782,As I Lay Dying,Robt Robel,Fairy tale,Fairview Press,1991,"[""robt robel""]","[""Robt Robel""]",Robt Robel
+21882,I Know Why the Caged Bird Sings,"Fr. Ward Greenfelder, Brendon Mante, Verna Dooley",Essay,Bella Books,1996,"[""brendon mante"", ""fr ward greenfelder"", ""verna dooley""]","[""Brendon Mante"", ""Fr. Ward Greenfelder"", ""Verna Dooley""]","Brendon Mante, Fr. Ward Greenfelder, Verna Dooley"
+22182,Beneath the Bleeding,Ethel Morar,Classic,Medknow Publications,1990,"[""ethel morar""]","[""Ethel Morar""]",Ethel Morar
+21871,Civilization V,Cristen Berge JD,Reference book,Gefen Publishing House,2025,"[""cristen berge jd""]","[""Cristen Berge JD""]",Cristen Berge JD
+22198,Pokémon Ruby,Christopher Green,Biography/Autobiography,Bison Books,1977,"[""christopher green""]","[""Christopher Green""]",Christopher Green
+21823,Surprised by Joy,Helga Vandervort DC,Crime/Detective,Atheneum Books,1984,"[""helga vandervort dc""]","[""Helga Vandervort DC""]",Helga Vandervort DC
+22267,Greatest Hits,"Rev. Katina Pagac, Laree Mayer, Tristan Gerlach",Mystery,St. Martin's Press,2007,"[""laree mayer"", ""rev katina pagac"", ""tristan gerlach""]","[""Laree Mayer"", ""Rev. Katina Pagac"", ""Tristan Gerlach""]","Laree Mayer, Rev. Katina Pagac, Tristan Gerlach"
+22448,Star Wars: Episode I – The Phantom Menace,Roy Gleichner,Humor,Bella Books,1997,"[""roy gleichner""]","[""Roy Gleichner""]",Roy Gleichner
+21963,Down to a Sunless Sea,Mistie Brekke PhD,Textbook,Marshall Cavendish,2014,"[""mistie brekke phd""]","[""Mistie Brekke PhD""]",Mistie Brekke PhD
+21808,Thriller,Paulina Franecki,Legend,Taunton Press,1992,"[""paulina franecki""]","[""Paulina Franecki""]",Paulina Franecki
+21762,Blithe Spirit,Ethel Morar,Fiction narrative,Kodansha,2002,"[""ethel morar""]","[""Ethel Morar""]",Ethel Morar
+21968,The Wings of the Dove,Brittni O'Kon JD,Comic/Graphic Novel,Atlas Press,1996,"[""brittni o kon jd""]","[""Brittni O'Kon JD""]",Brittni O'Kon JD
+22189,Deus Ex,Clifton Mitchell PhD,Textbook,Edupedia Publications,1995,"[""clifton mitchell phd""]","[""Clifton Mitchell PhD""]",Clifton Mitchell PhD
+21701,Viva la Vida or Death and All His Friends,"Heriberto Kutch, Emil Rempel, Merle Rice",Comic/Graphic Novel,,2008,"[""emil rempel"", ""heriberto kutch"", ""merle rice""]","[""Emil Rempel"", ""Heriberto Kutch"", ""Merle Rice""]","Emil Rempel, Heriberto Kutch, Merle Rice"
+22157,Cool Hand Luke,Mrs. Ben Brekke,Fanfiction,Godwit Press,2011,"[""mrs ben brekke""]","[""Mrs. Ben Brekke""]",Mrs. Ben Brekke
+21991,The Thing,Ms. Jack Kuvalis,Comic/Graphic Novel,Pecan Grove Press,2000,"[""ms jack kuvalis""]","[""Ms. Jack Kuvalis""]",Ms. Jack Kuvalis
+21948,Appetite for Destruction,Viva Wyman Jr.,Mystery,University of Minnesota Press,2025,"[""viva wyman jr""]","[""Viva Wyman Jr.""]",Viva Wyman Jr.
+21866,The Departed,"Todd Kreiger, Son Nikolaus",Mythology,ECW Press,1962,"[""son nikolaus"", ""todd kreiger""]","[""Son Nikolaus"", ""Todd Kreiger""]","Son Nikolaus, Todd Kreiger"
+21791,The Princess Bride,"Esteban Swift, Jerrell Rau, Dr. Ollie Aufderhar",Fairy tale,Tate Publishing & Enterprises,1995,"[""dr ollie aufderhar"", ""esteban swift"", ""jerrell rau""]","[""Dr. Ollie Aufderhar"", ""Esteban Swift"", ""Jerrell Rau""]","Dr. Ollie Aufderhar, Esteban Swift, Jerrell Rau"
+22084,Surprised by Joy,Helga Vandervort DC,Crime/Detective,Palgrave Macmillan,1998,"[""helga vandervort dc""]","[""Helga Vandervort DC""]",Helga Vandervort DC
+22354,Pokémon: Let's Go Eevee!,Tessa Moen,Mythopoeia,Harvard University Press,1979,"[""tessa moen""]","[""Tessa Moen""]",Tessa Moen
+22305,It's a Battlefield,Micah Von,Legend,Adis International,1984,"[""micah von""]","[""Micah Von""]",Micah Von
+22420,Blue Remembered Earth,Prof. Nathanael Cronin,Fable,Lethe Press,1977,"[""prof nathanael cronin""]","[""Prof. Nathanael Cronin""]",Prof. Nathanael Cronin
+22428,In Death Ground,Helga Vandervort DC,Tall tale,Hamish Hamilton,2021,"[""helga vandervort dc""]","[""Helga Vandervort DC""]",Helga Vandervort DC
+22259,Pokémon HeartGold,"Suellen Swaniawski PhD, Jerold Runolfsson JD",Comic/Graphic Novel,Adis International,2006,"[""jerold runolfsson jd"", ""suellen swaniawski phd""]","[""Jerold Runolfsson JD"", ""Suellen Swaniawski PhD""]","Jerold Runolfsson JD, Suellen Swaniawski PhD"
+22344,The General,Prof. Nathanael Cronin,Humor,Borgo Press,1992,"[""prof nathanael cronin""]","[""Prof. Nathanael Cronin""]",Prof. Nathanael Cronin
+22070,A Time to Kill,Brendon Kuhic,Mythopoeia,Hay House,2010,"[""brendon kuhic""]","[""Brendon Kuhic""]",Brendon Kuhic
+21805,Wii Sports Resort,Golden Predovic,Fairy tale,Cloverdale Corporation,1977,"[""golden predovic""]","[""Golden Predovic""]",Golden Predovic
+22219,Fallout: New Vegas,Clifton Mitchell PhD,Metafiction,Ignatius Press,2019,"[""clifton mitchell phd""]","[""Clifton Mitchell PhD""]",Clifton Mitchell PhD
+21894,Saturday Night Fever,"Marshall Schiller, Daysi Huel, Rayford Hyatt, Louella Schultz",Western,New English Library,1994,"[""daysi huel"", ""louella schultz"", ""marshall schiller"", ""rayford hyatt""]","[""Daysi Huel"", ""Louella Schultz"", ""Marshall Schiller"", ""Rayford Hyatt""]","Daysi Huel, Louella Schultz, Marshall Schiller, Rayford Hyatt"
+21773,For a Breath I Tarry,Micheal Reinger,Historical fiction,Eerdmans Publishing,1907,"[""micheal reinger""]","[""Micheal Reinger""]",Micheal Reinger
+22216,Star Wars: Episode VIII – The Last Jedi,"Micheal Reinger, Tennie Mante",Tall tale,Ignatius Press,1994,"[""micheal reinger"", ""tennie mante""]","[""Micheal Reinger"", ""Tennie Mante""]","Micheal Reinger, Tennie Mante"
+21771,Endless Night,Edmundo Hessel,Tall tale,Pan Books,2007,"[""edmundo hessel""]","[""Edmundo Hessel""]",Edmundo Hessel
+22212,Apocalypse Now,Miss Cherryl Pollich,Suspense/Thriller,Breslov Research Institute,2013,"[""miss cherryl pollich""]","[""Miss Cherryl Pollich""]",Miss Cherryl Pollich
+22038,The Gold Rush,"Providencia O'Conner, Ivelisse Romaguera V",Tall tale,Hackett Publishing Company,1990,"[""ivelisse romaguera v"", ""providencia o conner""]","[""Ivelisse Romaguera V"", ""Providencia O'Conner""]","Ivelisse Romaguera V, Providencia O'Conner"
+21969,An Instant In The Wind,Leif West,Biography/Autobiography,Cambridge University Press,2005,"[""leif west""]","[""Leif West""]",Leif West
+22398,Backstreet's Back,Howard Skiles,Humor,Newnes,1988,"[""howard skiles""]","[""Howard Skiles""]",Howard Skiles
+22114,Starcraft,Ezekiel Nolan,Essay,Earthscan,1990,"[""ezekiel nolan""]","[""Ezekiel Nolan""]",Ezekiel Nolan
+22025,Braveheart,"Lindy Schaden, Claudio Rippin, Alvin Kautzer",Suspense/Thriller,D. Appleton & Company,1983,"[""alvin kautzer"", ""claudio rippin"", ""lindy schaden""]","[""Alvin Kautzer"", ""Claudio Rippin"", ""Lindy Schaden""]","Alvin Kautzer, Claudio Rippin, Lindy Schaden"
+22086,American Beauty,Kaylene Willms VM,Classic,Churchill Livingstone,1994,"[""kaylene willms vm""]","[""Kaylene Willms VM""]",Kaylene Willms VM
+22406,Twelve Monkeys,"Tracie Sauer, Vernon Von",Mythopoeia,BBC Books,1992,"[""tracie sauer"", ""vernon von""]","[""Tracie Sauer"", ""Vernon Von""]","Tracie Sauer, Vernon Von"
+22271,Taming a Sea Horse,Stephan Dicki,Textbook,Chronicle Books,2012,"[""stephan dicki""]","[""Stephan Dicki""]",Stephan Dicki
+22250,Pokémon Red,"Heriberto Kutch, Merle Rice, Emil Rempel",Folklore,Applewood Books,2021,"[""emil rempel"", ""heriberto kutch"", ""merle rice""]","[""Emil Rempel"", ""Heriberto Kutch"", ""Merle Rice""]","Emil Rempel, Heriberto Kutch, Merle Rice"
+21905,The Grand Budapest Hotel,"Minh Leuschke, Alonso Pagac, Alphonse Wisozk",Biography/Autobiography,Da Capo Press,1952,"[""alonso pagac"", ""alphonse wisozk"", ""minh leuschke""]","[""Alonso Pagac"", ""Alphonse Wisozk"", ""Minh Leuschke""]","Alonso Pagac, Alphonse Wisozk, Minh Leuschke"
+22001,Infinite Jest,"Drema Little, Amb. Maudie Connelly",Fiction in verse,Dedalus Books,2025,"[""amb maudie connelly"", ""drema little""]","[""Amb. Maudie Connelly"", ""Drema Little""]","Amb. Maudie Connelly, Drema Little"
+21831,Doom,"Mr. Jenice Leannon, Providencia O'Conner",Fanfiction,Charles Scribner's Sons,2006,"[""mr jenice leannon"", ""providencia o conner""]","[""Mr. Jenice Leannon"", ""Providencia O'Conner""]","Mr. Jenice Leannon, Providencia O'Conner"
+22272,Pokémon: Let's Go Pikachu!,Drema Little,Mythopoeia,Naiad Press,1991,"[""drema little""]","[""Drema Little""]",Drema Little
+22427,All We Know Is Falling,"Goldie Cartwright, Dr. Latanya Homenick",Western,Harcourt Assessment,1979,"[""dr latanya homenick"", ""goldie cartwright""]","[""Dr. Latanya Homenick"", ""Goldie Cartwright""]","Dr. Latanya Homenick, Goldie Cartwright"
+21813,In a Glass Darkly,Lue Prohaska Sr.,Western,E. P. Dutton,1981,"[""lue prohaska sr""]","[""Lue Prohaska Sr.""]",Lue Prohaska Sr.
+22122,A Scanner Darkly,Rosette Runte PhD,Tall tale,Imperial War Museum,1985,"[""rosette runte phd""]","[""Rosette Runte PhD""]",Rosette Runte PhD
+22169,How to Train Your Dragon,Dr. Latanya Homenick,Reference book,Jaico Publishing House,2013,"[""dr latanya homenick""]","[""Dr. Latanya Homenick""]",Dr. Latanya Homenick
+21814,Shadow Tactics: Blade of the Shogun,"Providencia O'Conner, Ivelisse Romaguera V",Fairy tale,Parragon,1991,"[""ivelisse romaguera v"", ""providencia o conner""]","[""Ivelisse Romaguera V"", ""Providencia O'Conner""]","Ivelisse Romaguera V, Providencia O'Conner"
+21977,Frequent Hearses,Edyth McCullough,Legend,Blackie and Son Limited,2005,"[""edyth mccullough""]","[""Edyth McCullough""]",Edyth McCullough
+21923,The Green Bay Tree,Barry Waters,Fairy tale,Book League of America,1933,"[""barry waters""]","[""Barry Waters""]",Barry Waters
+22142,The Grapes of Wrath,Jamie Schaden,Suspense/Thriller,Vintage Books at Random House,1933,"[""jamie schaden""]","[""Jamie Schaden""]",Jamie Schaden
+21700,No Longer at Ease,Kaycee Quigley MD,Folklore,Barrie & Jenkins,1985,"[""kaycee quigley md""]","[""Kaycee Quigley MD""]",Kaycee Quigley MD
+22251,Mr. Smith Goes to Washington,Mrs. Maye Collier,Narrative nonfiction,Medknow Publications,1977,"[""mrs maye collier""]","[""Mrs. Maye Collier""]",Mrs. Maye Collier
+21715,Ricochet,Nieves Schulist,Fiction in verse,Focal Press,2020,"[""nieves schulist""]","[""Nieves Schulist""]",Nieves Schulist
+21691,Command & Conquer: Tiberium Alliances,Bobby Brakus,Fiction in verse,Carlton Publishing Group,2021,"[""bobby brakus""]","[""Bobby Brakus""]",Bobby Brakus
+22126,The Proper Study,Mrs. Maye Collier,Fantasy,Unfinished Monument Press,2025,"[""mrs maye collier""]","[""Mrs. Maye Collier""]",Mrs. Maye Collier
+21732,The Sun Also Rises,"Zada Runolfsdottir, Gil Runolfsdottir",Comic/Graphic Novel,ECW Press,2004,"[""gil runolfsdottir"", ""zada runolfsdottir""]","[""Gil Runolfsdottir"", ""Zada Runolfsdottir""]","Gil Runolfsdottir, Zada Runolfsdottir"
+22438,Look to Windward,"Dianne Moen Jr., Adena MacGyver, Thersa Marvin",Short story,Virgin Publishing,1999,"[""adena macgyver"", ""dianne moen jr"", ""thersa marvin""]","[""Adena MacGyver"", ""Dianne Moen Jr."", ""Thersa Marvin""]","Adena MacGyver, Dianne Moen Jr., Thersa Marvin"
+22032,Super Mario Galaxy 2,Nella Reilly DDS,Legend,Charles Scribner's Sons,1875,"[""nella reilly dds""]","[""Nella Reilly DDS""]",Nella Reilly DDS
+22324,Chinatown,Jules Grady,Tall tale,Ten Speed Press,1843,"[""jules grady""]","[""Jules Grady""]",Jules Grady
+21990,The Truman Show,"Trey Harris, Ruthanne Lebsack",Fairy tale,Academic Press,2017,"[""ruthanne lebsack"", ""trey harris""]","[""Ruthanne Lebsack"", ""Trey Harris""]","Ruthanne Lebsack, Trey Harris"
+22052,Dungeon Keeper,"Mrs. Marlon Kris, Tiffany Wisoky, Tai Boyer, Salvador Osinski",Short story,Karadi Tales,1995,"[""mrs marlon kris"", ""salvador osinski"", ""tai boyer"", ""tiffany wisoky""]","[""Mrs. Marlon Kris"", ""Salvador Osinski"", ""Tai Boyer"", ""Tiffany Wisoky""]","Mrs. Marlon Kris, Salvador Osinski, Tai Boyer, Tiffany Wisoky"
+22450,2001: A Space Odyssey,Kaylene Willms VM,Realistic fiction,,1840,"[""kaylene willms vm""]","[""Kaylene Willms VM""]",Kaylene Willms VM
+21954,The Godfather: Part II,Zada Runolfsdottir,Mythopoeia,University of Michigan Press,2008,"[""zada runolfsdottir""]","[""Zada Runolfsdottir""]",Zada Runolfsdottir
+22362,(What's the Story) Morning Glory?,Mrs. Marlena Hahn,Fable,Candlewick Press,1994,"[""mrs marlena hahn""]","[""Mrs. Marlena Hahn""]",Mrs. Marlena Hahn
+22245,Dulce et Decorum Est,"Sen. Chi Swaniawski, Jacques Rau, Major Parker, India Heaney",Fiction narrative,Fearless Books,2001,"[""india heaney"", ""jacques rau"", ""major parker"", ""sen chi swaniawski""]","[""India Heaney"", ""Jacques Rau"", ""Major Parker"", ""Sen. Chi Swaniawski""]","India Heaney, Jacques Rau, Major Parker, Sen. Chi Swaniawski"
+21725,The Big Lebowski,"Rev. Maximo Torphy, Rev. Timothy O'Kon, Miss Dustin Gleichner, Felisha Kshlerin Sr.",Legend,Mark Batty Publisher,1998,"[""felisha kshlerin sr"", ""miss dustin gleichner"", ""rev maximo torphy"", ""rev timothy o kon""]","[""Felisha Kshlerin Sr."", ""Miss Dustin Gleichner"", ""Rev. Maximo Torphy"", ""Rev. Timothy O'Kon""]","Felisha Kshlerin Sr., Miss Dustin Gleichner, Rev. Maximo Torphy, Rev. Timothy O'Kon"
+21792,A Many-Splendoured Thing,Vicki Balistreri,Fairy tale,Firebrand Books,2002,"[""vicki balistreri""]","[""Vicki Balistreri""]",Vicki Balistreri
+21737,Music Box,Deonna McCullough,Comic/Graphic Novel,D. Appleton & Company,2007,"[""deonna mccullough""]","[""Deonna McCullough""]",Deonna McCullough
+22028,The Wall,"Shaina Wehner, Elida Muller DDS",Metafiction,HarperPrism,1986,"[""elida muller dds"", ""shaina wehner""]","[""Elida Muller DDS"", ""Shaina Wehner""]","Elida Muller DDS, Shaina Wehner"
+22426,3 Idiots,Lachelle Thompson,Mythology,Airiti Press,1981,"[""lachelle thompson""]","[""Lachelle Thompson""]",Lachelle Thompson
+21821,Have His Carcase,"Juli Bailey, Darron Orn",Narrative nonfiction,Harvest House,2019,"[""darron orn"", ""juli bailey""]","[""Darron Orn"", ""Juli Bailey""]","Darron Orn, Juli Bailey"
+22270,Oops!... I Did It Again,Viva Wyman Jr.,Speech,Mandrake Press,1945,"[""viva wyman jr""]","[""Viva Wyman Jr.""]",Viva Wyman Jr.
+21911,Metroid Prime 3: Corruption,Foster Cassin,Historical fiction,Fearless Books,2023,"[""foster cassin""]","[""Foster Cassin""]",Foster Cassin
+21987,L.A. Confidential,Enrique Swift CPA,Narrative nonfiction,J. M. Dent,1988,"[""enrique swift cpa""]","[""Enrique Swift CPA""]",Enrique Swift CPA
+21906,Call of Duty,Derrick Schiller,Fiction in verse,Book League of America,1999,"[""derrick schiller""]","[""Derrick Schiller""]",Derrick Schiller
+22439,Lilies of the Field,Fonda McClure,Fairy tale,Cloverdale Corporation,1991,"[""fonda mcclure""]","[""Fonda McClure""]",Fonda McClure
+21904,Super Smash Bros. Brawl,Shirley Kub,Comic/Graphic Novel,Shambhala Publications,2005,"[""shirley kub""]","[""Shirley Kub""]",Shirley Kub
+22242,The Legend of Zelda: Majora's Mask,Arleen Strosin,Horror,Dedalus Books,1915,"[""arleen strosin""]","[""Arleen Strosin""]",Arleen Strosin
+21926,Half-Life: Opposing Force,Regan Heaney,Fantasy,Harper & Row,2018,"[""regan heaney""]","[""Regan Heaney""]",Regan Heaney
+21687,Toy Story 2,Lisbeth Homenick,Metafiction,Bantam Spectra,2006,"[""lisbeth homenick""]","[""Lisbeth Homenick""]",Lisbeth Homenick
+21986,Fair Stood the Wind for France,Mrs. Vickey Boehm,Short story,Pan Books,1972,"[""mrs vickey boehm""]","[""Mrs. Vickey Boehm""]",Mrs. Vickey Boehm
+22069,Brothers in Arms,Camila Kunze,Metafiction,Pan Books,2013,"[""camila kunze""]","[""Camila Kunze""]",Camila Kunze
+21865,Pokémon Shield,Cori Koepp,Science fiction,Churchill Livingstone,2019,"[""cori koepp""]","[""Cori Koepp""]",Cori Koepp
+22042,In a Dry Season,Gil Runolfsdottir,Short story,Mandrake of Oxford,1990,"[""gil runolfsdottir""]","[""Gil Runolfsdottir""]",Gil Runolfsdottir
+21945,Before Sunrise,"Roderick Fay, Chana Cummerata CPA, Rep. Jacques Keeling",Metafiction,Orion Books,1998,"[""chana cummerata cpa"", ""rep jacques keeling"", ""roderick fay""]","[""Chana Cummerata CPA"", ""Rep. Jacques Keeling"", ""Roderick Fay""]","Chana Cummerata CPA, Rep. Jacques Keeling, Roderick Fay"
+22419,L.A. Confidential,Enrique Swift CPA,Narrative nonfiction,Atheneum Publishers,1970,"[""enrique swift cpa""]","[""Enrique Swift CPA""]",Enrique Swift CPA
+21827,Clannad,Leif West,Fantasy,Etruscan Press,1991,"[""leif west""]","[""Leif West""]",Leif West
+21834,Persona,"Ivelisse Romaguera V, Providencia O'Conner",Reference book,Bantam Books,1992,"[""ivelisse romaguera v"", ""providencia o conner""]","[""Ivelisse Romaguera V"", ""Providencia O'Conner""]","Ivelisse Romaguera V, Providencia O'Conner"
+22304,Wolfenstein 3D,Forrest Vandervort,Fable,Cloverdale Corporation,2017,"[""forrest vandervort""]","[""Forrest Vandervort""]",Forrest Vandervort
+22361,Doom II,"Jules Grady, Prof. Nathanael Cronin",Reference book,No Starch Press,2004,"[""jules grady"", ""prof nathanael cronin""]","[""Jules Grady"", ""Prof. Nathanael Cronin""]","Jules Grady, Prof. Nathanael Cronin"
+21781,Kirby's Adventure,Suellen Swaniawski PhD,Western,Taunton Press,2005,"[""suellen swaniawski phd""]","[""Suellen Swaniawski PhD""]",Suellen Swaniawski PhD
+21819,Thief II,Fonda McClure,Fable,NavPress,2024,"[""fonda mcclure""]","[""Fonda McClure""]",Fonda McClure
+22397,East of Eden,Karl Wolf,Essay,Allen Ltd,1981,"[""karl wolf""]","[""Karl Wolf""]",Karl Wolf
+22440,Command & Conquer: Red Alert 2,Rep. Anton Blanda,Essay,Academic Press,1988,"[""rep anton blanda""]","[""Rep. Anton Blanda""]",Rep. Anton Blanda
+22045,Halo: Combat Evolved,"Dr. Will Jacobson, Forrest Vandervort",Fiction in verse,Chambers Harrap,1985,"[""dr will jacobson"", ""forrest vandervort""]","[""Dr. Will Jacobson"", ""Forrest Vandervort""]","Dr. Will Jacobson, Forrest Vandervort"
+21874,Frequent Hearses,Edyth McCullough,Legend,D. Reidel,1982,"[""edyth mccullough""]","[""Edyth McCullough""]",Edyth McCullough
+22330,Mario Kart 8,"Diana Wehner, Fr. Landon Barrows",Biography/Autobiography,Pan Books,2007,"[""diana wehner"", ""fr landon barrows""]","[""Diana Wehner"", ""Fr. Landon Barrows""]","Diana Wehner, Fr. Landon Barrows"
+22223,Bridge over Troubled Water,Latrina Fahey MD,Fable,Harlequin Enterprises Ltd,1882,"[""latrina fahey md""]","[""Latrina Fahey MD""]",Latrina Fahey MD
+22430,Recalled to Life,Elmer Cronin,Science fiction,Airiti Press,1962,"[""elmer cronin""]","[""Elmer Cronin""]",Elmer Cronin
+21747,Gran Torino,Mrs. Maye Collier,Realistic fiction,Hay House,2006,"[""mrs maye collier""]","[""Mrs. Maye Collier""]",Mrs. Maye Collier
+22162,Spice,"Kandy Treutel, Earline Fisher",Classic,University of Nebraska Press,2008,"[""earline fisher"", ""kandy treutel""]","[""Earline Fisher"", ""Kandy Treutel""]","Earline Fisher, Kandy Treutel"
+21981,Pokémon Crystal,Tijuana Lemke,Fantasy,New Holland Publishers,,"[""tijuana lemke""]","[""Tijuana Lemke""]",Tijuana Lemke
+22168,Command & Conquer: Red Alert 3,"Darron Orn, Ezekiel Nolan, Juli Bailey",Biography/Autobiography,Tate Publishing & Enterprises,1989,"[""darron orn"", ""ezekiel nolan"", ""juli bailey""]","[""Darron Orn"", ""Ezekiel Nolan"", ""Juli Bailey""]","Darron Orn, Ezekiel Nolan, Juli Bailey"
+22105,The Heart Is a Lonely Hunter,Elmer Cronin,Legend,Carlton Publishing Group,1989,"[""elmer cronin""]","[""Elmer Cronin""]",Elmer Cronin
+22302,Sholay,"Fr. Landon Barrows, Diana Wehner",Fable,Gefen Publishing House,2023,"[""diana wehner"", ""fr landon barrows""]","[""Diana Wehner"", ""Fr. Landon Barrows""]","Diana Wehner, Fr. Landon Barrows"
+22409,"The Good, the Bad and the Ugly","Pearly Flatley, Jerrell Roob",Fable,Koren Publishers Jerusalem,2023,"[""jerrell roob"", ""pearly flatley""]","[""Jerrell Roob"", ""Pearly Flatley""]","Jerrell Roob, Pearly Flatley"
+22225,Max Payne 3,Valencia Dooley,Fiction narrative,Indiana University Press,1985,"[""valencia dooley""]","[""Valencia Dooley""]",Valencia Dooley
+22092,Recalled to Life,Elmer Cronin,Science fiction,Caister Academic Press,1964,"[""elmer cronin""]","[""Elmer Cronin""]",Elmer Cronin
+22039,"Lock, Stock and Two Smoking Barrels","Jules Grady, Prof. Nathanael Cronin",Textbook,Dedalus Books,1988,"[""jules grady"", ""prof nathanael cronin""]","[""Jules Grady"", ""Prof. Nathanael Cronin""]","Jules Grady, Prof. Nathanael Cronin"
+22206,The Legend of Zelda: Ocarina of Time,Tim Barrows,Textbook,Shire Books,1977,"[""tim barrows""]","[""Tim Barrows""]",Tim Barrows
+21876,Wolfenstein: The Old Blood,"Jana Emmerich, Kimbery Fritsch, Joline Hackett",Science fiction,Macmillan Publishers,2017,"[""jana emmerich"", ""joline hackett"", ""kimbery fritsch""]","[""Jana Emmerich"", ""Joline Hackett"", ""Kimbery Fritsch""]","Jana Emmerich, Joline Hackett, Kimbery Fritsch"
+22017,The Third Man,"Lizzette Schultz, Young Fay",Horror,Manchester University Press,1998,"[""lizzette schultz"", ""young fay""]","[""Lizzette Schultz"", ""Young Fay""]","Lizzette Schultz, Young Fay"
+21913,The Last Enemy,Dr. Latanya Homenick,Comic/Graphic Novel,Lethe Press,2017,"[""dr latanya homenick""]","[""Dr. Latanya Homenick""]",Dr. Latanya Homenick
+22217,Rosemary Sutcliff,"Jules Grady, Prof. Nathanael Cronin",Mythopoeia,McClelland and Stewart,2016,"[""jules grady"", ""prof nathanael cronin""]","[""Jules Grady"", ""Prof. Nathanael Cronin""]","Jules Grady, Prof. Nathanael Cronin"
+22075,Command & Conquer: Generals - Zero Hour,Viva Wyman Jr.,Fable,Simon & Schuster,1977,"[""viva wyman jr""]","[""Viva Wyman Jr.""]",Viva Wyman Jr.
+21988,Precious Bane,Blake Turcotte,Metafiction,Virago Press,2026,"[""blake turcotte""]","[""Blake Turcotte""]",Blake Turcotte
+22403,Fire Emblem Awakening,Delmar Heaney CPA,Mystery,Mainstream Publishing,1940,"[""delmar heaney cpa""]","[""Delmar Heaney CPA""]",Delmar Heaney CPA
+22277,Stalker,"Alonso Pagac, Minh Leuschke, Alphonse Wisozk",Fable,HarperCollins,1960,"[""alonso pagac"", ""alphonse wisozk"", ""minh leuschke""]","[""Alonso Pagac"", ""Alphonse Wisozk"", ""Minh Leuschke""]","Alonso Pagac, Alphonse Wisozk, Minh Leuschke"
+21721,The Painted Veil,Mrs. Andy Rolfson,Textbook,Open University Press,1974,"[""mrs andy rolfson""]","[""Mrs. Andy Rolfson""]",Mrs. Andy Rolfson
+21863,Stand by Me,Winfred Buckridge,Folklore,Fearless Books,1992,"[""winfred buckridge""]","[""Winfred Buckridge""]",Winfred Buckridge
+22301,"Alone on a Wide, Wide Sea",Ethel Morar,Mystery,Del Rey Books,,"[""ethel morar""]","[""Ethel Morar""]",Ethel Morar
+22026,BioShock Infinite,Mamie MacGyver DC,Realistic fiction,Apress,2021,"[""mamie macgyver dc""]","[""Mamie MacGyver DC""]",Mamie MacGyver DC
+22303,Raging Bull,"Jerrell Rau, Dr. Ollie Aufderhar, Esteban Swift",Short story,George H. Doran Company,1940,"[""dr ollie aufderhar"", ""esteban swift"", ""jerrell rau""]","[""Dr. Ollie Aufderhar"", ""Esteban Swift"", ""Jerrell Rau""]","Dr. Ollie Aufderhar, Esteban Swift, Jerrell Rau"
+21903,Command & Conquer: Tiberian Sun,"Alphonse Wisozk, Alonso Pagac",Fairy tale,Victor Gollancz Ltd,2003,"[""alonso pagac"", ""alphonse wisozk""]","[""Alonso Pagac"", ""Alphonse Wisozk""]","Alonso Pagac, Alphonse Wisozk"
+22207,Half-Life 2: Episode Two,"Shanelle Bartoletti, Humberto Ferry JD",Suspense/Thriller,Naiad Press,2019,"[""humberto ferry jd"", ""shanelle bartoletti""]","[""Humberto Ferry JD"", ""Shanelle Bartoletti""]","Humberto Ferry JD, Shanelle Bartoletti"
+22098,To Sail Beyond the Sunset,Rep. Lois Hansen,Metafiction,Book League of America,1980,"[""rep lois hansen""]","[""Rep. Lois Hansen""]",Rep. Lois Hansen
+21992,The Soldier's Art,Nestor Jacobs,Historical fiction,Candlewick Press,2021,"[""nestor jacobs""]","[""Nestor Jacobs""]",Nestor Jacobs
+22328,Hearthstone,Mr. Sherman Roberts,Fairy tale,UCL Press,0,"[""mr sherman roberts""]","[""Mr. Sherman Roberts""]",Mr. Sherman Roberts
+21775,Consider the Lilies,Nella Reilly DDS,Speech,BBC Books,2011,"[""nella reilly dds""]","[""Nella Reilly DDS""]",Nella Reilly DDS
+22211,Bastion,Deonna McCullough,Western,Dedalus Books,2017,"[""deonna mccullough""]","[""Deonna McCullough""]",Deonna McCullough
+21816,Super Smash Bros. Ultimate,Beverlee Koch,Fiction in verse,Basic Books,1988,"[""beverlee koch""]","[""Beverlee Koch""]",Beverlee Koch
+22106,Witness for the Prosecution,Karlyn Mills,Humor,Signet Books,2004,"[""karlyn mills""]","[""Karlyn Mills""]",Karlyn Mills
+22021,Mad Max: Fury Road,"Blake Turcotte, Hong Kuphal",Fairy tale,Manor House Publishing,1904,"[""blake turcotte"", ""hong kuphal""]","[""Blake Turcotte"", ""Hong Kuphal""]","Blake Turcotte, Hong Kuphal"
+21980,Prisoners,"Shaina Wehner, Elida Muller DDS",Science fiction,Marshall Pickering,2023,"[""elida muller dds"", ""shaina wehner""]","[""Elida Muller DDS"", ""Shaina Wehner""]","Elida Muller DDS, Shaina Wehner"
+22156,Whiplash,"Carlee Gusikowski, Cathrine Baumbach VM, Demarcus Feeney",Legend,Emerald Group Publishing,,"[""carlee gusikowski"", ""cathrine baumbach vm"", ""demarcus feeney""]","[""Carlee Gusikowski"", ""Cathrine Baumbach VM"", ""Demarcus Feeney""]","Carlee Gusikowski, Cathrine Baumbach VM, Demarcus Feeney"
+21896,Pokémon Black,Oren Donnelly,Legend,Harvill Press at Random House,1905,"[""oren donnelly""]","[""Oren Donnelly""]",Oren Donnelly
+21710,True Blue,Lachelle Thompson,Humor,Cloverdale Corporation,1992,"[""lachelle thompson""]","[""Lachelle Thompson""]",Lachelle Thompson
+22158,Tender Is the Night,Monte White,Western,D. Appleton & Company,1979,"[""monte white""]","[""Monte White""]",Monte White
+22246,The Silence of the Lambs,Grant Treutel,Humor,Harcourt Trade Publishers,1990,"[""grant treutel""]","[""Grant Treutel""]",Grant Treutel
+21941,Mother Night,Ethel Morar,Humor,Golden Cockerel Press,2011,"[""ethel morar""]","[""Ethel Morar""]",Ethel Morar
+22192,Death Be Not Proud,Casie Bechtelar,Classic,Harvill Press at Random House,2003,"[""casie bechtelar""]","[""Casie Bechtelar""]",Casie Bechtelar
+21780,Wolfenstein 2: The New Colossus,"Randell Jerde I, Msgr. Clara Hermiston, Ruby Wolff",Fanfiction,University of Nebraska Press,2025,"[""msgr clara hermiston"", ""randell jerde i"", ""ruby wolff""]","[""Msgr. Clara Hermiston"", ""Randell Jerde I"", ""Ruby Wolff""]","Msgr. Clara Hermiston, Randell Jerde I, Ruby Wolff"
+21889,Stranger in a Strange Land,"Joaquin Romaguera, Marcellus Rolfson, Maud Swift, Garland Schaefer DDS",Fairy tale,Holland Park Press,1993,"[""garland schaefer dds"", ""joaquin romaguera"", ""marcellus rolfson"", ""maud swift""]","[""Garland Schaefer DDS"", ""Joaquin Romaguera"", ""Marcellus Rolfson"", ""Maud Swift""]","Garland Schaefer DDS, Joaquin Romaguera, Marcellus Rolfson, Maud Swift"
+22396,Scarface,Patrina Kunze III,Folklore,"Harry N. Abrams, Inc.",1977,"[""patrina kunze iii""]","[""Patrina Kunze III""]",Patrina Kunze III
+22261,Halo 5: Guardians,"Shanelle Bartoletti, Humberto Ferry JD",Textbook,Hay House,1981,"[""humberto ferry jd"", ""shanelle bartoletti""]","[""Humberto Ferry JD"", ""Shanelle Bartoletti""]","Humberto Ferry JD, Shanelle Bartoletti"
+21901,Music Box,Deonna McCullough,Comic/Graphic Novel,Ballantine Books,1978,"[""deonna mccullough""]","[""Deonna McCullough""]",Deonna McCullough
+22274,Arms and the Man,"Merrill Rippin, Elisha Gerhold, Terence Murphy Sr.",Reference book,Bella Books,1987,"[""elisha gerhold"", ""merrill rippin"", ""terence murphy sr""]","[""Elisha Gerhold"", ""Merrill Rippin"", ""Terence Murphy Sr.""]","Elisha Gerhold, Merrill Rippin, Terence Murphy Sr."
+22133,Cover Her Face,Ursula Smith,Legend,Haynes Manuals,2023,"[""ursula smith""]","[""Ursula Smith""]",Ursula Smith
+22145,Surprised by Joy,Helga Vandervort DC,Crime/Detective,Hay House,1990,"[""helga vandervort dc""]","[""Helga Vandervort DC""]",Helga Vandervort DC
+21818,Oldeuboi,"Virginia Goyette, Eddie Effertz",Mystery,Airiti Press,1859,"[""eddie effertz"", ""virginia goyette""]","[""Eddie Effertz"", ""Virginia Goyette""]","Eddie Effertz, Virginia Goyette"
+22173,Gone Girl,Keisha Koelpin DC,Folklore,Signet Books,1978,"[""keisha koelpin dc""]","[""Keisha Koelpin DC""]",Keisha Koelpin DC
+21971,The Great Escape,"Joaquin Romaguera, Maud Swift, Garland Schaefer DDS, Marcellus Rolfson",Realistic fiction,Hay House,1980,"[""garland schaefer dds"", ""joaquin romaguera"", ""marcellus rolfson"", ""maud swift""]","[""Garland Schaefer DDS"", ""Joaquin Romaguera"", ""Marcellus Rolfson"", ""Maud Swift""]","Garland Schaefer DDS, Joaquin Romaguera, Marcellus Rolfson, Maud Swift"
+22369,Minecraft,Paul Yundt,Folklore,Academic Press,1977,"[""paul yundt""]","[""Paul Yundt""]",Paul Yundt
+21783,Cross Road,Kaycee Quigley MD,Realistic fiction,Simon & Schuster,1977,"[""kaycee quigley md""]","[""Kaycee Quigley MD""]",Kaycee Quigley MD
+21736,Frozen,"Alonso Pagac, Alphonse Wisozk",Reference book,Hay House,1999,"[""alonso pagac"", ""alphonse wisozk""]","[""Alonso Pagac"", ""Alphonse Wisozk""]","Alonso Pagac, Alphonse Wisozk"
+22178,Mega Man Battle Network,Kaylene Willms VM,Mythopoeia,Orion Books,1981,"[""kaylene willms vm""]","[""Kaylene Willms VM""]",Kaylene Willms VM
+22104,"Monsters, Inc.",Zina Prohaska II,Metafiction,Edupedia Publications,2005,"[""zina prohaska ii""]","[""Zina Prohaska II""]",Zina Prohaska II
+21812,"Monsters, Inc.",Zina Prohaska II,Metafiction,New Village Press,2000,"[""zina prohaska ii""]","[""Zina Prohaska II""]",Zina Prohaska II
+22208,Edna O'Brien,Kylie Gerlach,Speech,Tarpaulin Sky Press,2016,"[""kylie gerlach""]","[""Kylie Gerlach""]",Kylie Gerlach
+22116,Animal Crossing: Wild World,Nestor Jacobs,Humor,Open Court Publishing Company,1992,"[""nestor jacobs""]","[""Nestor Jacobs""]",Nestor Jacobs
+22359,A Summer Bird-Cage,Rusty Batz,Horror,Fairview Press,1977,"[""rusty batz""]","[""Rusty Batz""]",Rusty Batz
+21983,Beyond the Mexique Bay,Oren Donnelly,Comic/Graphic Novel,Broadview Press,2000,"[""oren donnelly""]","[""Oren Donnelly""]",Oren Donnelly
+21940,A Beautiful Mind,Kelvin Mueller,Humor,Dedalus Books,2016,"[""kelvin mueller""]","[""Kelvin Mueller""]",Kelvin Mueller
+21964,Call of Duty: Black Ops,Joaquin Romaguera,Fantasy,"Farrar, Straus & Giroux",2020,"[""joaquin romaguera""]","[""Joaquin Romaguera""]",Joaquin Romaguera
+22295,The Last Temptation,"Dr. Latanya Homenick, Goldie Cartwright",Mythopoeia,Nauka,1987,"[""dr latanya homenick"", ""goldie cartwright""]","[""Dr. Latanya Homenick"", ""Goldie Cartwright""]","Dr. Latanya Homenick, Goldie Cartwright"
+22436,This Side of Paradise,Kyle Green Jr.,Mystery,Zed Books,2019,"[""kyle green jr""]","[""Kyle Green Jr.""]",Kyle Green Jr.
+22080,Interstellar,"Kandy Treutel, Earline Fisher",Reference book,BBC Books,1994,"[""earline fisher"", ""kandy treutel""]","[""Earline Fisher"", ""Kandy Treutel""]","Earline Fisher, Kandy Treutel"
+22030,12 Years a Slave,Ms. Sol Friesen,Comic/Graphic Novel,Borgo Press,1999,"[""ms sol friesen""]","[""Ms. Sol Friesen""]",Ms. Sol Friesen
+22329,To a God Unknown,Patrina Kunze III,Classic,McGraw Hill Financial,1999,"[""patrina kunze iii""]","[""Patrina Kunze III""]",Patrina Kunze III
+22074,Like a Virgin,Kari Fahey,Fable,Academic Press,1997,"[""kari fahey""]","[""Kari Fahey""]",Kari Fahey
+21934,Gladiator,Tessa Moen,Fiction in verse,Legend Books,2016,"[""tessa moen""]","[""Tessa Moen""]",Tessa Moen
+21887,TRON,Paul Yundt,Comic/Graphic Novel,Haynes Manuals,1986,"[""paul yundt""]","[""Paul Yundt""]",Paul Yundt
+22234,A Clockwork Orange,Golden Predovic,Essay,Anova Books,2009,"[""golden predovic""]","[""Golden Predovic""]",Golden Predovic
+21719,Hitman: Absolution,Lisbeth Homenick,Suspense/Thriller,Kodansha,2004,"[""lisbeth homenick""]","[""Lisbeth Homenick""]",Lisbeth Homenick
+22290,The Immaculate Collection,Chan Hilpert Sr.,Fiction in verse,G. P. Putnam's Sons,1969,"[""chan hilpert sr""]","[""Chan Hilpert Sr.""]",Chan Hilpert Sr.
+22221,Pokémon Sun,Loyd Hettinger,Mythology,Etruscan Press,2020,"[""loyd hettinger""]","[""Loyd Hettinger""]",Loyd Hettinger
+22283,Metroid Prime,Ivelisse Romaguera V,Mythopoeia,Golden Cockerel Press,2011,"[""ivelisse romaguera v""]","[""Ivelisse Romaguera V""]",Ivelisse Romaguera V
+21857,Pokémon Emerald,"Hong Cassin IV, Marshall Hauck, Mr. Stephine Monahan",Narrative nonfiction,,2003,"[""hong cassin iv"", ""marshall hauck"", ""mr stephine monahan""]","[""Hong Cassin IV"", ""Marshall Hauck"", ""Mr. Stephine Monahan""]","Hong Cassin IV, Marshall Hauck, Mr. Stephine Monahan"
+21919,Dota 2,"Thersa Marvin, Adena MacGyver, Dianne Moen Jr.",Mythology,Pathfinder Press,2024,"[""adena macgyver"", ""dianne moen jr"", ""thersa marvin""]","[""Adena MacGyver"", ""Dianne Moen Jr."", ""Thersa Marvin""]","Adena MacGyver, Dianne Moen Jr., Thersa Marvin"
+22337,God of War,Micheal Reinger,Fairy tale,Tachyon Publications,2002,"[""micheal reinger""]","[""Micheal Reinger""]",Micheal Reinger
+22311,Hacksaw Ridge,Edmundo Hessel,Crime/Detective,Bantam Spectra,2013,"[""edmundo hessel""]","[""Edmundo Hessel""]",Edmundo Hessel
+21689,To Say Nothing of the Dog,Blake Turcotte,Folklore,Reed Elsevier,2005,"[""blake turcotte""]","[""Blake Turcotte""]",Blake Turcotte
+22100,"HIStory: Past, Present and Future, Book I",Suzie Bauch,Horror,Fairview Press,2022,"[""suzie bauch""]","[""Suzie Bauch""]",Suzie Bauch
+21952,Battletoads,Lisbeth Homenick,Essay,Gefen Publishing House,2015,"[""lisbeth homenick""]","[""Lisbeth Homenick""]",Lisbeth Homenick
+21793,Great Work of Time,Marcel Blanda,Comic/Graphic Novel,Orchard Books,1981,"[""marcel blanda""]","[""Marcel Blanda""]",Marcel Blanda
+22057,Crash Bandicoot,"Blake Turcotte, Hong Kuphal",Mythology,Carcanet Press,2012,"[""blake turcotte"", ""hong kuphal""]","[""Blake Turcotte"", ""Hong Kuphal""]","Blake Turcotte, Hong Kuphal"
+21884,Raiders of the Lost Ark,Parker Bartell,Mystery,Tate Publishing & Enterprises,2009,"[""parker bartell""]","[""Parker Bartell""]",Parker Bartell
+21852,Django Unchained,Rebbeca O'Keefe Jr.,Folklore,Harcourt Trade Publishers,2002,"[""rebbeca o keefe jr""]","[""Rebbeca O'Keefe Jr.""]",Rebbeca O'Keefe Jr.
+21976,Princess Mononoke,Gov. Vertie Kovacek,Crime/Detective,Velazquez Press,1949,"[""gov vertie kovacek""]","[""Gov. Vertie Kovacek""]",Gov. Vertie Kovacek
+22109,Myst,Ezekiel Nolan,Speech,HMSO,1987,"[""ezekiel nolan""]","[""Ezekiel Nolan""]",Ezekiel Nolan
+22071,Nevermind,Dr. Meridith Pfannerstill,Mythology,NavPress,1942,"[""dr meridith pfannerstill""]","[""Dr. Meridith Pfannerstill""]",Dr. Meridith Pfannerstill
+22202,Pong,Christopher Green,Fable,Mainstream Publishing,1927,"[""christopher green""]","[""Christopher Green""]",Christopher Green
+22139,Consider Phlebas,"Juli Bailey, Darron Orn",Mystery,Happy House,1989,"[""darron orn"", ""juli bailey""]","[""Darron Orn"", ""Juli Bailey""]","Darron Orn, Juli Bailey"
+22185,Shutter Island,Wiley Rosenbaum,Narrative nonfiction,Harvest House,1986,"[""wiley rosenbaum""]","[""Wiley Rosenbaum""]",Wiley Rosenbaum
+22099,It's a Battlefield,Micah Von,Legend,Bantam Books,2009,"[""micah von""]","[""Micah Von""]",Micah Von
+22387,Slippery When Wet,Arianne Fritsch MD,Science fiction,Palgrave Macmillan,2001,"[""arianne fritsch md""]","[""Arianne Fritsch MD""]",Arianne Fritsch MD
+21828,Metal Gear Solid,Stephan Dicki,Metafiction,J. M. Dent,2015,"[""stephan dicki""]","[""Stephan Dicki""]",Stephan Dicki
+21820,Pokémon Pearl,Monte White,Fiction in verse,McGraw-Hill Education,2004,"[""monte white""]","[""Monte White""]",Monte White
+22079,Jacob Have I Loved,"Rev. Katina Pagac, Laree Mayer, Tristan Gerlach",Metafiction,Vintage Books,1982,"[""laree mayer"", ""rev katina pagac"", ""tristan gerlach""]","[""Laree Mayer"", ""Rev. Katina Pagac"", ""Tristan Gerlach""]","Laree Mayer, Rev. Katina Pagac, Tristan Gerlach"
+21679,Luigi's Mansion,Marilyn Botsford,Fantasy,Canongate Books,1982,"[""marilyn botsford""]","[""Marilyn Botsford""]",Marilyn Botsford
+21724,The Way of All Flesh,Jay Daugherty,Fiction narrative,Lethe Press,1978,"[""jay daugherty""]","[""Jay Daugherty""]",Jay Daugherty
+22007,"Absalom, Absalom!",Leif West,Mystery,Penguin Books,1989,"[""leif west""]","[""Leif West""]",Leif West
+22067,I Dreamed a Dream,Marilyn Botsford,Biography/Autobiography,ECW Press,2016,"[""marilyn botsford""]","[""Marilyn Botsford""]",Marilyn Botsford
+22273,A Swiftly Tilting Planet,Brittni O'Kon JD,Mystery,Shambhala Publications,1985,"[""brittni o kon jd""]","[""Brittni O'Kon JD""]",Brittni O'Kon JD
+21844,Guitar Hero,Dr. Will Jacobson,Textbook,Ignatius Press,2001,"[""dr will jacobson""]","[""Dr. Will Jacobson""]",Dr. Will Jacobson
+22258,Pokémon Ultra Moon,"Sen. Chi Swaniawski, Major Parker, Shasta Mohr Sr., India Heaney",Essay,Flame Tree Publishing,2024,"[""india heaney"", ""major parker"", ""sen chi swaniawski"", ""shasta mohr sr""]","[""India Heaney"", ""Major Parker"", ""Sen. Chi Swaniawski"", ""Shasta Mohr Sr.""]","India Heaney, Major Parker, Sen. Chi Swaniawski, Shasta Mohr Sr."
+22135,Their Greatest Hits (1971–1975),Derrick Schiller,Biography/Autobiography,Blue Ribbon Books,2001,"[""derrick schiller""]","[""Derrick Schiller""]",Derrick Schiller
+22249,Perfect Dark,Shanon Walter,Science fiction,Allen Ltd,2020,"[""shanon walter""]","[""Shanon Walter""]",Shanon Walter
+22342,The Godfather,Louella Schultz,Metafiction,Tachyon Publications,1993,"[""louella schultz""]","[""Louella Schultz""]",Louella Schultz
+21932,Shall not Perish,Carey Kertzmann,Historical fiction,Ellora's Cave,2012,"[""carey kertzmann""]","[""Carey Kertzmann""]",Carey Kertzmann
+22059,A Monstrous Regiment of Women,"Johnathan Cole, Johanna Crona CPA, Rolf Conroy",Classic,Apress,1983,"[""johanna crona cpa"", ""johnathan cole"", ""rolf conroy""]","[""Johanna Crona CPA"", ""Johnathan Cole"", ""Rolf Conroy""]","Johanna Crona CPA, Johnathan Cole, Rolf Conroy"
+21997,Antic Hay,"Dale Ebert, Rev. Carolynn Ernser",Fiction in verse,Burns & Oates,1992,"[""dale ebert"", ""rev carolynn ernser""]","[""Dale Ebert"", ""Rev. Carolynn Ernser""]","Dale Ebert, Rev. Carolynn Ernser"
+21908,Max Payne,Kelvin Mueller,Mythology,Gay Men's Press,2008,"[""kelvin mueller""]","[""Kelvin Mueller""]",Kelvin Mueller
+22327,Hysteria,"Alvin Kautzer, Lindy Schaden, Claudio Rippin",Tall tale,Belknap Press,1982,"[""alvin kautzer"", ""claudio rippin"", ""lindy schaden""]","[""Alvin Kautzer"", ""Claudio Rippin"", ""Lindy Schaden""]","Alvin Kautzer, Claudio Rippin, Lindy Schaden"
+22015,The Bodyguard,"Mr. Stephine Monahan, Hong Cassin IV, Sol McDermott, Marshall Hauck",Science fiction,Eerdmans Publishing,2025,"[""hong cassin iv"", ""marshall hauck"", ""mr stephine monahan"", ""sol mcdermott""]","[""Hong Cassin IV"", ""Marshall Hauck"", ""Mr. Stephine Monahan"", ""Sol McDermott""]","Hong Cassin IV, Marshall Hauck, Mr. Stephine Monahan, Sol McDermott"
+22248,High School Musical,"Mr. Jenice Leannon, Providencia O'Conner",Crime/Detective,Cengage Learning,2025,"[""mr jenice leannon"", ""providencia o conner""]","[""Mr. Jenice Leannon"", ""Providencia O'Conner""]","Mr. Jenice Leannon, Providencia O'Conner"
+22280,Off the Wall,Elfriede Schaden I,Biography/Autobiography,Haynes Manuals,1991,"[""elfriede schaden i""]","[""Elfriede Schaden I""]",Elfriede Schaden I
+21917,Command & Conquer 3: Tiberium Wars,"Asuncion Runolfsson, Fr. Danette West",Mythopoeia,Pecan Grove Press,2012,"[""asuncion runolfsson"", ""fr danette west""]","[""Asuncion Runolfsson"", ""Fr. Danette West""]","Asuncion Runolfsson, Fr. Danette West"
+21955,Cinema Paradiso,Denita Farrell,Folklore,Paulist Press,2014,"[""denita farrell""]","[""Denita Farrell""]",Denita Farrell
+22447,Supernatural,"Garland Schaefer DDS, Marcellus Rolfson, Maud Swift",Humor,ECW Press,2016,"[""garland schaefer dds"", ""marcellus rolfson"", ""maud swift""]","[""Garland Schaefer DDS"", ""Marcellus Rolfson"", ""Maud Swift""]","Garland Schaefer DDS, Marcellus Rolfson, Maud Swift"
+21800,F.E.A.R.,"Rev. Katina Pagac, Tristan Gerlach, Laree Mayer",Folklore,Cloverdale Corporation,1991,"[""laree mayer"", ""rev katina pagac"", ""tristan gerlach""]","[""Laree Mayer"", ""Rev. Katina Pagac"", ""Tristan Gerlach""]","Laree Mayer, Rev. Katina Pagac, Tristan Gerlach"
+21810,City Lights,Dusty Predovic,Historical fiction,New English Library,2022,"[""dusty predovic""]","[""Dusty Predovic""]",Dusty Predovic
+22172,Animal Crossing,"Viva Wyman Jr., Prof. Nathanael Cronin",Fable,,2008,"[""prof nathanael cronin"", ""viva wyman jr""]","[""Prof. Nathanael Cronin"", ""Viva Wyman Jr.""]","Prof. Nathanael Cronin, Viva Wyman Jr."
+21870,WarioWare: Smooth Moves,"Rev. Carolynn Ernser, Dale Ebert",Legend,Canongate Books,2017,"[""dale ebert"", ""rev carolynn ernser""]","[""Dale Ebert"", ""Rev. Carolynn Ernser""]","Dale Ebert, Rev. Carolynn Ernser"
+22121,Terrible Swift Sword,"Terence Kuhn, Barbera Pfannerstill, Gov. Bradly McCullough",Essay,Paulist Press,1989,"[""barbera pfannerstill"", ""gov bradly mccullough"", ""terence kuhn""]","[""Barbera Pfannerstill"", ""Gov. Bradly McCullough"", ""Terence Kuhn""]","Barbera Pfannerstill, Gov. Bradly McCullough, Terence Kuhn"
+22118,Jacob Have I Loved,"Rev. Katina Pagac, Laree Mayer, Tristan Gerlach",Metafiction,Victor Gollancz Ltd,1986,"[""laree mayer"", ""rev katina pagac"", ""tristan gerlach""]","[""Laree Mayer"", ""Rev. Katina Pagac"", ""Tristan Gerlach""]","Laree Mayer, Rev. Katina Pagac, Tristan Gerlach"
+21822,1,Ms. Sol Friesen,Biography/Autobiography,Atlas Press,2018,"[""ms sol friesen""]","[""Ms. Sol Friesen""]",Ms. Sol Friesen
+22237,Call of Duty: Modern Warfare 3,Karlyn Wuckert,Fiction narrative,Atlantic Books,2005,"[""karlyn wuckert""]","[""Karlyn Wuckert""]",Karlyn Wuckert
+21841,The Wonderful 101,"Paulina Franecki, Howard Skiles",Fairy tale,Mandrake of Oxford,1994,"[""howard skiles"", ""paulina franecki""]","[""Howard Skiles"", ""Paulina Franecki""]","Howard Skiles, Paulina Franecki"
+21677,Pokémon Ultra Sun,Jacques Rau,Crime/Detective,Hachette Book Group USA,1995,"[""jacques rau""]","[""Jacques Rau""]",Jacques Rau
+22371,Citizen Kane,"Latrina Fahey MD, Barry Waters",Metafiction,Faber and Faber,2009,"[""barry waters"", ""latrina fahey md""]","[""Barry Waters"", ""Latrina Fahey MD""]","Barry Waters, Latrina Fahey MD"
+22379,Platoon,Georgia Waters,Fiction narrative,Secker & Warburg,1998,"[""georgia waters""]","[""Georgia Waters""]",Georgia Waters
+22081,The Painted Veil,Mrs. Andy Rolfson,Textbook,E. P. Dutton,1963,"[""mrs andy rolfson""]","[""Mrs. Andy Rolfson""]",Mrs. Andy Rolfson
+21707,Puyo Puyo Tetris,Providencia O'Conner,Historical fiction,Shire Books,1931,"[""providencia o conner""]","[""Providencia O'Conner""]",Providencia O'Conner
+22307,Jurassic Park,Amb. Maudie Connelly,Humor,Chatto and Windus,2007,"[""amb maudie connelly""]","[""Amb. Maudie Connelly""]",Amb. Maudie Connelly
+22281,Gandhi,"Viva Wyman Jr., Jules Grady",Legend,Tammi,1995,"[""jules grady"", ""viva wyman jr""]","[""Jules Grady"", ""Viva Wyman Jr.""]","Jules Grady, Viva Wyman Jr."
+22009,Rush,Dennis Greenfelder V,Mythology,Ziff Davis Media,1988,"[""dennis greenfelder v""]","[""Dennis Greenfelder V""]",Dennis Greenfelder V
+21879,No Highway,Tommy Kozey,Classic,Blue Ribbon Books,1981,"[""tommy kozey""]","[""Tommy Kozey""]",Tommy Kozey
+21750,The Witcher,Golden Predovic,Tall tale,Nauka,1884,"[""golden predovic""]","[""Golden Predovic""]",Golden Predovic
+22078,Let Us Now Praise Famous Men,Johnie Frami,Historical fiction,Viking Press,1984,"[""johnie frami""]","[""Johnie Frami""]",Johnie Frami
+21978,Command & Conquer: Tiberian Sun,"Alphonse Wisozk, Alonso Pagac",Fairy tale,University of Chicago Press,1999,"[""alonso pagac"", ""alphonse wisozk""]","[""Alonso Pagac"", ""Alphonse Wisozk""]","Alonso Pagac, Alphonse Wisozk"

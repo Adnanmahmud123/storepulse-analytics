@@ -1,0 +1,4 @@
+pandas>=2.2.0
+pyarrow>=14.0.0
+PyYAML>=6.0.1
+matplotlib>=3.8.0
