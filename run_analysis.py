@@ -128,8 +128,7 @@ def parse_price_to_usd(value: Any) -> float | None:
 def parse_timestamps(values):
     import pandas as pd
 
-    # Parse timestamps with mixed timezones consistently.
-    # Naive timestamps are treated as UTC.
+    # Handle mixed timezones and invalid timestamps safely.
     parsed = pd.to_datetime(
         values,
         errors="coerce",
@@ -370,6 +369,13 @@ def build_store_result(store_dir: Path) -> dict[str, Any]:
     daily = daily[["date", "revenue"]]
     daily.to_csv(output_store / "daily_revenue.csv", index=False, encoding="utf-8-sig")
 
+    # Copies sold per calendar date, for dashboard Q&A such as "How many books were sold today?"
+    daily_books = (orders.groupby("date", as_index=False)["quantity"].sum()
+                   .sort_values("date", ascending=True))
+    daily_books["books_sold"] = daily_books["quantity"].astype(int)
+    daily_books = daily_books[["date", "books_sold"]]
+    daily_books.to_csv(output_store / "daily_books_sold.csv", index=False, encoding="utf-8-sig")
+
     top_days = daily.sort_values(["revenue", "date"], ascending=[False, True]).head(5)
     top_5_days = [{"date": str(row.date), "revenue": money(row.revenue)} for row in top_days.itertuples(index=False)]
 
@@ -457,6 +463,7 @@ def build_store_result(store_dir: Path) -> dict[str, Any]:
         "most_popular_author_sets": popular_sets,
         "best_buyer": best_buyer,
         "daily_revenue": [{"date": str(row.date), "revenue": money(row.revenue)} for row in daily.itertuples(index=False)],
+        "daily_books_sold": [{"date": str(row.date), "books_sold": int(row.books_sold)} for row in daily_books.itertuples(index=False)],
         "quality": {
             **order_quality,
             "user_rows_read": int(len(users_raw)),

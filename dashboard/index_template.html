@@ -63,7 +63,7 @@
         <article class="card panel"><div class="panel-heading"><div><h3>Best buyer identity</h3><p>IDs associated by matching three identifying fields</p></div></div><div class="buyer-box"><div class="buyer-label">Total spending</div><div class="buyer-total" id="buyerTotal3">—</div><div class="buyer-label" style="margin-bottom:7px">User ID array</div><div class="id-array" id="buyerIds2">[]</div></div><p class="help">Reconciliation assumes at most one identifying field changes between records.</p></article>
       </div>
       <article class="card panel" style="margin-top:17px"><div class="panel-heading"><div><h3>How customer records were reconciled</h3><p>Method applied separately to each store</p></div></div><p style="margin:0;color:var(--muted);font-size:12px;line-height:1.8">Names and addresses are compared after case, punctuation, and whitespace normalization; phones are compared by digits; e-mails are compared case-insensitively. Two records are merged when any three non-empty normalized fields match. All user IDs in a merged identity are retained in the best-buyer output. Exact duplicate orders are removed, invalid order rows are excluded, and euro prices are converted at €1 = $1.20.</p></article>
-      <article class="card panel" style="margin-top:17px"><div class="panel-heading"><div><h3>Ask StorePulse</h3><p>Quick chat for facts in the currently selected store</p></div><span class="pill">Local data Q&amp;A</span></div><div class="chat-shell"><div class="chat-messages" id="chatMessages"><div class="chat-bubble bot">Hi! Ask me about this store’s revenue, top revenue day, unique users, author sets, most popular author set, or best buyer.</div></div><div class="chat-input-row"><input id="chatInput" type="text" placeholder="e.g. Who is the best buyer?" aria-label="Ask StorePulse a question"><button id="chatSend" type="button">Ask</button></div><div class="chat-examples">Try: “top revenue day”, “how many unique users?”, or “most popular author”. Replies use the dashboard’s calculated data, not an external AI service.</div></div></article>
+      <article class="card panel" style="margin-top:17px"><div class="panel-heading"><div><h3>Ask StorePulse</h3><p>Quick chat for facts in the currently selected store</p></div><span class="pill">Local data Q&amp;A</span></div><div class="chat-shell"><div class="chat-messages" id="chatMessages"><div class="chat-bubble bot">Hi! Ask me questions in natural language, such as “How many books were sold today?”, “How many books were sold?”, “How much revenue?”, or “Who is the best buyer?”.</div></div><div class="chat-input-row"><input id="chatInput" type="text" placeholder="e.g. Who is the best buyer?" aria-label="Ask StorePulse a question"><button id="chatSend" type="button">Ask</button></div><div class="chat-examples">Try: “How many books were sold today?”, “How many books were sold?”, “top revenue day”, or “how many unique users?”. Replies use the selected store’s calculated data, not an external AI service.</div></div></article>
     </section>
     <footer class="foot"><span>StorePulse · Generated from local CSV, Parquet and YAML files</span><span id="qualityFoot">Cleaning summary will appear here</span></footer>
   </div>
@@ -127,16 +127,33 @@
     storeSelect.addEventListener('change',()=>render(storeSelect.value));
     function addChatMessage(message, role){const wrap=document.getElementById('chatMessages');const bubble=document.createElement('div');bubble.className=`chat-bubble ${role}`;bubble.textContent=message;wrap.appendChild(bubble);wrap.scrollTop=wrap.scrollHeight;}
     function answerChat(question){
-      const d=DATA[storeSelect.value]; if(!d)return 'No store data has been loaded yet.';
-      const q=question.toLowerCase(); const buyer=d.best_buyer||{total_spending:0,user_ids:[]}; const popular=d.most_popular_author_sets||[]; const topDay=(d.top_5_days||[])[0];
-      if(q.includes('buyer')||q.includes('customer who spend')||q.includes('best customer')) return `Best buyer in ${d.store}: ${fmtMoney(buyer.total_spending)} total spending. Linked user IDs: ${JSON.stringify(buyer.user_ids||[])}.`;
+      const d=DATA[storeSelect.value];
+      if(!d)return 'No store data has been loaded yet.';
+      const q=question.toLowerCase().replace(/[’‘]/g,"'").replace(/[^a-z0-9\s-]/g,' ').replace(/\s+/g,' ').trim();
+      const buyer=d.best_buyer||{total_spending:0,user_ids:[]};
+      const popular=d.most_popular_author_sets||[];
+      const topDay=(d.top_5_days||[])[0];
+      const soldToday=(d.daily_books_sold||[]);
+      const today=new Date();
+      const todayKey=`${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}-${String(today.getDate()).padStart(2,'0')}`;
+      const todayEntry=soldToday.find(row=>row.date===todayKey);
+      const latestEntry=soldToday.length?soldToday[soldToday.length-1]:null;
+      const asksBooks=/(book|books|copy|copies|volume|volumes)/.test(q);
+      const asksSold=/(sold|sell|sales|purchase|purchased|bought|buy|number|many|count|how much|quantity)/.test(q);
+      const asksToday=/(today|this day|current day)/.test(q);
+      if(asksBooks && asksSold && asksToday){
+        if(todayEntry) return `${fmtNumber(todayEntry.books_sold)} book copies were sold today (${todayKey}) in ${d.store}.`;
+        return `There are no cleaned orders dated today (${todayKey}) in ${d.store}, so today's recorded book sales are 0. The latest date available in this store's dataset is ${latestEntry?latestEntry.date:'not available'}${latestEntry?`, with ${fmtNumber(latestEntry.books_sold)} copies sold`:''}.`;
+      }
+      if(asksBooks && asksSold) return `${fmtNumber(d.books_sold)} book copies were sold in ${d.store} across all dates in the cleaned dataset.`;
+      if(q.includes('buyer')||q.includes('customer who spend')||q.includes('best customer')||q.includes('who spent most')) return `Best buyer in ${d.store}: ${fmtMoney(buyer.total_spending)} total spending. Linked user IDs: ${JSON.stringify(buyer.user_ids||[])}.`;
       if(q.includes('author')||q.includes('popular set')||q.includes('best seller')) return popular.length?`Most popular author set(s) by copies sold in ${d.store}: ${popular.map(a=>`${a.label} — ${fmtNumber(a.books_sold)} copies`).join('; ')}.`:'No author sales were found for this store.';
-      if(q.includes('unique user')||q.includes('real user')||q.includes('how many user')) return `${d.store} has ${fmtNumber(d.unique_users)} real unique users after reconciling records.`;
-      if(q.includes('author set')||q.includes('sets of author')) return `${d.store} has ${fmtNumber(d.unique_author_sets)} unique author sets in its book catalog.`;
+      if(q.includes('unique user')||q.includes('real user')||q.includes('how many user')||q.includes('number of users')) return `${d.store} has ${fmtNumber(d.unique_users)} real unique users after reconciling records.`;
+      if(q.includes('author set')||q.includes('sets of author')||q.includes('unique sets')) return `${d.store} has ${fmtNumber(d.unique_author_sets)} unique author sets in its book catalog.`;
       if(q.includes('top day')||q.includes('best day')||q.includes('highest day')||q.includes('revenue day')) return topDay?`Top revenue day in ${d.store}: ${topDay.date}, with ${fmtMoney(topDay.revenue)}.`:'No valid daily revenue data is available.';
-      if(q.includes('revenue')||q.includes('sales')||q.includes('total')) return `Total validated revenue for ${d.store} is ${fmtMoney(d.total_revenue)} across ${fmtNumber(d.orders_count)} cleaned order rows.`;
-      if(q.includes('book sold')||q.includes('copies')) return `${fmtNumber(d.books_sold)} book copies were sold in ${d.store} across cleaned orders.`;
-      return 'I can answer from this dashboard about total revenue, top revenue day, unique users, unique author sets, most popular author set, books sold, or best buyer. Try asking one of those.';
+      if(q.includes('revenue')||q.includes('sales')||q.includes('total spending')||q.includes('total')) return `Total validated revenue for ${d.store} is ${fmtMoney(d.total_revenue)} across ${fmtNumber(d.orders_count)} cleaned order rows.`;
+      if(asksBooks) return `Total book copies sold in ${d.store} across all dates: ${fmtNumber(d.books_sold)}. You can also ask, “How many books were sold today?”`;
+      return 'Try questions like “How many books were sold?”, “How many books were sold today?”, “How much revenue?”, “How many unique users?”, “Which author set sold the most?”, or “Who is the best buyer?”. Answers are calculated from the selected store data.';
     }
     function sendChat(){const input=document.getElementById('chatInput');const question=input.value.trim();if(!question)return;addChatMessage(question,'user');addChatMessage(answerChat(question),'bot');input.value='';input.focus();}
     document.getElementById('chatSend').addEventListener('click',sendChat);document.getElementById('chatInput').addEventListener('keydown',event=>{if(event.key==='Enter')sendChat();});
