@@ -146,10 +146,11 @@
         return `There are no cleaned orders dated today (${todayKey}) in ${d.store}, so today's recorded book sales are 0. The latest date available in this store's dataset is ${latestEntry?latestEntry.date:'not available'}${latestEntry?`, with ${fmtNumber(latestEntry.books_sold)} copies sold`:''}.`;
       }
       if(asksBooks && asksSold) return `${fmtNumber(d.books_sold)} book copies were sold in ${d.store} across all dates in the cleaned dataset.`;
-      if(q.includes('buyer')||q.includes('customer who spend')||q.includes('best customer')||q.includes('who spent most')) return `Best buyer in ${d.store}: ${fmtMoney(buyer.total_spending)} total spending. Linked user IDs: ${JSON.stringify(buyer.user_ids||[])}.`;
-      if(q.includes('author')||q.includes('popular set')||q.includes('best seller')) return popular.length?`Most popular author set(s) by copies sold in ${d.store}: ${popular.map(a=>`${a.label} — ${fmtNumber(a.books_sold)} copies`).join('; ')}.`:'No author sales were found for this store.';
-      if(q.includes('unique user')||q.includes('real user')||q.includes('how many user')||q.includes('number of users')) return `${d.store} has ${fmtNumber(d.unique_users)} real unique users after reconciling records.`;
-      if(q.includes('author set')||q.includes('sets of author')||q.includes('unique sets')) return `${d.store} has ${fmtNumber(d.unique_author_sets)} unique author sets in its book catalog.`;
+      if(q.includes('buyer')||q.includes('customer who spend')||q.includes('best customer')||q.includes('who spent most')||q.includes('top customer')||q.includes('highest spender')) return `Best buyer in ${d.store}: ${fmtMoney(buyer.total_spending)} total spending. Linked user IDs: ${JSON.stringify(buyer.user_ids||[])}.`;
+      // Test the specific author-set-count intent before the broader author intent.
+      if(q.includes('unique author set')||q.includes('author sets')||q.includes('sets of author')||q.includes('unique sets')||q.includes('how many sets')) return `${d.store} has ${fmtNumber(d.unique_author_sets)} unique author sets in its book catalog.`;
+      if(q.includes('author')||q.includes('popular set')||q.includes('best seller')||q.includes('most popular')) return popular.length?`Most popular author set(s) by copies sold in ${d.store}: ${popular.map(a=>`${a.label} — ${fmtNumber(a.books_sold)} copies`).join('; ')}.`:'No author sales were found for this store.';
+      if(q.includes('unique user')||q.includes('real user')||q.includes('how many user')||q.includes('number of users')||q.includes('how many customers')) return `${d.store} has ${fmtNumber(d.unique_users)} real unique users after reconciling records.`;
       if(q.includes('top day')||q.includes('best day')||q.includes('highest day')||q.includes('revenue day')) return topDay?`Top revenue day in ${d.store}: ${topDay.date}, with ${fmtMoney(topDay.revenue)}.`:'No valid daily revenue data is available.';
       if(q.includes('revenue')||q.includes('sales')||q.includes('total spending')||q.includes('total')) return `Total validated revenue for ${d.store} is ${fmtMoney(d.total_revenue)} across ${fmtNumber(d.orders_count)} cleaned order rows.`;
       if(asksBooks) return `Total book copies sold in ${d.store} across all dates: ${fmtNumber(d.books_sold)}. You can also ask, “How many books were sold today?”`;
@@ -157,7 +158,20 @@
     }
     function sendChat(){const input=document.getElementById('chatInput');const question=input.value.trim();if(!question)return;addChatMessage(question,'user');addChatMessage(answerChat(question),'bot');input.value='';input.focus();}
     document.getElementById('chatSend').addEventListener('click',sendChat);document.getElementById('chatInput').addEventListener('keydown',event=>{if(event.key==='Enter')sendChat();});
-    if(storeNames.length){storeSelect.value=storeNames[0];render(storeNames[0]);}else{document.getElementById('pageTitle').textContent='No store data found';}
+    if(storeNames.length){
+      storeSelect.value=storeNames[0];
+      render(storeNames[0]);
+    }else{
+      document.getElementById('pageTitle').textContent='Dashboard data is missing';
+      document.getElementById('pageDescription').textContent='Run python run_analysis.py and publish the regenerated docs/index.html file.';
+      document.getElementById('totalRevenue').textContent='DATA MISSING';
+      document.getElementById('uniqueUsers').textContent='DATA MISSING';
+      document.getElementById('uniqueAuthorSets').textContent='DATA MISSING';
+      document.getElementById('booksSold').textContent='DATA MISSING';
+      document.getElementById('topDaysTable').innerHTML=emptyRow(3,'Dashboard data was not embedded. Regenerate docs/index.html.');
+      document.getElementById('topDaysTable2').innerHTML=emptyRow(3,'Dashboard data was not embedded. Regenerate docs/index.html.');
+      document.getElementById('qualityFoot').textContent='No calculated store data found';
+    }
   </script>
 </body>
 </html>
