@@ -1,33 +1,33 @@
 {
   "store": "STORE1",
-  "total_revenue": 568963.65,
-  "orders_count": 8200,
-  "unique_buyers_in_orders": 2921,
-  "books_sold": 12463,
+  "total_revenue": 147307.05,
+  "orders_count": 2120,
+  "unique_buyers_in_orders": 1545,
+  "books_sold": 3245,
   "unique_users": 3221,
   "users_rows": 3394,
   "unique_author_sets": 324,
   "books_in_catalog": 749,
   "top_5_days": [
     {
-      "date": "2026-10-21",
-      "revenue": 11594.89
-    },
-    {
       "date": "2025-10-17",
-      "revenue": 2930.58
+      "revenue": 1228.03
     },
     {
-      "date": "2026-01-25",
-      "revenue": 2919.46
+      "date": "2025-11-17",
+      "revenue": 1092.31
     },
     {
-      "date": "2025-10-13",
-      "revenue": 2690.75
+      "date": "2025-10-30",
+      "revenue": 1060.34
     },
     {
-      "date": "2026-01-15",
-      "revenue": 2687.89
+      "date": "2025-10-02",
+      "revenue": 1036.74
+    },
+    {
+      "date": "2025-12-11",
+      "revenue": 1033.89
     }
   ],
   "most_popular_author_sets": [
@@ -37,91 +37,41 @@
         "Miss Lorina Kertzmann"
       ],
       "label": "Darron Ernser, Miss Lorina Kertzmann",
-      "books_sold": 140,
+      "books_sold": 42,
       "distinct_titles": 4
     }
   ],
   "best_buyer": {
-    "total_spending": 1312.49,
+    "total_spending": 733.2,
     "user_ids": [
-      "48403",
-      "48904",
-      "50056"
+      "48267"
     ],
-    "real_customer_id": "48403"
+    "real_customer_id": "48267"
   },
   "daily_revenue": [
     {
-      "date": "2024-11-26",
-      "revenue": 32.75
-    },
-    {
       "date": "2024-11-29",
       "revenue": 92.4
-    },
-    {
-      "date": "2024-12-01",
-      "revenue": 17.5
-    },
-    {
-      "date": "2024-12-02",
-      "revenue": 25.98
-    },
-    {
-      "date": "2024-12-15",
-      "revenue": 63.0
     },
     {
       "date": "2024-12-16",
       "revenue": 39.5
     },
     {
-      "date": "2024-12-17",
-      "revenue": 26.4
-    },
-    {
-      "date": "2024-12-19",
-      "revenue": 79.19
-    },
-    {
-      "date": "2024-12-20",
-      "revenue": 46.0
-    },
-    {
       "date": "2024-12-21",
-      "revenue": 108.1
-    },
-    {
-      "date": "2024-12-22",
-      "revenue": 142.0
+      "revenue": 56.5
     },
     {
       "date": "2024-12-23",
       "revenue": 65.5
     },
     {
-      "date": "2024-12-24",
-      "revenue": 63.6
-    },
-    {
       "date": "2024-12-25",
       "revenue": 41.25
     },
     {
-      "date": "2024-12-26",
-      "revenue": 22.25
-    },
-    {
       "date": "2024-12-27",
-      "revenue": 172.95
-    },
-    {
-      "date": "2024-12-28",
-      "revenue": 398.6
-    },
-    {
-      "date": "2024-12-30",
-      "revenue": 47.5
+      "revenue": 74.4
     },
     {
       "date": "2024-12-31",
@@ -132,48 +82,16 @@
       "revenue": 108.75
     },
     {
-      "date": "2025-01-02",
-      "revenue": 284.5
-    },
-    {
-      "date": "2025-01-03",
-      "revenue": 34.0
-    },
-    {
-      "date": "2025-01-04",
-      "revenue": 256.15
-    },
-    {
-      "date": "2025-01-05",
-      "revenue": 77.97
-    },
-    {
       "date": "2025-01-07",
-      "revenue": 370.47
-    },
-    {
-      "date": "2025-01-08",
-      "revenue": 220.25
-    },
-    {
-      "date": "2025-01-09",
-      "revenue": 65.4
+      "revenue": 209.97
     },
     {
       "date": "2025-01-10",
-      "revenue": 88.5
+      "revenue": 32.0
     },
     {
       "date": "2025-01-12",
-      "revenue": 257.05
-    },
-    {
-      "date": "2025-01-13",
-      "revenue": 38.75
-    },
-    {
-      "date": "2025-01-14",
-      "revenue": 210.85
+      "revenue": 104.25
     },
     {
       "date": "2025-01-15",
@@ -181,7 +99,7 @@
     },
     {
       "date": "2025-01-16",
-      "revenue": 159.9
+      "revenue": 98.4
     },
     {
       "date": "2025-01-17",
@@ -189,15 +107,7 @@
     },
     {
       "date": "2025-01-18",
-      "revenue": 236.75
-    },
-    {
-      "date": "2025-01-19",
-      "revenue": 167.95
-    },
-    {
-      "date": "2025-01-20",
-      "revenue": 86.2
+      "revenue": 18.0
     },
     {
       "date": "2025-01-21",
@@ -205,11 +115,11 @@
     },
     {
       "date": "2025-01-22",
-      "revenue": 307.49
+      "revenue": 62.99
     },
     {
       "date": "2025-01-23",
-      "revenue": 223.8
+      "revenue": 158.0
     },
     {
       "date": "2025-01-24",
@@ -217,107 +127,67 @@
     },
     {
       "date": "2025-01-25",
-      "revenue": 417.79
+      "revenue": 235.99
     },
     {
       "date": "2025-01-26",
-      "revenue": 250.5
-    },
-    {
-      "date": "2025-01-27",
-      "revenue": 151.18
+      "revenue": 122.25
     },
     {
       "date": "2025-01-28",
-      "revenue": 521.38
+      "revenue": 290.38
     },
     {
       "date": "2025-01-29",
-      "revenue": 118.45
+      "revenue": 68.5
     },
     {
       "date": "2025-01-31",
-      "revenue": 184.6
-    },
-    {
-      "date": "2025-02-01",
-      "revenue": 79.5
+      "revenue": 117.6
     },
     {
       "date": "2025-02-02",
-      "revenue": 68.25
-    },
-    {
-      "date": "2025-02-03",
-      "revenue": 71.0
+      "revenue": 49.25
     },
     {
       "date": "2025-02-04",
-      "revenue": 588.14
+      "revenue": 67.5
     },
     {
       "date": "2025-02-05",
-      "revenue": 313.44
-    },
-    {
-      "date": "2025-02-06",
-      "revenue": 26.4
-    },
-    {
-      "date": "2025-02-07",
-      "revenue": 212.39
-    },
-    {
-      "date": "2025-02-08",
-      "revenue": 494.45
+      "revenue": 168.99
     },
     {
       "date": "2025-02-09",
-      "revenue": 45.05
-    },
-    {
-      "date": "2025-02-10",
-      "revenue": 137.5
+      "revenue": 26.75
     },
     {
       "date": "2025-02-11",
-      "revenue": 254.99
-    },
-    {
-      "date": "2025-02-12",
-      "revenue": 304.4
+      "revenue": 108.0
     },
     {
       "date": "2025-02-13",
-      "revenue": 504.05
-    },
-    {
-      "date": "2025-02-15",
-      "revenue": 128.0
+      "revenue": 393.05
     },
     {
       "date": "2025-02-16",
-      "revenue": 142.5
+      "revenue": 49.5
     },
     {
       "date": "2025-02-17",
-      "revenue": 165.1
+      "revenue": 57.6
     },
     {
       "date": "2025-02-18",
-      "revenue": 226.39
+      "revenue": 138.0
     },
     {
       "date": "2025-02-19",
-      "revenue": 289.8
-    },
-    {
-      "date": "2025-02-20",
-      "revenue": 409.43
+      "revenue": 180.0
     },
     {
       "date": "2025-02-21",
-      "revenue": 288.4
+      "revenue": 45.9
     },
     {
       "date": "2025-02-22",
@@ -328,1904 +198,1816 @@
       "revenue": 52.0
     },
     {
-      "date": "2025-02-24",
-      "revenue": 125.49
-    },
-    {
       "date": "2025-02-26",
-      "revenue": 132.33
-    },
-    {
-      "date": "2025-02-27",
-      "revenue": 197.78
+      "revenue": 29.99
     },
     {
       "date": "2025-02-28",
-      "revenue": 322.5
+      "revenue": 47.75
     },
     {
       "date": "2025-03-01",
-      "revenue": 145.5
+      "revenue": 70.0
     },
     {
       "date": "2025-03-02",
-      "revenue": 142.25
+      "revenue": 74.5
     },
     {
       "date": "2025-03-03",
-      "revenue": 343.24
+      "revenue": 97.0
     },
     {
       "date": "2025-03-04",
-      "revenue": 330.75
-    },
-    {
-      "date": "2025-03-05",
-      "revenue": 195.2
+      "revenue": 122.4
     },
     {
       "date": "2025-03-06",
-      "revenue": 254.29
+      "revenue": 109.5
     },
     {
       "date": "2025-03-08",
-      "revenue": 194.0
-    },
-    {
-      "date": "2025-03-09",
-      "revenue": 154.74
+      "revenue": 112.75
     },
     {
       "date": "2025-03-11",
-      "revenue": 184.39
+      "revenue": 53.99
     },
     {
       "date": "2025-03-12",
-      "revenue": 349.7
-    },
-    {
-      "date": "2025-03-13",
-      "revenue": 426.1
+      "revenue": 72.25
     },
     {
       "date": "2025-03-14",
-      "revenue": 256.4
-    },
-    {
-      "date": "2025-03-15",
-      "revenue": 593.19
+      "revenue": 62.4
     },
     {
       "date": "2025-03-16",
-      "revenue": 371.49
+      "revenue": 133.99
     },
     {
       "date": "2025-03-17",
-      "revenue": 294.0
+      "revenue": 45.25
     },
     {
       "date": "2025-03-18",
-      "revenue": 266.98
+      "revenue": 14.0
     },
     {
       "date": "2025-03-19",
-      "revenue": 396.48
+      "revenue": 267.99
     },
     {
       "date": "2025-03-20",
-      "revenue": 285.25
+      "revenue": 187.75
     },
     {
       "date": "2025-03-21",
-      "revenue": 202.05
-    },
-    {
-      "date": "2025-03-22",
-      "revenue": 326.46
-    },
-    {
-      "date": "2025-03-23",
-      "revenue": 201.09
+      "revenue": 19.8
     },
     {
       "date": "2025-03-24",
-      "revenue": 638.87
+      "revenue": 111.0
     },
     {
       "date": "2025-03-25",
-      "revenue": 356.4
+      "revenue": 163.35
     },
     {
       "date": "2025-03-26",
-      "revenue": 544.05
+      "revenue": 94.0
     },
     {
       "date": "2025-03-27",
-      "revenue": 577.69
+      "revenue": 73.99
     },
     {
       "date": "2025-03-28",
-      "revenue": 229.9
-    },
-    {
-      "date": "2025-03-29",
-      "revenue": 263.97
+      "revenue": 86.4
     },
     {
       "date": "2025-03-30",
-      "revenue": 290.6
+      "revenue": 95.0
     },
     {
       "date": "2025-03-31",
-      "revenue": 632.79
+      "revenue": 44.39
     },
     {
       "date": "2025-04-01",
-      "revenue": 636.85
+      "revenue": 34.5
     },
     {
       "date": "2025-04-02",
-      "revenue": 384.29
+      "revenue": 25.25
     },
     {
       "date": "2025-04-03",
-      "revenue": 526.88
+      "revenue": 103.2
     },
     {
       "date": "2025-04-04",
-      "revenue": 378.11
+      "revenue": 22.0
     },
     {
       "date": "2025-04-05",
-      "revenue": 911.6
+      "revenue": 176.35
     },
     {
       "date": "2025-04-06",
-      "revenue": 550.26
+      "revenue": 82.99
     },
     {
       "date": "2025-04-07",
-      "revenue": 462.85
-    },
-    {
-      "date": "2025-04-08",
-      "revenue": 507.89
-    },
-    {
-      "date": "2025-04-09",
-      "revenue": 488.17
+      "revenue": 153.4
     },
     {
       "date": "2025-04-10",
-      "revenue": 845.48
+      "revenue": 373.0
     },
     {
       "date": "2025-04-11",
-      "revenue": 1105.25
+      "revenue": 338.25
     },
     {
       "date": "2025-04-12",
-      "revenue": 532.58
+      "revenue": 164.49
     },
     {
       "date": "2025-04-13",
-      "revenue": 535.14
+      "revenue": 138.5
     },
     {
       "date": "2025-04-14",
-      "revenue": 986.1
+      "revenue": 132.5
     },
     {
       "date": "2025-04-15",
-      "revenue": 930.0
+      "revenue": 243.3
     },
     {
       "date": "2025-04-16",
-      "revenue": 509.95
+      "revenue": 33.0
     },
     {
       "date": "2025-04-17",
-      "revenue": 584.0
+      "revenue": 31.8
     },
     {
       "date": "2025-04-18",
-      "revenue": 484.05
+      "revenue": 301.8
     },
     {
       "date": "2025-04-19",
-      "revenue": 768.0
+      "revenue": 239.74
     },
     {
       "date": "2025-04-20",
-      "revenue": 620.59
+      "revenue": 106.89
     },
     {
       "date": "2025-04-21",
-      "revenue": 548.9
+      "revenue": 135.2
     },
     {
       "date": "2025-04-22",
-      "revenue": 755.75
+      "revenue": 194.4
     },
     {
       "date": "2025-04-23",
-      "revenue": 385.83
+      "revenue": 147.59
     },
     {
       "date": "2025-04-24",
-      "revenue": 763.48
+      "revenue": 154.73
     },
     {
       "date": "2025-04-25",
-      "revenue": 761.22
+      "revenue": 204.75
     },
     {
       "date": "2025-04-26",
-      "revenue": 672.84
+      "revenue": 158.6
     },
     {
       "date": "2025-04-27",
-      "revenue": 1305.35
+      "revenue": 255.8
     },
     {
       "date": "2025-04-28",
-      "revenue": 1265.59
+      "revenue": 248.34
     },
     {
       "date": "2025-04-29",
-      "revenue": 669.35
+      "revenue": 191.0
     },
     {
       "date": "2025-04-30",
-      "revenue": 545.67
+      "revenue": 93.0
     },
     {
       "date": "2025-05-01",
-      "revenue": 290.5
+      "revenue": 39.5
     },
     {
       "date": "2025-05-02",
-      "revenue": 406.59
+      "revenue": 163.5
     },
     {
       "date": "2025-05-03",
-      "revenue": 881.5
+      "revenue": 124.0
     },
     {
       "date": "2025-05-04",
-      "revenue": 549.24
+      "revenue": 169.49
     },
     {
       "date": "2025-05-05",
-      "revenue": 829.54
+      "revenue": 524.2
     },
     {
       "date": "2025-05-06",
-      "revenue": 866.29
-    },
-    {
-      "date": "2025-05-07",
-      "revenue": 866.15
+      "revenue": 367.3
     },
     {
       "date": "2025-05-08",
-      "revenue": 380.29
+      "revenue": 132.5
     },
     {
       "date": "2025-05-09",
-      "revenue": 1403.84
+      "revenue": 503.74
     },
     {
       "date": "2025-05-10",
-      "revenue": 487.25
+      "revenue": 66.0
     },
     {
       "date": "2025-05-11",
-      "revenue": 1259.83
+      "revenue": 190.49
     },
     {
       "date": "2025-05-12",
-      "revenue": 1150.35
+      "revenue": 325.1
     },
     {
       "date": "2025-05-13",
-      "revenue": 1022.97
+      "revenue": 123.99
     },
     {
       "date": "2025-05-14",
-      "revenue": 431.0
+      "revenue": 235.0
     },
     {
       "date": "2025-05-15",
-      "revenue": 1084.48
+      "revenue": 86.24
     },
     {
       "date": "2025-05-16",
-      "revenue": 1132.89
+      "revenue": 245.1
     },
     {
       "date": "2025-05-17",
-      "revenue": 1030.06
+      "revenue": 188.75
     },
     {
       "date": "2025-05-18",
-      "revenue": 927.55
+      "revenue": 67.5
     },
     {
       "date": "2025-05-19",
-      "revenue": 1697.19
+      "revenue": 720.96
     },
     {
       "date": "2025-05-20",
-      "revenue": 234.75
+      "revenue": 80.75
     },
     {
       "date": "2025-05-21",
-      "revenue": 696.44
+      "revenue": 252.0
     },
     {
       "date": "2025-05-22",
-      "revenue": 636.0
+      "revenue": 172.7
     },
     {
       "date": "2025-05-23",
-      "revenue": 1167.08
+      "revenue": 457.4
     },
     {
       "date": "2025-05-24",
-      "revenue": 772.99
+      "revenue": 93.0
     },
     {
       "date": "2025-05-25",
-      "revenue": 434.0
+      "revenue": 107.5
     },
     {
       "date": "2025-05-26",
-      "revenue": 584.84
+      "revenue": 52.75
     },
     {
       "date": "2025-05-27",
-      "revenue": 995.62
+      "revenue": 354.13
     },
     {
       "date": "2025-05-28",
-      "revenue": 1081.03
+      "revenue": 410.5
     },
     {
       "date": "2025-05-29",
-      "revenue": 1344.05
+      "revenue": 142.5
     },
     {
       "date": "2025-05-30",
-      "revenue": 834.89
+      "revenue": 235.49
     },
     {
       "date": "2025-05-31",
-      "revenue": 1040.62
+      "revenue": 314.25
     },
     {
       "date": "2025-06-01",
-      "revenue": 540.21
+      "revenue": 87.49
     },
     {
       "date": "2025-06-02",
-      "revenue": 1050.21
+      "revenue": 744.22
     },
     {
       "date": "2025-06-03",
-      "revenue": 362.25
+      "revenue": 338.75
     },
     {
       "date": "2025-06-04",
-      "revenue": 1569.63
+      "revenue": 235.99
     },
     {
       "date": "2025-06-05",
-      "revenue": 1220.27
+      "revenue": 303.99
     },
     {
       "date": "2025-06-06",
-      "revenue": 655.34
+      "revenue": 50.5
     },
     {
       "date": "2025-06-07",
-      "revenue": 1037.23
+      "revenue": 125.5
     },
     {
       "date": "2025-06-08",
-      "revenue": 831.64
+      "revenue": 198.95
     },
     {
       "date": "2025-06-09",
-      "revenue": 1332.79
+      "revenue": 273.5
     },
     {
       "date": "2025-06-10",
-      "revenue": 954.5
+      "revenue": 35.0
     },
     {
       "date": "2025-06-11",
-      "revenue": 854.9
+      "revenue": 313.25
     },
     {
       "date": "2025-06-12",
-      "revenue": 1167.85
+      "revenue": 373.1
     },
     {
       "date": "2025-06-13",
-      "revenue": 1027.29
+      "revenue": 201.2
     },
     {
       "date": "2025-06-14",
-      "revenue": 990.94
+      "revenue": 339.08
     },
     {
       "date": "2025-06-15",
-      "revenue": 937.59
+      "revenue": 156.75
     },
     {
       "date": "2025-06-16",
-      "revenue": 990.75
+      "revenue": 315.5
     },
     {
       "date": "2025-06-17",
-      "revenue": 1119.15
+      "revenue": 111.49
     },
     {
       "date": "2025-06-18",
-      "revenue": 812.03
+      "revenue": 230.24
     },
     {
       "date": "2025-06-19",
-      "revenue": 1603.44
+      "revenue": 313.55
     },
     {
       "date": "2025-06-20",
-      "revenue": 747.67
+      "revenue": 135.0
     },
     {
       "date": "2025-06-21",
-      "revenue": 1492.03
+      "revenue": 463.25
     },
     {
       "date": "2025-06-22",
-      "revenue": 1220.89
+      "revenue": 101.5
     },
     {
       "date": "2025-06-23",
-      "revenue": 774.68
+      "revenue": 86.5
     },
     {
       "date": "2025-06-24",
-      "revenue": 1625.67
+      "revenue": 340.2
     },
     {
       "date": "2025-06-25",
-      "revenue": 638.54
+      "revenue": 96.55
     },
     {
       "date": "2025-06-26",
-      "revenue": 1810.32
+      "revenue": 1026.57
     },
     {
       "date": "2025-06-27",
-      "revenue": 987.87
+      "revenue": 210.0
     },
     {
       "date": "2025-06-28",
-      "revenue": 1667.09
+      "revenue": 634.05
     },
     {
       "date": "2025-06-29",
-      "revenue": 1237.19
+      "revenue": 274.5
     },
     {
       "date": "2025-06-30",
-      "revenue": 1636.05
+      "revenue": 313.0
     },
     {
       "date": "2025-07-01",
-      "revenue": 830.95
+      "revenue": 489.3
     },
     {
       "date": "2025-07-02",
-      "revenue": 879.99
+      "revenue": 131.99
     },
     {
       "date": "2025-07-03",
-      "revenue": 1314.71
+      "revenue": 209.9
     },
     {
       "date": "2025-07-04",
-      "revenue": 964.81
+      "revenue": 240.23
     },
     {
       "date": "2025-07-05",
-      "revenue": 1676.52
+      "revenue": 554.89
     },
     {
       "date": "2025-07-06",
-      "revenue": 1641.32
+      "revenue": 72.9
     },
     {
       "date": "2025-07-07",
-      "revenue": 800.09
+      "revenue": 482.85
     },
     {
       "date": "2025-07-08",
-      "revenue": 1671.87
+      "revenue": 684.6
     },
     {
       "date": "2025-07-09",
-      "revenue": 829.75
+      "revenue": 256.05
     },
     {
       "date": "2025-07-10",
-      "revenue": 1494.89
+      "revenue": 177.98
     },
     {
       "date": "2025-07-11",
-      "revenue": 1250.55
+      "revenue": 309.5
     },
     {
       "date": "2025-07-12",
-      "revenue": 1719.16
+      "revenue": 507.96
     },
     {
       "date": "2025-07-13",
-      "revenue": 1103.78
+      "revenue": 326.29
     },
     {
       "date": "2025-07-14",
-      "revenue": 1129.09
+      "revenue": 44.4
     },
     {
       "date": "2025-07-15",
-      "revenue": 1318.18
+      "revenue": 342.08
     },
     {
       "date": "2025-07-16",
-      "revenue": 1228.1
+      "revenue": 101.0
     },
     {
       "date": "2025-07-17",
-      "revenue": 1678.97
+      "revenue": 523.0
     },
     {
       "date": "2025-07-18",
-      "revenue": 597.64
+      "revenue": 247.89
     },
     {
       "date": "2025-07-19",
-      "revenue": 1195.32
+      "revenue": 380.2
     },
     {
       "date": "2025-07-20",
-      "revenue": 1260.03
+      "revenue": 463.3
     },
     {
       "date": "2025-07-21",
-      "revenue": 1105.51
+      "revenue": 507.52
     },
     {
       "date": "2025-07-22",
-      "revenue": 1552.8
+      "revenue": 301.25
     },
     {
       "date": "2025-07-23",
-      "revenue": 1498.27
+      "revenue": 530.73
     },
     {
       "date": "2025-07-24",
-      "revenue": 1571.83
+      "revenue": 327.4
     },
     {
       "date": "2025-07-25",
-      "revenue": 1564.77
+      "revenue": 306.7
     },
     {
       "date": "2025-07-26",
-      "revenue": 889.03
+      "revenue": 418.15
     },
     {
       "date": "2025-07-27",
-      "revenue": 1156.69
+      "revenue": 311.05
     },
     {
       "date": "2025-07-28",
-      "revenue": 1009.11
+      "revenue": 287.78
     },
     {
       "date": "2025-07-29",
-      "revenue": 795.21
+      "revenue": 57.0
     },
     {
       "date": "2025-07-30",
-      "revenue": 1103.79
+      "revenue": 152.5
     },
     {
       "date": "2025-07-31",
-      "revenue": 1867.74
+      "revenue": 639.95
     },
     {
       "date": "2025-08-01",
-      "revenue": 1624.47
+      "revenue": 830.24
     },
     {
       "date": "2025-08-02",
-      "revenue": 1314.36
+      "revenue": 85.49
     },
     {
       "date": "2025-08-03",
-      "revenue": 1253.34
+      "revenue": 623.9
     },
     {
       "date": "2025-08-04",
-      "revenue": 769.08
+      "revenue": 195.75
     },
     {
       "date": "2025-08-05",
-      "revenue": 1694.88
+      "revenue": 102.75
     },
     {
       "date": "2025-08-06",
-      "revenue": 1837.9
+      "revenue": 416.72
     },
     {
       "date": "2025-08-07",
-      "revenue": 1213.19
+      "revenue": 372.19
     },
     {
       "date": "2025-08-08",
-      "revenue": 1435.18
+      "revenue": 151.8
     },
     {
       "date": "2025-08-09",
-      "revenue": 1257.26
+      "revenue": 113.95
     },
     {
       "date": "2025-08-10",
-      "revenue": 1380.45
+      "revenue": 246.85
     },
     {
       "date": "2025-08-11",
-      "revenue": 1404.5
+      "revenue": 465.96
     },
     {
       "date": "2025-08-12",
-      "revenue": 1184.89
+      "revenue": 137.25
     },
     {
       "date": "2025-08-13",
-      "revenue": 1663.94
+      "revenue": 635.68
     },
     {
       "date": "2025-08-14",
-      "revenue": 1390.05
+      "revenue": 559.71
     },
     {
       "date": "2025-08-15",
-      "revenue": 1263.57
+      "revenue": 229.2
     },
     {
       "date": "2025-08-16",
-      "revenue": 1278.24
+      "revenue": 216.05
     },
     {
       "date": "2025-08-17",
-      "revenue": 1245.89
+      "revenue": 322.5
     },
     {
       "date": "2025-08-18",
-      "revenue": 2092.26
+      "revenue": 564.89
     },
     {
       "date": "2025-08-19",
-      "revenue": 1822.82
+      "revenue": 365.25
     },
     {
       "date": "2025-08-20",
-      "revenue": 2491.12
+      "revenue": 687.25
     },
     {
       "date": "2025-08-21",
-      "revenue": 2088.35
+      "revenue": 388.6
     },
     {
       "date": "2025-08-22",
-      "revenue": 1318.69
+      "revenue": 501.9
     },
     {
       "date": "2025-08-23",
-      "revenue": 1850.97
+      "revenue": 712.7
     },
     {
       "date": "2025-08-24",
-      "revenue": 2103.5
+      "revenue": 202.5
     },
     {
       "date": "2025-08-25",
-      "revenue": 1669.72
+      "revenue": 764.19
     },
     {
       "date": "2025-08-26",
-      "revenue": 1855.43
+      "revenue": 441.1
     },
     {
       "date": "2025-08-27",
-      "revenue": 1655.25
+      "revenue": 237.7
     },
     {
       "date": "2025-08-28",
-      "revenue": 1996.15
+      "revenue": 488.3
     },
     {
       "date": "2025-08-29",
-      "revenue": 1881.1
+      "revenue": 444.9
     },
     {
       "date": "2025-08-30",
-      "revenue": 1614.48
+      "revenue": 654.89
     },
     {
       "date": "2025-08-31",
-      "revenue": 2135.36
+      "revenue": 823.98
     },
     {
       "date": "2025-09-01",
-      "revenue": 1663.08
+      "revenue": 139.29
     },
     {
       "date": "2025-09-02",
-      "revenue": 1854.58
+      "revenue": 904.15
     },
     {
       "date": "2025-09-03",
-      "revenue": 2403.82
+      "revenue": 784.1
     },
     {
       "date": "2025-09-04",
-      "revenue": 1284.12
+      "revenue": 160.35
     },
     {
       "date": "2025-09-05",
-      "revenue": 1866.7
+      "revenue": 765.52
     },
     {
       "date": "2025-09-06",
-      "revenue": 1886.27
+      "revenue": 499.93
     },
     {
       "date": "2025-09-07",
-      "revenue": 1484.77
+      "revenue": 98.6
     },
     {
       "date": "2025-09-08",
-      "revenue": 1656.64
+      "revenue": 593.85
     },
     {
       "date": "2025-09-09",
-      "revenue": 1116.91
+      "revenue": 159.99
     },
     {
       "date": "2025-09-10",
-      "revenue": 2524.07
+      "revenue": 233.08
     },
     {
       "date": "2025-09-11",
-      "revenue": 1528.69
+      "revenue": 339.7
     },
     {
       "date": "2025-09-12",
-      "revenue": 1725.58
+      "revenue": 56.0
     },
     {
       "date": "2025-09-13",
-      "revenue": 1598.15
+      "revenue": 227.0
     },
     {
       "date": "2025-09-14",
-      "revenue": 2026.76
+      "revenue": 872.96
     },
     {
       "date": "2025-09-15",
-      "revenue": 1350.52
+      "revenue": 255.94
     },
     {
       "date": "2025-09-16",
-      "revenue": 2035.57
+      "revenue": 338.1
     },
     {
       "date": "2025-09-17",
-      "revenue": 1824.2
+      "revenue": 536.61
     },
     {
       "date": "2025-09-18",
-      "revenue": 1905.82
+      "revenue": 309.93
     },
     {
       "date": "2025-09-19",
-      "revenue": 1591.58
+      "revenue": 374.43
     },
     {
       "date": "2025-09-20",
-      "revenue": 1212.89
+      "revenue": 366.94
     },
     {
       "date": "2025-09-21",
-      "revenue": 1904.28
+      "revenue": 925.19
     },
     {
       "date": "2025-09-22",
-      "revenue": 2590.81
+      "revenue": 257.1
     },
     {
       "date": "2025-09-23",
-      "revenue": 1517.74
+      "revenue": 294.8
     },
     {
       "date": "2025-09-24",
-      "revenue": 1719.31
+      "revenue": 278.94
     },
     {
       "date": "2025-09-25",
-      "revenue": 1114.28
+      "revenue": 169.98
     },
     {
       "date": "2025-09-26",
-      "revenue": 1489.38
+      "revenue": 358.3
     },
     {
       "date": "2025-09-27",
-      "revenue": 1343.33
+      "revenue": 479.61
     },
     {
       "date": "2025-09-28",
-      "revenue": 2392.46
+      "revenue": 233.1
     },
     {
       "date": "2025-09-29",
-      "revenue": 1621.78
+      "revenue": 892.79
     },
     {
       "date": "2025-09-30",
-      "revenue": 1331.5
+      "revenue": 545.24
     },
     {
       "date": "2025-10-01",
-      "revenue": 1286.88
+      "revenue": 226.99
     },
     {
       "date": "2025-10-02",
-      "revenue": 2445.44
+      "revenue": 1036.74
     },
     {
       "date": "2025-10-03",
-      "revenue": 1331.88
+      "revenue": 261.15
     },
     {
       "date": "2025-10-04",
-      "revenue": 1801.45
+      "revenue": 797.51
     },
     {
       "date": "2025-10-05",
-      "revenue": 1840.46
+      "revenue": 285.48
     },
     {
       "date": "2025-10-06",
-      "revenue": 1487.21
+      "revenue": 430.54
     },
     {
       "date": "2025-10-07",
-      "revenue": 2183.27
+      "revenue": 454.38
     },
     {
       "date": "2025-10-08",
-      "revenue": 1348.61
+      "revenue": 213.0
     },
     {
       "date": "2025-10-09",
-      "revenue": 1174.59
+      "revenue": 320.35
     },
     {
       "date": "2025-10-10",
-      "revenue": 1215.92
+      "revenue": 542.74
     },
     {
       "date": "2025-10-11",
-      "revenue": 1578.35
+      "revenue": 314.84
     },
     {
       "date": "2025-10-12",
-      "revenue": 2433.91
+      "revenue": 637.92
     },
     {
       "date": "2025-10-13",
-      "revenue": 2690.75
+      "revenue": 690.37
     },
     {
       "date": "2025-10-14",
-      "revenue": 1815.69
+      "revenue": 266.5
     },
     {
       "date": "2025-10-15",
-      "revenue": 1823.41
+      "revenue": 631.71
     },
     {
       "date": "2025-10-16",
-      "revenue": 1036.71
+      "revenue": 133.69
     },
     {
       "date": "2025-10-17",
-      "revenue": 2930.58
+      "revenue": 1228.03
     },
     {
       "date": "2025-10-18",
-      "revenue": 2022.99
+      "revenue": 460.1
     },
     {
       "date": "2025-10-19",
-      "revenue": 1587.25
+      "revenue": 239.0
     },
     {
       "date": "2025-10-20",
-      "revenue": 1426.55
+      "revenue": 174.75
     },
     {
       "date": "2025-10-21",
-      "revenue": 2036.12
+      "revenue": 495.0
     },
     {
       "date": "2025-10-22",
-      "revenue": 1617.84
+      "revenue": 597.05
     },
     {
       "date": "2025-10-23",
-      "revenue": 1836.28
+      "revenue": 248.29
     },
     {
       "date": "2025-10-24",
-      "revenue": 2100.54
+      "revenue": 279.0
     },
     {
       "date": "2025-10-25",
-      "revenue": 987.74
+      "revenue": 182.75
     },
     {
       "date": "2025-10-26",
-      "revenue": 1979.98
+      "revenue": 275.15
     },
     {
       "date": "2025-10-27",
-      "revenue": 1082.07
+      "revenue": 296.74
     },
     {
       "date": "2025-10-28",
-      "revenue": 1874.79
+      "revenue": 626.84
     },
     {
       "date": "2025-10-29",
-      "revenue": 1606.22
+      "revenue": 650.2
     },
     {
       "date": "2025-10-30",
-      "revenue": 2337.68
+      "revenue": 1060.34
     },
     {
       "date": "2025-10-31",
-      "revenue": 1376.33
+      "revenue": 201.74
     },
     {
       "date": "2025-11-01",
-      "revenue": 1733.45
+      "revenue": 750.35
     },
     {
       "date": "2025-11-02",
-      "revenue": 1106.04
+      "revenue": 159.09
     },
     {
       "date": "2025-11-03",
-      "revenue": 2063.93
+      "revenue": 522.71
     },
     {
       "date": "2025-11-04",
-      "revenue": 2060.59
+      "revenue": 910.25
     },
     {
       "date": "2025-11-05",
-      "revenue": 1958.35
+      "revenue": 339.1
     },
     {
       "date": "2025-11-06",
-      "revenue": 1366.8
+      "revenue": 290.53
     },
     {
       "date": "2025-11-07",
-      "revenue": 1418.93
+      "revenue": 400.96
     },
     {
       "date": "2025-11-08",
-      "revenue": 1157.88
+      "revenue": 430.24
     },
     {
       "date": "2025-11-09",
-      "revenue": 2150.87
+      "revenue": 239.19
     },
     {
       "date": "2025-11-10",
-      "revenue": 1775.94
+      "revenue": 855.96
     },
     {
       "date": "2025-11-11",
-      "revenue": 1664.24
+      "revenue": 473.65
     },
     {
       "date": "2025-11-12",
-      "revenue": 1705.24
+      "revenue": 245.23
     },
     {
       "date": "2025-11-13",
-      "revenue": 1427.66
+      "revenue": 692.5
     },
     {
       "date": "2025-11-14",
-      "revenue": 2629.72
+      "revenue": 701.48
     },
     {
       "date": "2025-11-15",
-      "revenue": 1038.62
+      "revenue": 461.74
     },
     {
       "date": "2025-11-16",
-      "revenue": 1894.24
+      "revenue": 245.0
     },
     {
       "date": "2025-11-17",
-      "revenue": 1818.63
+      "revenue": 1092.31
     },
     {
       "date": "2025-11-18",
-      "revenue": 1180.21
+      "revenue": 368.6
     },
     {
       "date": "2025-11-19",
-      "revenue": 1919.12
+      "revenue": 448.93
     },
     {
       "date": "2025-11-20",
-      "revenue": 2172.71
+      "revenue": 692.08
     },
     {
       "date": "2025-11-21",
-      "revenue": 1188.52
+      "revenue": 540.68
     },
     {
       "date": "2025-11-22",
-      "revenue": 1731.23
+      "revenue": 814.55
     },
     {
       "date": "2025-11-23",
-      "revenue": 1537.09
+      "revenue": 421.5
     },
     {
       "date": "2025-11-24",
-      "revenue": 862.9
+      "revenue": 264.3
     },
     {
       "date": "2025-11-25",
-      "revenue": 1612.41
+      "revenue": 580.25
     },
     {
       "date": "2025-11-26",
-      "revenue": 1429.24
+      "revenue": 631.39
     },
     {
       "date": "2025-11-27",
-      "revenue": 1064.22
+      "revenue": 220.49
     },
     {
       "date": "2025-11-28",
-      "revenue": 2110.23
+      "revenue": 689.71
     },
     {
       "date": "2025-11-29",
-      "revenue": 1492.29
+      "revenue": 419.54
     },
     {
       "date": "2025-11-30",
-      "revenue": 1163.06
+      "revenue": 141.24
     },
     {
       "date": "2025-12-01",
-      "revenue": 1462.44
+      "revenue": 63.74
     },
     {
       "date": "2025-12-02",
-      "revenue": 2017.93
+      "revenue": 467.9
     },
     {
       "date": "2025-12-03",
-      "revenue": 1495.29
+      "revenue": 325.7
     },
     {
       "date": "2025-12-04",
-      "revenue": 1637.53
+      "revenue": 290.2
     },
     {
       "date": "2025-12-05",
-      "revenue": 2153.26
+      "revenue": 151.69
     },
     {
       "date": "2025-12-06",
-      "revenue": 1764.57
+      "revenue": 234.8
     },
     {
       "date": "2025-12-07",
-      "revenue": 1200.22
+      "revenue": 397.0
     },
     {
       "date": "2025-12-08",
-      "revenue": 943.36
+      "revenue": 376.25
     },
     {
       "date": "2025-12-09",
-      "revenue": 1965.17
+      "revenue": 519.8
     },
     {
       "date": "2025-12-10",
-      "revenue": 1260.18
+      "revenue": 251.2
     },
     {
       "date": "2025-12-11",
-      "revenue": 2043.92
+      "revenue": 1033.89
     },
     {
       "date": "2025-12-12",
-      "revenue": 1200.96
+      "revenue": 119.75
     },
     {
       "date": "2025-12-13",
-      "revenue": 2014.92
+      "revenue": 322.1
     },
     {
       "date": "2025-12-14",
-      "revenue": 1272.37
+      "revenue": 549.74
     },
     {
       "date": "2025-12-15",
-      "revenue": 1629.59
+      "revenue": 574.8
     },
     {
       "date": "2025-12-16",
-      "revenue": 1470.26
+      "revenue": 526.5
     },
     {
       "date": "2025-12-17",
-      "revenue": 1603.65
+      "revenue": 163.24
     },
     {
       "date": "2025-12-18",
-      "revenue": 1609.17
+      "revenue": 474.44
     },
     {
       "date": "2025-12-19",
-      "revenue": 2275.92
+      "revenue": 870.48
     },
     {
       "date": "2025-12-20",
-      "revenue": 1778.07
+      "revenue": 454.49
     },
     {
       "date": "2025-12-21",
-      "revenue": 1281.83
+      "revenue": 434.33
     },
     {
       "date": "2025-12-22",
-      "revenue": 1797.12
+      "revenue": 518.0
     },
     {
       "date": "2025-12-23",
-      "revenue": 1472.22
+      "revenue": 394.44
     },
     {
       "date": "2025-12-24",
-      "revenue": 1573.71
+      "revenue": 724.56
     },
     {
       "date": "2025-12-25",
-      "revenue": 1545.29
+      "revenue": 252.79
     },
     {
       "date": "2025-12-26",
-      "revenue": 1070.85
+      "revenue": 404.15
     },
     {
       "date": "2025-12-27",
-      "revenue": 612.72
+      "revenue": 229.13
     },
     {
       "date": "2025-12-28",
-      "revenue": 2292.07
+      "revenue": 951.74
     },
     {
       "date": "2025-12-29",
-      "revenue": 1460.26
+      "revenue": 41.5
     },
     {
       "date": "2025-12-30",
-      "revenue": 2645.94
+      "revenue": 344.27
     },
     {
       "date": "2025-12-31",
-      "revenue": 1121.2
+      "revenue": 384.5
     },
     {
       "date": "2026-01-01",
-      "revenue": 1654.27
+      "revenue": 267.0
     },
     {
       "date": "2026-01-02",
-      "revenue": 2106.37
+      "revenue": 572.93
     },
     {
       "date": "2026-01-03",
-      "revenue": 1741.04
+      "revenue": 673.7
     },
     {
       "date": "2026-01-04",
-      "revenue": 851.16
+      "revenue": 274.94
     },
     {
       "date": "2026-01-05",
-      "revenue": 1607.33
+      "revenue": 578.25
     },
     {
       "date": "2026-01-06",
-      "revenue": 998.83
+      "revenue": 92.49
     },
     {
       "date": "2026-01-07",
-      "revenue": 1139.85
+      "revenue": 243.25
     },
     {
       "date": "2026-01-08",
-      "revenue": 1061.98
+      "revenue": 362.75
     },
     {
       "date": "2026-01-09",
-      "revenue": 1754.72
+      "revenue": 745.17
     },
     {
       "date": "2026-01-10",
-      "revenue": 1573.73
+      "revenue": 439.95
     },
     {
       "date": "2026-01-11",
-      "revenue": 1561.1
+      "revenue": 429.4
     },
     {
       "date": "2026-01-12",
-      "revenue": 1287.73
+      "revenue": 436.5
     },
     {
       "date": "2026-01-13",
-      "revenue": 1368.65
+      "revenue": 248.99
     },
     {
       "date": "2026-01-14",
-      "revenue": 1303.0
+      "revenue": 624.93
     },
     {
       "date": "2026-01-15",
-      "revenue": 2687.89
+      "revenue": 663.51
     },
     {
       "date": "2026-01-16",
-      "revenue": 1592.07
+      "revenue": 584.78
     },
     {
       "date": "2026-01-17",
-      "revenue": 941.43
+      "revenue": 25.0
     },
     {
       "date": "2026-01-18",
-      "revenue": 1379.93
+      "revenue": 348.45
     },
     {
       "date": "2026-01-19",
-      "revenue": 1098.92
+      "revenue": 69.59
     },
     {
       "date": "2026-01-20",
-      "revenue": 1269.17
+      "revenue": 443.75
     },
     {
       "date": "2026-01-21",
-      "revenue": 1180.92
+      "revenue": 203.64
     },
     {
       "date": "2026-01-22",
-      "revenue": 1319.48
+      "revenue": 181.25
     },
     {
       "date": "2026-01-23",
-      "revenue": 2225.97
+      "revenue": 771.3
     },
     {
       "date": "2026-01-24",
-      "revenue": 1337.33
+      "revenue": 492.8
     },
     {
       "date": "2026-01-25",
-      "revenue": 2919.46
+      "revenue": 510.75
     },
     {
       "date": "2026-01-26",
-      "revenue": 1410.5
+      "revenue": 235.6
     },
     {
       "date": "2026-01-27",
-      "revenue": 928.25
+      "revenue": 177.3
     },
     {
       "date": "2026-01-28",
-      "revenue": 961.7
+      "revenue": 164.5
     },
     {
       "date": "2026-01-29",
-      "revenue": 1479.15
+      "revenue": 245.49
     },
     {
       "date": "2026-01-30",
-      "revenue": 1121.44
+      "revenue": 101.99
     },
     {
       "date": "2026-01-31",
-      "revenue": 1123.7
+      "revenue": 240.96
     },
     {
       "date": "2026-02-01",
-      "revenue": 1890.23
+      "revenue": 788.49
     },
     {
       "date": "2026-02-02",
-      "revenue": 1761.75
+      "revenue": 379.8
     },
     {
       "date": "2026-02-03",
-      "revenue": 1088.73
+      "revenue": 248.5
     },
     {
       "date": "2026-02-04",
-      "revenue": 998.24
+      "revenue": 651.04
     },
     {
       "date": "2026-02-05",
-      "revenue": 1567.35
+      "revenue": 608.84
     },
     {
       "date": "2026-02-06",
-      "revenue": 2076.63
+      "revenue": 575.3
     },
     {
       "date": "2026-02-07",
-      "revenue": 1569.33
+      "revenue": 477.9
     },
     {
       "date": "2026-02-08",
-      "revenue": 473.96
+      "revenue": 26.5
     },
     {
       "date": "2026-02-09",
-      "revenue": 1470.93
+      "revenue": 624.64
     },
     {
       "date": "2026-02-10",
-      "revenue": 1785.25
+      "revenue": 228.65
     },
     {
       "date": "2026-02-11",
-      "revenue": 1009.63
+      "revenue": 298.49
     },
     {
       "date": "2026-02-12",
-      "revenue": 478.99
+      "revenue": 34.99
     },
     {
       "date": "2026-02-13",
-      "revenue": 846.3
+      "revenue": 23.5
     },
     {
       "date": "2026-02-14",
-      "revenue": 1423.6
+      "revenue": 162.0
     },
     {
       "date": "2026-02-15",
-      "revenue": 1139.05
+      "revenue": 233.5
     },
     {
       "date": "2026-02-16",
-      "revenue": 539.78
+      "revenue": 193.8
     },
     {
       "date": "2026-02-17",
-      "revenue": 918.59
+      "revenue": 395.05
     },
     {
       "date": "2026-02-18",
-      "revenue": 1391.09
+      "revenue": 410.44
     },
     {
       "date": "2026-02-19",
-      "revenue": 990.93
+      "revenue": 345.2
     },
     {
       "date": "2026-02-20",
-      "revenue": 1381.66
+      "revenue": 354.94
     },
     {
       "date": "2026-02-21",
-      "revenue": 1000.9
+      "revenue": 174.58
     },
     {
       "date": "2026-02-22",
-      "revenue": 1249.9
+      "revenue": 650.67
     },
     {
       "date": "2026-02-23",
-      "revenue": 767.7
+      "revenue": 63.25
     },
     {
       "date": "2026-02-24",
-      "revenue": 1646.16
+      "revenue": 581.98
     },
     {
       "date": "2026-02-25",
-      "revenue": 783.49
+      "revenue": 196.45
     },
     {
       "date": "2026-02-26",
-      "revenue": 1291.42
+      "revenue": 244.99
     },
     {
       "date": "2026-02-27",
-      "revenue": 1169.64
+      "revenue": 542.25
     },
     {
       "date": "2026-02-28",
-      "revenue": 1432.68
+      "revenue": 934.49
     },
     {
       "date": "2026-03-01",
-      "revenue": 1146.28
-    },
-    {
-      "date": "2026-03-02",
-      "revenue": 1032.42
-    },
-    {
-      "date": "2026-03-03",
-      "revenue": 727.6
-    },
-    {
-      "date": "2026-03-04",
-      "revenue": 743.41
-    },
-    {
-      "date": "2026-03-05",
-      "revenue": 1030.89
-    },
-    {
-      "date": "2026-03-06",
-      "revenue": 878.8
-    },
-    {
-      "date": "2026-03-07",
-      "revenue": 1119.71
-    },
-    {
-      "date": "2026-03-08",
-      "revenue": 1015.03
-    },
-    {
-      "date": "2026-03-09",
-      "revenue": 1084.07
-    },
-    {
-      "date": "2026-03-10",
-      "revenue": 803.49
-    },
-    {
-      "date": "2026-03-11",
-      "revenue": 822.37
-    },
-    {
-      "date": "2026-03-12",
-      "revenue": 788.44
-    },
-    {
-      "date": "2026-03-13",
-      "revenue": 606.68
-    },
-    {
-      "date": "2026-03-14",
-      "revenue": 842.56
-    },
-    {
-      "date": "2026-03-15",
-      "revenue": 930.3
-    },
-    {
-      "date": "2026-03-16",
-      "revenue": 1111.36
-    },
-    {
-      "date": "2026-03-17",
-      "revenue": 1247.73
-    },
-    {
-      "date": "2026-03-18",
-      "revenue": 1085.5
-    },
-    {
-      "date": "2026-03-19",
-      "revenue": 718.54
-    },
-    {
-      "date": "2026-03-20",
-      "revenue": 287.75
-    },
-    {
-      "date": "2026-03-21",
-      "revenue": 462.9
-    },
-    {
-      "date": "2026-03-22",
-      "revenue": 495.99
-    },
-    {
-      "date": "2026-03-23",
-      "revenue": 631.8
-    },
-    {
-      "date": "2026-03-24",
-      "revenue": 1145.03
-    },
-    {
-      "date": "2026-03-25",
-      "revenue": 871.91
-    },
-    {
-      "date": "2026-03-26",
-      "revenue": 1095.75
-    },
-    {
-      "date": "2026-03-27",
-      "revenue": 552.64
-    },
-    {
-      "date": "2026-03-28",
-      "revenue": 1085.68
-    },
-    {
-      "date": "2026-03-29",
-      "revenue": 618.49
-    },
-    {
-      "date": "2026-03-30",
-      "revenue": 1364.44
-    },
-    {
-      "date": "2026-03-31",
-      "revenue": 1088.05
-    },
-    {
-      "date": "2026-04-01",
-      "revenue": 1460.95
-    },
-    {
-      "date": "2026-04-02",
-      "revenue": 806.4
-    },
-    {
-      "date": "2026-04-03",
-      "revenue": 741.81
-    },
-    {
-      "date": "2026-04-04",
-      "revenue": 1099.64
-    },
-    {
-      "date": "2026-04-05",
-      "revenue": 740.64
-    },
-    {
-      "date": "2026-04-06",
       "revenue": 233.25
     },
     {
+      "date": "2026-03-02",
+      "revenue": 353.0
+    },
+    {
+      "date": "2026-03-03",
+      "revenue": 158.2
+    },
+    {
+      "date": "2026-03-04",
+      "revenue": 242.79
+    },
+    {
+      "date": "2026-03-05",
+      "revenue": 179.79
+    },
+    {
+      "date": "2026-03-06",
+      "revenue": 366.1
+    },
+    {
+      "date": "2026-03-07",
+      "revenue": 304.48
+    },
+    {
+      "date": "2026-03-08",
+      "revenue": 484.1
+    },
+    {
+      "date": "2026-03-09",
+      "revenue": 85.8
+    },
+    {
+      "date": "2026-03-10",
+      "revenue": 267.99
+    },
+    {
+      "date": "2026-03-11",
+      "revenue": 347.75
+    },
+    {
+      "date": "2026-03-12",
+      "revenue": 240.39
+    },
+    {
+      "date": "2026-03-13",
+      "revenue": 143.29
+    },
+    {
+      "date": "2026-03-14",
+      "revenue": 126.0
+    },
+    {
+      "date": "2026-03-15",
+      "revenue": 295.16
+    },
+    {
+      "date": "2026-03-16",
+      "revenue": 54.5
+    },
+    {
+      "date": "2026-03-17",
+      "revenue": 319.49
+    },
+    {
+      "date": "2026-03-18",
+      "revenue": 186.25
+    },
+    {
+      "date": "2026-03-19",
+      "revenue": 209.49
+    },
+    {
+      "date": "2026-03-20",
+      "revenue": 50.5
+    },
+    {
+      "date": "2026-03-22",
+      "revenue": 307.0
+    },
+    {
+      "date": "2026-03-23",
+      "revenue": 287.6
+    },
+    {
+      "date": "2026-03-24",
+      "revenue": 328.09
+    },
+    {
+      "date": "2026-03-25",
+      "revenue": 478.56
+    },
+    {
+      "date": "2026-03-26",
+      "revenue": 70.0
+    },
+    {
+      "date": "2026-03-27",
+      "revenue": 182.1
+    },
+    {
+      "date": "2026-03-28",
+      "revenue": 254.48
+    },
+    {
+      "date": "2026-03-29",
+      "revenue": 113.5
+    },
+    {
+      "date": "2026-03-30",
+      "revenue": 385.2
+    },
+    {
+      "date": "2026-03-31",
+      "revenue": 342.75
+    },
+    {
+      "date": "2026-04-01",
+      "revenue": 289.5
+    },
+    {
+      "date": "2026-04-02",
+      "revenue": 143.96
+    },
+    {
+      "date": "2026-04-03",
+      "revenue": 219.96
+    },
+    {
+      "date": "2026-04-04",
+      "revenue": 303.75
+    },
+    {
+      "date": "2026-04-05",
+      "revenue": 375.75
+    },
+    {
+      "date": "2026-04-06",
+      "revenue": 66.25
+    },
+    {
       "date": "2026-04-07",
-      "revenue": 793.18
+      "revenue": 156.75
     },
     {
       "date": "2026-04-08",
-      "revenue": 843.89
+      "revenue": 185.39
     },
     {
       "date": "2026-04-09",
-      "revenue": 672.14
+      "revenue": 275.0
     },
     {
       "date": "2026-04-10",
-      "revenue": 577.7
+      "revenue": 162.3
     },
     {
       "date": "2026-04-11",
-      "revenue": 853.65
+      "revenue": 304.2
     },
     {
       "date": "2026-04-12",
-      "revenue": 638.0
+      "revenue": 170.1
     },
     {
       "date": "2026-04-13",
-      "revenue": 405.34
+      "revenue": 39.0
     },
     {
       "date": "2026-04-14",
-      "revenue": 790.8
+      "revenue": 137.8
     },
     {
       "date": "2026-04-15",
-      "revenue": 685.07
+      "revenue": 164.97
     },
     {
       "date": "2026-04-16",
-      "revenue": 304.02
+      "revenue": 60.48
     },
     {
       "date": "2026-04-17",
-      "revenue": 566.83
+      "revenue": 189.74
     },
     {
       "date": "2026-04-18",
-      "revenue": 1038.97
+      "revenue": 295.27
     },
     {
       "date": "2026-04-19",
-      "revenue": 391.67
-    },
-    {
-      "date": "2026-04-20",
-      "revenue": 982.9
+      "revenue": 171.67
     },
     {
       "date": "2026-04-21",
-      "revenue": 649.68
+      "revenue": 168.3
     },
     {
       "date": "2026-04-22",
-      "revenue": 1051.85
+      "revenue": 204.38
     },
     {
       "date": "2026-04-23",
-      "revenue": 737.3
+      "revenue": 166.4
     },
     {
       "date": "2026-04-24",
-      "revenue": 521.79
+      "revenue": 55.94
     },
     {
       "date": "2026-04-25",
-      "revenue": 948.33
+      "revenue": 138.0
     },
     {
       "date": "2026-04-26",
-      "revenue": 654.73
+      "revenue": 107.6
     },
     {
       "date": "2026-04-27",
-      "revenue": 607.45
+      "revenue": 89.5
     },
     {
       "date": "2026-04-28",
-      "revenue": 1009.58
+      "revenue": 391.34
     },
     {
       "date": "2026-04-29",
-      "revenue": 508.45
+      "revenue": 418.45
     },
     {
       "date": "2026-04-30",
-      "revenue": 474.4
+      "revenue": 180.4
     },
     {
       "date": "2026-05-01",
-      "revenue": 778.34
+      "revenue": 28.0
     },
     {
       "date": "2026-05-02",
-      "revenue": 728.03
+      "revenue": 291.79
     },
     {
       "date": "2026-05-03",
-      "revenue": 270.0
+      "revenue": 56.5
     },
     {
       "date": "2026-05-04",
-      "revenue": 544.19
+      "revenue": 364.5
     },
     {
       "date": "2026-05-05",
-      "revenue": 351.68
+      "revenue": 143.2
     },
     {
       "date": "2026-05-06",
-      "revenue": 962.15
+      "revenue": 47.8
     },
     {
       "date": "2026-05-07",
-      "revenue": 533.82
+      "revenue": 222.59
     },
     {
       "date": "2026-05-08",
-      "revenue": 549.14
+      "revenue": 255.0
     },
     {
       "date": "2026-05-09",
-      "revenue": 447.45
+      "revenue": 136.8
     },
     {
       "date": "2026-05-10",
-      "revenue": 698.5
-    },
-    {
-      "date": "2026-05-11",
-      "revenue": 223.78
+      "revenue": 50.0
     },
     {
       "date": "2026-05-12",
-      "revenue": 636.44
-    },
-    {
-      "date": "2026-05-13",
-      "revenue": 172.34
+      "revenue": 243.94
     },
     {
       "date": "2026-05-14",
-      "revenue": 516.19
+      "revenue": 87.75
     },
     {
       "date": "2026-05-15",
-      "revenue": 105.75
+      "revenue": 16.25
     },
     {
       "date": "2026-05-16",
-      "revenue": 175.25
+      "revenue": 32.5
     },
     {
       "date": "2026-05-17",
-      "revenue": 402.74
-    },
-    {
-      "date": "2026-05-18",
-      "revenue": 261.85
+      "revenue": 107.75
     },
     {
       "date": "2026-05-19",
-      "revenue": 667.98
+      "revenue": 500.99
     },
     {
       "date": "2026-05-20",
-      "revenue": 476.73
+      "revenue": 209.98
     },
     {
       "date": "2026-05-21",
-      "revenue": 542.23
+      "revenue": 43.0
     },
     {
       "date": "2026-05-22",
-      "revenue": 259.99
+      "revenue": 44.0
     },
     {
       "date": "2026-05-23",
-      "revenue": 364.3
+      "revenue": 114.05
     },
     {
       "date": "2026-05-24",
-      "revenue": 216.69
+      "revenue": 55.2
     },
     {
       "date": "2026-05-25",
-      "revenue": 1183.39
+      "revenue": 71.5
     },
     {
       "date": "2026-05-26",
-      "revenue": 627.16
+      "revenue": 130.0
     },
     {
       "date": "2026-05-27",
-      "revenue": 426.9
-    },
-    {
-      "date": "2026-05-28",
-      "revenue": 342.96
+      "revenue": 261.3
     },
     {
       "date": "2026-05-29",
-      "revenue": 363.25
+      "revenue": 68.75
     },
     {
       "date": "2026-05-30",
-      "revenue": 701.68
+      "revenue": 225.99
     },
     {
       "date": "2026-05-31",
-      "revenue": 347.94
+      "revenue": 73.75
     },
     {
       "date": "2026-06-01",
-      "revenue": 396.88
+      "revenue": 243.9
     },
     {
       "date": "2026-06-02",
-      "revenue": 709.07
+      "revenue": 231.57
     },
     {
       "date": "2026-06-03",
-      "revenue": 717.9
+      "revenue": 192.9
     },
     {
       "date": "2026-06-04",
-      "revenue": 355.8
+      "revenue": 110.0
     },
     {
       "date": "2026-06-05",
-      "revenue": 743.25
+      "revenue": 135.0
     },
     {
       "date": "2026-06-06",
-      "revenue": 203.6
+      "revenue": 13.75
     },
     {
       "date": "2026-06-07",
-      "revenue": 429.65
-    },
-    {
-      "date": "2026-06-08",
-      "revenue": 417.0
+      "revenue": 181.9
     },
     {
       "date": "2026-06-09",
-      "revenue": 551.45
-    },
-    {
-      "date": "2026-06-10",
-      "revenue": 427.25
+      "revenue": 70.0
     },
     {
       "date": "2026-06-11",
       "revenue": 39.0
     },
     {
-      "date": "2026-06-12",
-      "revenue": 58.85
-    },
-    {
       "date": "2026-06-13",
-      "revenue": 486.47
-    },
-    {
-      "date": "2026-06-14",
-      "revenue": 158.46
+      "revenue": 262.5
     },
     {
       "date": "2026-06-15",
-      "revenue": 484.45
+      "revenue": 158.0
     },
     {
       "date": "2026-06-16",
-      "revenue": 330.99
+      "revenue": 237.5
     },
     {
       "date": "2026-06-18",
@@ -2233,67 +2015,39 @@
     },
     {
       "date": "2026-06-19",
-      "revenue": 74.85
+      "revenue": 29.25
     },
     {
       "date": "2026-06-20",
-      "revenue": 226.2
+      "revenue": 127.2
     },
     {
       "date": "2026-06-21",
-      "revenue": 286.05
+      "revenue": 135.75
     },
     {
       "date": "2026-06-22",
-      "revenue": 320.23
-    },
-    {
-      "date": "2026-06-23",
-      "revenue": 166.3
-    },
-    {
-      "date": "2026-06-25",
-      "revenue": 394.99
-    },
-    {
-      "date": "2026-06-26",
-      "revenue": 471.2
-    },
-    {
-      "date": "2026-06-27",
-      "revenue": 410.03
+      "revenue": 40.79
     },
     {
       "date": "2026-06-28",
-      "revenue": 291.0
+      "revenue": 85.0
     },
     {
       "date": "2026-06-29",
-      "revenue": 249.8
+      "revenue": 60.8
     },
     {
       "date": "2026-07-01",
-      "revenue": 311.0
+      "revenue": 238.5
     },
     {
       "date": "2026-07-02",
-      "revenue": 1067.95
-    },
-    {
-      "date": "2026-07-04",
-      "revenue": 353.07
+      "revenue": 94.0
     },
     {
       "date": "2026-07-05",
-      "revenue": 249.87
-    },
-    {
-      "date": "2026-07-06",
-      "revenue": 104.05
-    },
-    {
-      "date": "2026-07-07",
-      "revenue": 124.5
+      "revenue": 154.77
     },
     {
       "date": "2026-07-08",
@@ -2301,175 +2055,75 @@
     },
     {
       "date": "2026-07-09",
-      "revenue": 136.18
-    },
-    {
-      "date": "2026-07-10",
-      "revenue": 86.2
-    },
-    {
-      "date": "2026-07-11",
-      "revenue": 284.25
-    },
-    {
-      "date": "2026-07-12",
-      "revenue": 88.8
-    },
-    {
-      "date": "2026-07-13",
-      "revenue": 101.75
+      "revenue": 65.98
     },
     {
       "date": "2026-07-14",
-      "revenue": 66.0
+      "revenue": 45.0
     },
     {
       "date": "2026-07-15",
-      "revenue": 259.1
+      "revenue": 169.0
     },
     {
       "date": "2026-07-16",
-      "revenue": 189.0
+      "revenue": 132.0
     },
     {
       "date": "2026-07-17",
-      "revenue": 543.09
-    },
-    {
-      "date": "2026-07-18",
-      "revenue": 60.99
+      "revenue": 36.0
     },
     {
       "date": "2026-07-19",
-      "revenue": 367.85
+      "revenue": 273.6
     },
     {
       "date": "2026-07-20",
-      "revenue": 323.25
+      "revenue": 13.5
     },
     {
       "date": "2026-07-21",
-      "revenue": 120.0
+      "revenue": 68.5
     },
     {
       "date": "2026-07-22",
-      "revenue": 186.55
+      "revenue": 87.3
     },
     {
       "date": "2026-07-23",
-      "revenue": 195.19
-    },
-    {
-      "date": "2026-07-24",
-      "revenue": 135.57
-    },
-    {
-      "date": "2026-07-25",
-      "revenue": 316.45
-    },
-    {
-      "date": "2026-07-26",
-      "revenue": 318.48
+      "revenue": 64.99
     },
     {
       "date": "2026-07-28",
-      "revenue": 117.04
-    },
-    {
-      "date": "2026-07-29",
-      "revenue": 128.7
-    },
-    {
-      "date": "2026-07-30",
-      "revenue": 66.0
+      "revenue": 56.4
     },
     {
       "date": "2026-08-01",
-      "revenue": 120.1
-    },
-    {
-      "date": "2026-08-02",
-      "revenue": 74.7
+      "revenue": 32.5
     },
     {
       "date": "2026-08-03",
-      "revenue": 147.1
-    },
-    {
-      "date": "2026-08-04",
-      "revenue": 25.0
+      "revenue": 105.0
     },
     {
       "date": "2026-08-05",
-      "revenue": 103.0
-    },
-    {
-      "date": "2026-08-06",
-      "revenue": 40.0
+      "revenue": 31.0
     },
     {
       "date": "2026-08-10",
-      "revenue": 71.7
+      "revenue": 46.8
     },
     {
       "date": "2026-08-11",
-      "revenue": 175.0
-    },
-    {
-      "date": "2026-08-12",
-      "revenue": 67.19
-    },
-    {
-      "date": "2026-08-14",
-      "revenue": 18.5
-    },
-    {
-      "date": "2026-08-15",
-      "revenue": 107.46
-    },
-    {
-      "date": "2026-08-16",
-      "revenue": 56.99
+      "revenue": 128.0
     },
     {
       "date": "2026-08-17",
-      "revenue": 166.3
-    },
-    {
-      "date": "2026-08-20",
-      "revenue": 22.99
-    },
-    {
-      "date": "2026-08-22",
-      "revenue": 31.25
-    },
-    {
-      "date": "2026-08-23",
-      "revenue": 126.0
-    },
-    {
-      "date": "2026-08-25",
-      "revenue": 394.1
+      "revenue": 106.0
     },
     {
       "date": "2026-08-26",
-      "revenue": 266.94
-    },
-    {
-      "date": "2026-09-01",
-      "revenue": 141.6
-    },
-    {
-      "date": "2026-09-03",
-      "revenue": 31.2
-    },
-    {
-      "date": "2026-09-06",
-      "revenue": 66.0
-    },
-    {
-      "date": "2026-09-14",
-      "revenue": 57.98
+      "revenue": 16.5
     },
     {
       "date": "2026-09-15",
@@ -2478,124 +2132,32 @@
     {
       "date": "2026-09-24",
       "revenue": 42.5
-    },
-    {
-      "date": "2026-09-25",
-      "revenue": 242.29
-    },
-    {
-      "date": "2026-09-26",
-      "revenue": 173.5
-    },
-    {
-      "date": "2026-10-01",
-      "revenue": 39.0
-    },
-    {
-      "date": "2026-10-21",
-      "revenue": 11594.89
-    },
-    {
-      "date": "2026-10-25",
-      "revenue": 546.85
-    },
-    {
-      "date": "2026-10-26",
-      "revenue": 71.5
-    },
-    {
-      "date": "2026-11-04",
-      "revenue": 47.0
-    },
-    {
-      "date": "2026-11-25",
-      "revenue": 56.0
-    },
-    {
-      "date": "2026-11-26",
-      "revenue": 216.6
-    },
-    {
-      "date": "2026-12-25",
-      "revenue": 136.55
-    },
-    {
-      "date": "2026-12-26",
-      "revenue": 127.5
     }
   ],
   "daily_books_sold": [
     {
-      "date": "2024-11-26",
-      "books_sold": 1
-    },
-    {
       "date": "2024-11-29",
       "books_sold": 2
-    },
-    {
-      "date": "2024-12-01",
-      "books_sold": 1
-    },
-    {
-      "date": "2024-12-02",
-      "books_sold": 2
-    },
-    {
-      "date": "2024-12-15",
-      "books_sold": 1
     },
     {
       "date": "2024-12-16",
       "books_sold": 1
     },
     {
-      "date": "2024-12-17",
-      "books_sold": 1
-    },
-    {
-      "date": "2024-12-19",
-      "books_sold": 1
-    },
-    {
-      "date": "2024-12-20",
-      "books_sold": 2
-    },
-    {
       "date": "2024-12-21",
-      "books_sold": 3
-    },
-    {
-      "date": "2024-12-22",
-      "books_sold": 2
+      "books_sold": 1
     },
     {
       "date": "2024-12-23",
       "books_sold": 1
     },
     {
-      "date": "2024-12-24",
-      "books_sold": 2
-    },
-    {
       "date": "2024-12-25",
       "books_sold": 1
     },
     {
-      "date": "2024-12-26",
-      "books_sold": 1
-    },
-    {
       "date": "2024-12-27",
-      "books_sold": 4
-    },
-    {
-      "date": "2024-12-28",
-      "books_sold": 6
-    },
-    {
-      "date": "2024-12-30",
-      "books_sold": 1
+      "books_sold": 2
     },
     {
       "date": "2024-12-31",
@@ -2606,48 +2168,16 @@
       "books_sold": 3
     },
     {
-      "date": "2025-01-02",
-      "books_sold": 7
-    },
-    {
-      "date": "2025-01-03",
-      "books_sold": 1
-    },
-    {
-      "date": "2025-01-04",
-      "books_sold": 4
-    },
-    {
-      "date": "2025-01-05",
-      "books_sold": 3
-    },
-    {
       "date": "2025-01-07",
-      "books_sold": 6
-    },
-    {
-      "date": "2025-01-08",
-      "books_sold": 5
-    },
-    {
-      "date": "2025-01-09",
-      "books_sold": 1
+      "books_sold": 3
     },
     {
       "date": "2025-01-10",
-      "books_sold": 3
-    },
-    {
-      "date": "2025-01-12",
-      "books_sold": 5
-    },
-    {
-      "date": "2025-01-13",
       "books_sold": 1
     },
     {
-      "date": "2025-01-14",
-      "books_sold": 3
+      "date": "2025-01-12",
+      "books_sold": 2
     },
     {
       "date": "2025-01-15",
@@ -2655,7 +2185,7 @@
     },
     {
       "date": "2025-01-16",
-      "books_sold": 4
+      "books_sold": 2
     },
     {
       "date": "2025-01-17",
@@ -2663,15 +2193,7 @@
     },
     {
       "date": "2025-01-18",
-      "books_sold": 8
-    },
-    {
-      "date": "2025-01-19",
-      "books_sold": 4
-    },
-    {
-      "date": "2025-01-20",
-      "books_sold": 3
+      "books_sold": 1
     },
     {
       "date": "2025-01-21",
@@ -2679,11 +2201,11 @@
     },
     {
       "date": "2025-01-22",
-      "books_sold": 5
+      "books_sold": 1
     },
     {
       "date": "2025-01-23",
-      "books_sold": 6
+      "books_sold": 4
     },
     {
       "date": "2025-01-24",
@@ -2691,107 +2213,67 @@
     },
     {
       "date": "2025-01-25",
-      "books_sold": 9
+      "books_sold": 6
     },
     {
       "date": "2025-01-26",
-      "books_sold": 5
-    },
-    {
-      "date": "2025-01-27",
-      "books_sold": 2
+      "books_sold": 3
     },
     {
       "date": "2025-01-28",
-      "books_sold": 8
+      "books_sold": 4
     },
     {
       "date": "2025-01-29",
-      "books_sold": 3
+      "books_sold": 1
     },
     {
       "date": "2025-01-31",
-      "books_sold": 3
-    },
-    {
-      "date": "2025-02-01",
       "books_sold": 2
     },
     {
       "date": "2025-02-02",
-      "books_sold": 2
-    },
-    {
-      "date": "2025-02-03",
-      "books_sold": 2
-    },
-    {
-      "date": "2025-02-04",
-      "books_sold": 10
-    },
-    {
-      "date": "2025-02-05",
-      "books_sold": 7
-    },
-    {
-      "date": "2025-02-06",
       "books_sold": 1
     },
     {
-      "date": "2025-02-07",
-      "books_sold": 5
+      "date": "2025-02-04",
+      "books_sold": 1
     },
     {
-      "date": "2025-02-08",
-      "books_sold": 9
-    },
-    {
-      "date": "2025-02-09",
-      "books_sold": 2
-    },
-    {
-      "date": "2025-02-10",
-      "books_sold": 3
-    },
-    {
-      "date": "2025-02-11",
-      "books_sold": 5
-    },
-    {
-      "date": "2025-02-12",
-      "books_sold": 8
-    },
-    {
-      "date": "2025-02-13",
-      "books_sold": 9
-    },
-    {
-      "date": "2025-02-15",
-      "books_sold": 2
-    },
-    {
-      "date": "2025-02-16",
-      "books_sold": 3
-    },
-    {
-      "date": "2025-02-17",
+      "date": "2025-02-05",
       "books_sold": 4
     },
     {
+      "date": "2025-02-09",
+      "books_sold": 1
+    },
+    {
+      "date": "2025-02-11",
+      "books_sold": 2
+    },
+    {
+      "date": "2025-02-13",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-02-16",
+      "books_sold": 1
+    },
+    {
+      "date": "2025-02-17",
+      "books_sold": 2
+    },
+    {
       "date": "2025-02-18",
-      "books_sold": 5
+      "books_sold": 3
     },
     {
       "date": "2025-02-19",
-      "books_sold": 5
-    },
-    {
-      "date": "2025-02-20",
-      "books_sold": 8
+      "books_sold": 3
     },
     {
       "date": "2025-02-21",
-      "books_sold": 6
+      "books_sold": 1
     },
     {
       "date": "2025-02-22",
@@ -2802,1904 +2284,1816 @@
       "books_sold": 1
     },
     {
-      "date": "2025-02-24",
-      "books_sold": 3
-    },
-    {
       "date": "2025-02-26",
-      "books_sold": 4
-    },
-    {
-      "date": "2025-02-27",
-      "books_sold": 6
+      "books_sold": 1
     },
     {
       "date": "2025-02-28",
-      "books_sold": 7
+      "books_sold": 1
     },
     {
       "date": "2025-03-01",
-      "books_sold": 4
+      "books_sold": 2
     },
     {
       "date": "2025-03-02",
-      "books_sold": 3
+      "books_sold": 1
     },
     {
       "date": "2025-03-03",
-      "books_sold": 9
+      "books_sold": 2
     },
     {
       "date": "2025-03-04",
-      "books_sold": 8
-    },
-    {
-      "date": "2025-03-05",
-      "books_sold": 4
+      "books_sold": 2
     },
     {
       "date": "2025-03-06",
-      "books_sold": 6
+      "books_sold": 3
     },
     {
       "date": "2025-03-08",
-      "books_sold": 5
-    },
-    {
-      "date": "2025-03-09",
       "books_sold": 3
     },
     {
       "date": "2025-03-11",
-      "books_sold": 4
+      "books_sold": 1
     },
     {
       "date": "2025-03-12",
-      "books_sold": 11
-    },
-    {
-      "date": "2025-03-13",
-      "books_sold": 8
+      "books_sold": 2
     },
     {
       "date": "2025-03-14",
-      "books_sold": 7
-    },
-    {
-      "date": "2025-03-15",
-      "books_sold": 12
+      "books_sold": 1
     },
     {
       "date": "2025-03-16",
-      "books_sold": 7
+      "books_sold": 3
     },
     {
       "date": "2025-03-17",
-      "books_sold": 7
+      "books_sold": 1
     },
     {
       "date": "2025-03-18",
-      "books_sold": 5
+      "books_sold": 1
     },
     {
       "date": "2025-03-19",
-      "books_sold": 7
-    },
-    {
-      "date": "2025-03-20",
-      "books_sold": 7
-    },
-    {
-      "date": "2025-03-21",
-      "books_sold": 5
-    },
-    {
-      "date": "2025-03-22",
-      "books_sold": 8
-    },
-    {
-      "date": "2025-03-23",
-      "books_sold": 7
-    },
-    {
-      "date": "2025-03-24",
-      "books_sold": 14
-    },
-    {
-      "date": "2025-03-25",
-      "books_sold": 7
-    },
-    {
-      "date": "2025-03-26",
-      "books_sold": 13
-    },
-    {
-      "date": "2025-03-27",
-      "books_sold": 10
-    },
-    {
-      "date": "2025-03-28",
-      "books_sold": 6
-    },
-    {
-      "date": "2025-03-29",
-      "books_sold": 6
-    },
-    {
-      "date": "2025-03-30",
-      "books_sold": 8
-    },
-    {
-      "date": "2025-03-31",
-      "books_sold": 15
-    },
-    {
-      "date": "2025-04-01",
-      "books_sold": 12
-    },
-    {
-      "date": "2025-04-02",
-      "books_sold": 9
-    },
-    {
-      "date": "2025-04-03",
-      "books_sold": 12
-    },
-    {
-      "date": "2025-04-04",
-      "books_sold": 9
-    },
-    {
-      "date": "2025-04-05",
-      "books_sold": 21
-    },
-    {
-      "date": "2025-04-06",
-      "books_sold": 12
-    },
-    {
-      "date": "2025-04-07",
-      "books_sold": 8
-    },
-    {
-      "date": "2025-04-08",
-      "books_sold": 11
-    },
-    {
-      "date": "2025-04-09",
-      "books_sold": 12
-    },
-    {
-      "date": "2025-04-10",
-      "books_sold": 15
-    },
-    {
-      "date": "2025-04-11",
-      "books_sold": 23
-    },
-    {
-      "date": "2025-04-12",
-      "books_sold": 12
-    },
-    {
-      "date": "2025-04-13",
-      "books_sold": 10
-    },
-    {
-      "date": "2025-04-14",
-      "books_sold": 19
-    },
-    {
-      "date": "2025-04-15",
-      "books_sold": 22
-    },
-    {
-      "date": "2025-04-16",
-      "books_sold": 11
-    },
-    {
-      "date": "2025-04-17",
-      "books_sold": 11
-    },
-    {
-      "date": "2025-04-18",
-      "books_sold": 8
-    },
-    {
-      "date": "2025-04-19",
-      "books_sold": 12
-    },
-    {
-      "date": "2025-04-20",
-      "books_sold": 13
-    },
-    {
-      "date": "2025-04-21",
-      "books_sold": 13
-    },
-    {
-      "date": "2025-04-22",
-      "books_sold": 15
-    },
-    {
-      "date": "2025-04-23",
-      "books_sold": 10
-    },
-    {
-      "date": "2025-04-24",
-      "books_sold": 18
-    },
-    {
-      "date": "2025-04-25",
-      "books_sold": 20
-    },
-    {
-      "date": "2025-04-26",
-      "books_sold": 16
-    },
-    {
-      "date": "2025-04-27",
-      "books_sold": 26
-    },
-    {
-      "date": "2025-04-28",
-      "books_sold": 21
-    },
-    {
-      "date": "2025-04-29",
-      "books_sold": 14
-    },
-    {
-      "date": "2025-04-30",
-      "books_sold": 14
-    },
-    {
-      "date": "2025-05-01",
-      "books_sold": 7
-    },
-    {
-      "date": "2025-05-02",
-      "books_sold": 13
-    },
-    {
-      "date": "2025-05-03",
-      "books_sold": 20
-    },
-    {
-      "date": "2025-05-04",
-      "books_sold": 14
-    },
-    {
-      "date": "2025-05-05",
-      "books_sold": 20
-    },
-    {
-      "date": "2025-05-06",
-      "books_sold": 15
-    },
-    {
-      "date": "2025-05-07",
-      "books_sold": 19
-    },
-    {
-      "date": "2025-05-08",
-      "books_sold": 9
-    },
-    {
-      "date": "2025-05-09",
-      "books_sold": 31
-    },
-    {
-      "date": "2025-05-10",
-      "books_sold": 11
-    },
-    {
-      "date": "2025-05-11",
-      "books_sold": 22
-    },
-    {
-      "date": "2025-05-12",
-      "books_sold": 29
-    },
-    {
-      "date": "2025-05-13",
-      "books_sold": 23
-    },
-    {
-      "date": "2025-05-14",
-      "books_sold": 11
-    },
-    {
-      "date": "2025-05-15",
-      "books_sold": 19
-    },
-    {
-      "date": "2025-05-16",
-      "books_sold": 28
-    },
-    {
-      "date": "2025-05-17",
-      "books_sold": 27
-    },
-    {
-      "date": "2025-05-18",
-      "books_sold": 19
-    },
-    {
-      "date": "2025-05-19",
-      "books_sold": 36
-    },
-    {
-      "date": "2025-05-20",
-      "books_sold": 5
-    },
-    {
-      "date": "2025-05-21",
-      "books_sold": 14
-    },
-    {
-      "date": "2025-05-22",
-      "books_sold": 16
-    },
-    {
-      "date": "2025-05-23",
-      "books_sold": 26
-    },
-    {
-      "date": "2025-05-24",
-      "books_sold": 21
-    },
-    {
-      "date": "2025-05-25",
-      "books_sold": 9
-    },
-    {
-      "date": "2025-05-26",
-      "books_sold": 15
-    },
-    {
-      "date": "2025-05-27",
-      "books_sold": 20
-    },
-    {
-      "date": "2025-05-28",
-      "books_sold": 27
-    },
-    {
-      "date": "2025-05-29",
-      "books_sold": 29
-    },
-    {
-      "date": "2025-05-30",
-      "books_sold": 17
-    },
-    {
-      "date": "2025-05-31",
-      "books_sold": 23
-    },
-    {
-      "date": "2025-06-01",
-      "books_sold": 11
-    },
-    {
-      "date": "2025-06-02",
-      "books_sold": 19
-    },
-    {
-      "date": "2025-06-03",
-      "books_sold": 12
-    },
-    {
-      "date": "2025-06-04",
-      "books_sold": 31
-    },
-    {
-      "date": "2025-06-05",
-      "books_sold": 32
-    },
-    {
-      "date": "2025-06-06",
-      "books_sold": 13
-    },
-    {
-      "date": "2025-06-07",
-      "books_sold": 25
-    },
-    {
-      "date": "2025-06-08",
-      "books_sold": 15
-    },
-    {
-      "date": "2025-06-09",
-      "books_sold": 32
-    },
-    {
-      "date": "2025-06-10",
-      "books_sold": 23
-    },
-    {
-      "date": "2025-06-11",
-      "books_sold": 22
-    },
-    {
-      "date": "2025-06-12",
-      "books_sold": 28
-    },
-    {
-      "date": "2025-06-13",
-      "books_sold": 22
-    },
-    {
-      "date": "2025-06-14",
-      "books_sold": 23
-    },
-    {
-      "date": "2025-06-15",
-      "books_sold": 23
-    },
-    {
-      "date": "2025-06-16",
-      "books_sold": 18
-    },
-    {
-      "date": "2025-06-17",
-      "books_sold": 29
-    },
-    {
-      "date": "2025-06-18",
-      "books_sold": 20
-    },
-    {
-      "date": "2025-06-19",
-      "books_sold": 34
-    },
-    {
-      "date": "2025-06-20",
-      "books_sold": 17
-    },
-    {
-      "date": "2025-06-21",
-      "books_sold": 30
-    },
-    {
-      "date": "2025-06-22",
-      "books_sold": 26
-    },
-    {
-      "date": "2025-06-23",
-      "books_sold": 16
-    },
-    {
-      "date": "2025-06-24",
-      "books_sold": 32
-    },
-    {
-      "date": "2025-06-25",
-      "books_sold": 15
-    },
-    {
-      "date": "2025-06-26",
-      "books_sold": 38
-    },
-    {
-      "date": "2025-06-27",
-      "books_sold": 23
-    },
-    {
-      "date": "2025-06-28",
-      "books_sold": 31
-    },
-    {
-      "date": "2025-06-29",
-      "books_sold": 37
-    },
-    {
-      "date": "2025-06-30",
-      "books_sold": 33
-    },
-    {
-      "date": "2025-07-01",
-      "books_sold": 17
-    },
-    {
-      "date": "2025-07-02",
-      "books_sold": 18
-    },
-    {
-      "date": "2025-07-03",
-      "books_sold": 35
-    },
-    {
-      "date": "2025-07-04",
-      "books_sold": 25
-    },
-    {
-      "date": "2025-07-05",
-      "books_sold": 36
-    },
-    {
-      "date": "2025-07-06",
-      "books_sold": 42
-    },
-    {
-      "date": "2025-07-07",
-      "books_sold": 20
-    },
-    {
-      "date": "2025-07-08",
-      "books_sold": 37
-    },
-    {
-      "date": "2025-07-09",
-      "books_sold": 21
-    },
-    {
-      "date": "2025-07-10",
-      "books_sold": 31
-    },
-    {
-      "date": "2025-07-11",
-      "books_sold": 27
-    },
-    {
-      "date": "2025-07-12",
-      "books_sold": 37
-    },
-    {
-      "date": "2025-07-13",
-      "books_sold": 24
-    },
-    {
-      "date": "2025-07-14",
-      "books_sold": 26
-    },
-    {
-      "date": "2025-07-15",
-      "books_sold": 29
-    },
-    {
-      "date": "2025-07-16",
-      "books_sold": 28
-    },
-    {
-      "date": "2025-07-17",
-      "books_sold": 34
-    },
-    {
-      "date": "2025-07-18",
-      "books_sold": 13
-    },
-    {
-      "date": "2025-07-19",
-      "books_sold": 30
-    },
-    {
-      "date": "2025-07-20",
-      "books_sold": 30
-    },
-    {
-      "date": "2025-07-21",
-      "books_sold": 27
-    },
-    {
-      "date": "2025-07-22",
-      "books_sold": 33
-    },
-    {
-      "date": "2025-07-23",
-      "books_sold": 30
-    },
-    {
-      "date": "2025-07-24",
-      "books_sold": 29
-    },
-    {
-      "date": "2025-07-25",
-      "books_sold": 39
-    },
-    {
-      "date": "2025-07-26",
-      "books_sold": 24
-    },
-    {
-      "date": "2025-07-27",
-      "books_sold": 25
-    },
-    {
-      "date": "2025-07-28",
-      "books_sold": 22
-    },
-    {
-      "date": "2025-07-29",
-      "books_sold": 17
-    },
-    {
-      "date": "2025-07-30",
-      "books_sold": 21
-    },
-    {
-      "date": "2025-07-31",
-      "books_sold": 40
-    },
-    {
-      "date": "2025-08-01",
-      "books_sold": 38
-    },
-    {
-      "date": "2025-08-02",
-      "books_sold": 29
-    },
-    {
-      "date": "2025-08-03",
-      "books_sold": 33
-    },
-    {
-      "date": "2025-08-04",
-      "books_sold": 21
-    },
-    {
-      "date": "2025-08-05",
-      "books_sold": 30
-    },
-    {
-      "date": "2025-08-06",
-      "books_sold": 40
-    },
-    {
-      "date": "2025-08-07",
-      "books_sold": 24
-    },
-    {
-      "date": "2025-08-08",
-      "books_sold": 30
-    },
-    {
-      "date": "2025-08-09",
-      "books_sold": 34
-    },
-    {
-      "date": "2025-08-10",
-      "books_sold": 31
-    },
-    {
-      "date": "2025-08-11",
-      "books_sold": 29
-    },
-    {
-      "date": "2025-08-12",
-      "books_sold": 26
-    },
-    {
-      "date": "2025-08-13",
-      "books_sold": 35
-    },
-    {
-      "date": "2025-08-14",
-      "books_sold": 24
-    },
-    {
-      "date": "2025-08-15",
-      "books_sold": 29
-    },
-    {
-      "date": "2025-08-16",
-      "books_sold": 31
-    },
-    {
-      "date": "2025-08-17",
-      "books_sold": 29
-    },
-    {
-      "date": "2025-08-18",
-      "books_sold": 46
-    },
-    {
-      "date": "2025-08-19",
-      "books_sold": 44
-    },
-    {
-      "date": "2025-08-20",
-      "books_sold": 50
-    },
-    {
-      "date": "2025-08-21",
-      "books_sold": 41
-    },
-    {
-      "date": "2025-08-22",
-      "books_sold": 31
-    },
-    {
-      "date": "2025-08-23",
-      "books_sold": 37
-    },
-    {
-      "date": "2025-08-24",
-      "books_sold": 38
-    },
-    {
-      "date": "2025-08-25",
-      "books_sold": 36
-    },
-    {
-      "date": "2025-08-26",
-      "books_sold": 32
-    },
-    {
-      "date": "2025-08-27",
-      "books_sold": 31
-    },
-    {
-      "date": "2025-08-28",
-      "books_sold": 39
-    },
-    {
-      "date": "2025-08-29",
-      "books_sold": 38
-    },
-    {
-      "date": "2025-08-30",
-      "books_sold": 31
-    },
-    {
-      "date": "2025-08-31",
-      "books_sold": 48
-    },
-    {
-      "date": "2025-09-01",
-      "books_sold": 37
-    },
-    {
-      "date": "2025-09-02",
-      "books_sold": 38
-    },
-    {
-      "date": "2025-09-03",
-      "books_sold": 51
-    },
-    {
-      "date": "2025-09-04",
-      "books_sold": 25
-    },
-    {
-      "date": "2025-09-05",
-      "books_sold": 40
-    },
-    {
-      "date": "2025-09-06",
-      "books_sold": 40
-    },
-    {
-      "date": "2025-09-07",
-      "books_sold": 33
-    },
-    {
-      "date": "2025-09-08",
-      "books_sold": 39
-    },
-    {
-      "date": "2025-09-09",
-      "books_sold": 29
-    },
-    {
-      "date": "2025-09-10",
-      "books_sold": 59
-    },
-    {
-      "date": "2025-09-11",
-      "books_sold": 32
-    },
-    {
-      "date": "2025-09-12",
-      "books_sold": 40
-    },
-    {
-      "date": "2025-09-13",
-      "books_sold": 35
-    },
-    {
-      "date": "2025-09-14",
-      "books_sold": 41
-    },
-    {
-      "date": "2025-09-15",
-      "books_sold": 30
-    },
-    {
-      "date": "2025-09-16",
-      "books_sold": 42
-    },
-    {
-      "date": "2025-09-17",
-      "books_sold": 40
-    },
-    {
-      "date": "2025-09-18",
-      "books_sold": 43
-    },
-    {
-      "date": "2025-09-19",
-      "books_sold": 34
-    },
-    {
-      "date": "2025-09-20",
-      "books_sold": 26
-    },
-    {
-      "date": "2025-09-21",
-      "books_sold": 44
-    },
-    {
-      "date": "2025-09-22",
-      "books_sold": 54
-    },
-    {
-      "date": "2025-09-23",
-      "books_sold": 28
-    },
-    {
-      "date": "2025-09-24",
-      "books_sold": 37
-    },
-    {
-      "date": "2025-09-25",
-      "books_sold": 22
-    },
-    {
-      "date": "2025-09-26",
-      "books_sold": 33
-    },
-    {
-      "date": "2025-09-27",
-      "books_sold": 33
-    },
-    {
-      "date": "2025-09-28",
-      "books_sold": 47
-    },
-    {
-      "date": "2025-09-29",
-      "books_sold": 33
-    },
-    {
-      "date": "2025-09-30",
-      "books_sold": 35
-    },
-    {
-      "date": "2025-10-01",
-      "books_sold": 27
-    },
-    {
-      "date": "2025-10-02",
-      "books_sold": 58
-    },
-    {
-      "date": "2025-10-03",
-      "books_sold": 40
-    },
-    {
-      "date": "2025-10-04",
-      "books_sold": 38
-    },
-    {
-      "date": "2025-10-05",
-      "books_sold": 38
-    },
-    {
-      "date": "2025-10-06",
-      "books_sold": 30
-    },
-    {
-      "date": "2025-10-07",
-      "books_sold": 48
-    },
-    {
-      "date": "2025-10-08",
-      "books_sold": 29
-    },
-    {
-      "date": "2025-10-09",
-      "books_sold": 32
-    },
-    {
-      "date": "2025-10-10",
-      "books_sold": 32
-    },
-    {
-      "date": "2025-10-11",
-      "books_sold": 31
-    },
-    {
-      "date": "2025-10-12",
-      "books_sold": 49
-    },
-    {
-      "date": "2025-10-13",
-      "books_sold": 57
-    },
-    {
-      "date": "2025-10-14",
-      "books_sold": 36
-    },
-    {
-      "date": "2025-10-15",
-      "books_sold": 42
-    },
-    {
-      "date": "2025-10-16",
-      "books_sold": 27
-    },
-    {
-      "date": "2025-10-17",
-      "books_sold": 56
-    },
-    {
-      "date": "2025-10-18",
-      "books_sold": 43
-    },
-    {
-      "date": "2025-10-19",
-      "books_sold": 34
-    },
-    {
-      "date": "2025-10-20",
-      "books_sold": 35
-    },
-    {
-      "date": "2025-10-21",
-      "books_sold": 46
-    },
-    {
-      "date": "2025-10-22",
-      "books_sold": 38
-    },
-    {
-      "date": "2025-10-23",
-      "books_sold": 38
-    },
-    {
-      "date": "2025-10-24",
-      "books_sold": 49
-    },
-    {
-      "date": "2025-10-25",
-      "books_sold": 19
-    },
-    {
-      "date": "2025-10-26",
-      "books_sold": 42
-    },
-    {
-      "date": "2025-10-27",
-      "books_sold": 25
-    },
-    {
-      "date": "2025-10-28",
-      "books_sold": 41
-    },
-    {
-      "date": "2025-10-29",
-      "books_sold": 32
-    },
-    {
-      "date": "2025-10-30",
-      "books_sold": 49
-    },
-    {
-      "date": "2025-10-31",
-      "books_sold": 33
-    },
-    {
-      "date": "2025-11-01",
-      "books_sold": 33
-    },
-    {
-      "date": "2025-11-02",
-      "books_sold": 25
-    },
-    {
-      "date": "2025-11-03",
-      "books_sold": 47
-    },
-    {
-      "date": "2025-11-04",
-      "books_sold": 48
-    },
-    {
-      "date": "2025-11-05",
-      "books_sold": 47
-    },
-    {
-      "date": "2025-11-06",
-      "books_sold": 30
-    },
-    {
-      "date": "2025-11-07",
-      "books_sold": 28
-    },
-    {
-      "date": "2025-11-08",
-      "books_sold": 24
-    },
-    {
-      "date": "2025-11-09",
-      "books_sold": 44
-    },
-    {
-      "date": "2025-11-10",
-      "books_sold": 38
-    },
-    {
-      "date": "2025-11-11",
-      "books_sold": 40
-    },
-    {
-      "date": "2025-11-12",
-      "books_sold": 38
-    },
-    {
-      "date": "2025-11-13",
-      "books_sold": 30
-    },
-    {
-      "date": "2025-11-14",
-      "books_sold": 53
-    },
-    {
-      "date": "2025-11-15",
-      "books_sold": 22
-    },
-    {
-      "date": "2025-11-16",
-      "books_sold": 39
-    },
-    {
-      "date": "2025-11-17",
-      "books_sold": 43
-    },
-    {
-      "date": "2025-11-18",
-      "books_sold": 29
-    },
-    {
-      "date": "2025-11-19",
-      "books_sold": 40
-    },
-    {
-      "date": "2025-11-20",
-      "books_sold": 52
-    },
-    {
-      "date": "2025-11-21",
-      "books_sold": 24
-    },
-    {
-      "date": "2025-11-22",
-      "books_sold": 37
-    },
-    {
-      "date": "2025-11-23",
-      "books_sold": 37
-    },
-    {
-      "date": "2025-11-24",
-      "books_sold": 26
-    },
-    {
-      "date": "2025-11-25",
-      "books_sold": 37
-    },
-    {
-      "date": "2025-11-26",
-      "books_sold": 35
-    },
-    {
-      "date": "2025-11-27",
-      "books_sold": 25
-    },
-    {
-      "date": "2025-11-28",
-      "books_sold": 47
-    },
-    {
-      "date": "2025-11-29",
-      "books_sold": 32
-    },
-    {
-      "date": "2025-11-30",
-      "books_sold": 27
-    },
-    {
-      "date": "2025-12-01",
-      "books_sold": 34
-    },
-    {
-      "date": "2025-12-02",
-      "books_sold": 40
-    },
-    {
-      "date": "2025-12-03",
-      "books_sold": 36
-    },
-    {
-      "date": "2025-12-04",
-      "books_sold": 35
-    },
-    {
-      "date": "2025-12-05",
-      "books_sold": 44
-    },
-    {
-      "date": "2025-12-06",
-      "books_sold": 36
-    },
-    {
-      "date": "2025-12-07",
-      "books_sold": 28
-    },
-    {
-      "date": "2025-12-08",
-      "books_sold": 27
-    },
-    {
-      "date": "2025-12-09",
-      "books_sold": 47
-    },
-    {
-      "date": "2025-12-10",
-      "books_sold": 26
-    },
-    {
-      "date": "2025-12-11",
-      "books_sold": 42
-    },
-    {
-      "date": "2025-12-12",
-      "books_sold": 24
-    },
-    {
-      "date": "2025-12-13",
-      "books_sold": 43
-    },
-    {
-      "date": "2025-12-14",
-      "books_sold": 31
-    },
-    {
-      "date": "2025-12-15",
-      "books_sold": 31
-    },
-    {
-      "date": "2025-12-16",
-      "books_sold": 36
-    },
-    {
-      "date": "2025-12-17",
-      "books_sold": 34
-    },
-    {
-      "date": "2025-12-18",
-      "books_sold": 30
-    },
-    {
-      "date": "2025-12-19",
-      "books_sold": 51
-    },
-    {
-      "date": "2025-12-20",
-      "books_sold": 38
-    },
-    {
-      "date": "2025-12-21",
-      "books_sold": 32
-    },
-    {
-      "date": "2025-12-22",
-      "books_sold": 41
-    },
-    {
-      "date": "2025-12-23",
-      "books_sold": 35
-    },
-    {
-      "date": "2025-12-24",
-      "books_sold": 35
-    },
-    {
-      "date": "2025-12-25",
-      "books_sold": 31
-    },
-    {
-      "date": "2025-12-26",
-      "books_sold": 22
-    },
-    {
-      "date": "2025-12-27",
-      "books_sold": 18
-    },
-    {
-      "date": "2025-12-28",
-      "books_sold": 45
-    },
-    {
-      "date": "2025-12-29",
-      "books_sold": 38
-    },
-    {
-      "date": "2025-12-30",
-      "books_sold": 49
-    },
-    {
-      "date": "2025-12-31",
-      "books_sold": 23
-    },
-    {
-      "date": "2026-01-01",
-      "books_sold": 32
-    },
-    {
-      "date": "2026-01-02",
-      "books_sold": 45
-    },
-    {
-      "date": "2026-01-03",
-      "books_sold": 36
-    },
-    {
-      "date": "2026-01-04",
-      "books_sold": 20
-    },
-    {
-      "date": "2026-01-05",
-      "books_sold": 36
-    },
-    {
-      "date": "2026-01-06",
-      "books_sold": 21
-    },
-    {
-      "date": "2026-01-07",
-      "books_sold": 26
-    },
-    {
-      "date": "2026-01-08",
-      "books_sold": 23
-    },
-    {
-      "date": "2026-01-09",
-      "books_sold": 41
-    },
-    {
-      "date": "2026-01-10",
-      "books_sold": 33
-    },
-    {
-      "date": "2026-01-11",
-      "books_sold": 30
-    },
-    {
-      "date": "2026-01-12",
-      "books_sold": 31
-    },
-    {
-      "date": "2026-01-13",
-      "books_sold": 34
-    },
-    {
-      "date": "2026-01-14",
-      "books_sold": 31
-    },
-    {
-      "date": "2026-01-15",
-      "books_sold": 52
-    },
-    {
-      "date": "2026-01-16",
-      "books_sold": 40
-    },
-    {
-      "date": "2026-01-17",
-      "books_sold": 18
-    },
-    {
-      "date": "2026-01-18",
-      "books_sold": 32
-    },
-    {
-      "date": "2026-01-19",
-      "books_sold": 26
-    },
-    {
-      "date": "2026-01-20",
-      "books_sold": 30
-    },
-    {
-      "date": "2026-01-21",
-      "books_sold": 27
-    },
-    {
-      "date": "2026-01-22",
-      "books_sold": 29
-    },
-    {
-      "date": "2026-01-23",
-      "books_sold": 41
-    },
-    {
-      "date": "2026-01-24",
-      "books_sold": 27
-    },
-    {
-      "date": "2026-01-25",
-      "books_sold": 61
-    },
-    {
-      "date": "2026-01-26",
-      "books_sold": 34
-    },
-    {
-      "date": "2026-01-27",
-      "books_sold": 25
-    },
-    {
-      "date": "2026-01-28",
-      "books_sold": 24
-    },
-    {
-      "date": "2026-01-29",
-      "books_sold": 27
-    },
-    {
-      "date": "2026-01-30",
-      "books_sold": 23
-    },
-    {
-      "date": "2026-01-31",
-      "books_sold": 25
-    },
-    {
-      "date": "2026-02-01",
-      "books_sold": 41
-    },
-    {
-      "date": "2026-02-02",
-      "books_sold": 36
-    },
-    {
-      "date": "2026-02-03",
-      "books_sold": 26
-    },
-    {
-      "date": "2026-02-04",
-      "books_sold": 25
-    },
-    {
-      "date": "2026-02-05",
-      "books_sold": 31
-    },
-    {
-      "date": "2026-02-06",
-      "books_sold": 39
-    },
-    {
-      "date": "2026-02-07",
-      "books_sold": 38
-    },
-    {
-      "date": "2026-02-08",
-      "books_sold": 11
-    },
-    {
-      "date": "2026-02-09",
-      "books_sold": 29
-    },
-    {
-      "date": "2026-02-10",
-      "books_sold": 35
-    },
-    {
-      "date": "2026-02-11",
-      "books_sold": 25
-    },
-    {
-      "date": "2026-02-12",
-      "books_sold": 15
-    },
-    {
-      "date": "2026-02-13",
-      "books_sold": 16
-    },
-    {
-      "date": "2026-02-14",
-      "books_sold": 33
-    },
-    {
-      "date": "2026-02-15",
-      "books_sold": 25
-    },
-    {
-      "date": "2026-02-16",
-      "books_sold": 11
-    },
-    {
-      "date": "2026-02-17",
-      "books_sold": 21
-    },
-    {
-      "date": "2026-02-18",
-      "books_sold": 31
-    },
-    {
-      "date": "2026-02-19",
-      "books_sold": 19
-    },
-    {
-      "date": "2026-02-20",
-      "books_sold": 28
-    },
-    {
-      "date": "2026-02-21",
-      "books_sold": 26
-    },
-    {
-      "date": "2026-02-22",
-      "books_sold": 29
-    },
-    {
-      "date": "2026-02-23",
-      "books_sold": 20
-    },
-    {
-      "date": "2026-02-24",
-      "books_sold": 32
-    },
-    {
-      "date": "2026-02-25",
-      "books_sold": 16
-    },
-    {
-      "date": "2026-02-26",
-      "books_sold": 30
-    },
-    {
-      "date": "2026-02-27",
-      "books_sold": 25
-    },
-    {
-      "date": "2026-02-28",
-      "books_sold": 30
-    },
-    {
-      "date": "2026-03-01",
-      "books_sold": 25
-    },
-    {
-      "date": "2026-03-02",
-      "books_sold": 22
-    },
-    {
-      "date": "2026-03-03",
-      "books_sold": 18
-    },
-    {
-      "date": "2026-03-04",
-      "books_sold": 16
-    },
-    {
-      "date": "2026-03-05",
-      "books_sold": 18
-    },
-    {
-      "date": "2026-03-06",
-      "books_sold": 21
-    },
-    {
-      "date": "2026-03-07",
-      "books_sold": 25
-    },
-    {
-      "date": "2026-03-08",
-      "books_sold": 21
-    },
-    {
-      "date": "2026-03-09",
-      "books_sold": 29
-    },
-    {
-      "date": "2026-03-10",
-      "books_sold": 17
-    },
-    {
-      "date": "2026-03-11",
-      "books_sold": 17
-    },
-    {
-      "date": "2026-03-12",
-      "books_sold": 17
-    },
-    {
-      "date": "2026-03-13",
-      "books_sold": 15
-    },
-    {
-      "date": "2026-03-14",
-      "books_sold": 22
-    },
-    {
-      "date": "2026-03-15",
-      "books_sold": 20
-    },
-    {
-      "date": "2026-03-16",
-      "books_sold": 25
-    },
-    {
-      "date": "2026-03-17",
-      "books_sold": 29
-    },
-    {
-      "date": "2026-03-18",
-      "books_sold": 26
-    },
-    {
-      "date": "2026-03-19",
-      "books_sold": 17
-    },
-    {
-      "date": "2026-03-20",
-      "books_sold": 9
-    },
-    {
-      "date": "2026-03-21",
-      "books_sold": 11
-    },
-    {
-      "date": "2026-03-22",
-      "books_sold": 11
-    },
-    {
-      "date": "2026-03-23",
-      "books_sold": 14
-    },
-    {
-      "date": "2026-03-24",
-      "books_sold": 22
-    },
-    {
-      "date": "2026-03-25",
-      "books_sold": 21
-    },
-    {
-      "date": "2026-03-26",
-      "books_sold": 23
-    },
-    {
-      "date": "2026-03-27",
-      "books_sold": 15
-    },
-    {
-      "date": "2026-03-28",
-      "books_sold": 24
-    },
-    {
-      "date": "2026-03-29",
-      "books_sold": 15
-    },
-    {
-      "date": "2026-03-30",
-      "books_sold": 30
-    },
-    {
-      "date": "2026-03-31",
-      "books_sold": 22
-    },
-    {
-      "date": "2026-04-01",
-      "books_sold": 36
-    },
-    {
-      "date": "2026-04-02",
-      "books_sold": 17
-    },
-    {
-      "date": "2026-04-03",
-      "books_sold": 12
-    },
-    {
-      "date": "2026-04-04",
-      "books_sold": 20
-    },
-    {
-      "date": "2026-04-05",
-      "books_sold": 17
-    },
-    {
-      "date": "2026-04-06",
-      "books_sold": 8
-    },
-    {
-      "date": "2026-04-07",
-      "books_sold": 20
-    },
-    {
-      "date": "2026-04-08",
-      "books_sold": 20
-    },
-    {
-      "date": "2026-04-09",
-      "books_sold": 15
-    },
-    {
-      "date": "2026-04-10",
-      "books_sold": 14
-    },
-    {
-      "date": "2026-04-11",
-      "books_sold": 19
-    },
-    {
-      "date": "2026-04-12",
-      "books_sold": 16
-    },
-    {
-      "date": "2026-04-13",
-      "books_sold": 8
-    },
-    {
-      "date": "2026-04-14",
-      "books_sold": 14
-    },
-    {
-      "date": "2026-04-15",
-      "books_sold": 18
-    },
-    {
-      "date": "2026-04-16",
-      "books_sold": 8
-    },
-    {
-      "date": "2026-04-17",
-      "books_sold": 12
-    },
-    {
-      "date": "2026-04-18",
-      "books_sold": 31
-    },
-    {
-      "date": "2026-04-19",
-      "books_sold": 11
-    },
-    {
-      "date": "2026-04-20",
-      "books_sold": 17
-    },
-    {
-      "date": "2026-04-21",
-      "books_sold": 13
-    },
-    {
-      "date": "2026-04-22",
-      "books_sold": 25
-    },
-    {
-      "date": "2026-04-23",
-      "books_sold": 14
-    },
-    {
-      "date": "2026-04-24",
-      "books_sold": 11
-    },
-    {
-      "date": "2026-04-25",
-      "books_sold": 21
-    },
-    {
-      "date": "2026-04-26",
-      "books_sold": 14
-    },
-    {
-      "date": "2026-04-27",
-      "books_sold": 13
-    },
-    {
-      "date": "2026-04-28",
-      "books_sold": 18
-    },
-    {
-      "date": "2026-04-29",
-      "books_sold": 10
-    },
-    {
-      "date": "2026-04-30",
-      "books_sold": 11
-    },
-    {
-      "date": "2026-05-01",
-      "books_sold": 15
-    },
-    {
-      "date": "2026-05-02",
-      "books_sold": 20
-    },
-    {
-      "date": "2026-05-03",
-      "books_sold": 6
-    },
-    {
-      "date": "2026-05-04",
-      "books_sold": 11
-    },
-    {
-      "date": "2026-05-05",
-      "books_sold": 9
-    },
-    {
-      "date": "2026-05-06",
-      "books_sold": 16
-    },
-    {
-      "date": "2026-05-07",
-      "books_sold": 13
-    },
-    {
-      "date": "2026-05-08",
-      "books_sold": 11
-    },
-    {
-      "date": "2026-05-09",
-      "books_sold": 14
-    },
-    {
-      "date": "2026-05-10",
-      "books_sold": 13
-    },
-    {
-      "date": "2026-05-11",
-      "books_sold": 3
-    },
-    {
-      "date": "2026-05-12",
-      "books_sold": 15
-    },
-    {
-      "date": "2026-05-13",
-      "books_sold": 5
-    },
-    {
-      "date": "2026-05-14",
-      "books_sold": 10
-    },
-    {
-      "date": "2026-05-15",
-      "books_sold": 3
-    },
-    {
-      "date": "2026-05-16",
-      "books_sold": 5
-    },
-    {
-      "date": "2026-05-17",
-      "books_sold": 10
-    },
-    {
-      "date": "2026-05-18",
-      "books_sold": 6
-    },
-    {
-      "date": "2026-05-19",
-      "books_sold": 13
-    },
-    {
-      "date": "2026-05-20",
-      "books_sold": 10
-    },
-    {
-      "date": "2026-05-21",
-      "books_sold": 13
-    },
-    {
-      "date": "2026-05-22",
-      "books_sold": 8
-    },
-    {
-      "date": "2026-05-23",
-      "books_sold": 8
-    },
-    {
-      "date": "2026-05-24",
       "books_sold": 4
     },
     {
-      "date": "2026-05-25",
-      "books_sold": 26
+      "date": "2025-03-20",
+      "books_sold": 5
     },
     {
-      "date": "2026-05-26",
-      "books_sold": 10
+      "date": "2025-03-21",
+      "books_sold": 1
     },
     {
-      "date": "2026-05-27",
+      "date": "2025-03-24",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-03-25",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-03-26",
+      "books_sold": 2
+    },
+    {
+      "date": "2025-03-27",
+      "books_sold": 1
+    },
+    {
+      "date": "2025-03-28",
+      "books_sold": 2
+    },
+    {
+      "date": "2025-03-30",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-03-31",
+      "books_sold": 1
+    },
+    {
+      "date": "2025-04-01",
+      "books_sold": 1
+    },
+    {
+      "date": "2025-04-02",
+      "books_sold": 1
+    },
+    {
+      "date": "2025-04-03",
+      "books_sold": 2
+    },
+    {
+      "date": "2025-04-04",
+      "books_sold": 1
+    },
+    {
+      "date": "2025-04-05",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-04-06",
+      "books_sold": 2
+    },
+    {
+      "date": "2025-04-07",
+      "books_sold": 2
+    },
+    {
+      "date": "2025-04-10",
+      "books_sold": 6
+    },
+    {
+      "date": "2025-04-11",
+      "books_sold": 8
+    },
+    {
+      "date": "2025-04-12",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-04-13",
+      "books_sold": 2
+    },
+    {
+      "date": "2025-04-14",
+      "books_sold": 2
+    },
+    {
+      "date": "2025-04-15",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-04-16",
+      "books_sold": 1
+    },
+    {
+      "date": "2025-04-17",
+      "books_sold": 1
+    },
+    {
+      "date": "2025-04-18",
+      "books_sold": 5
+    },
+    {
+      "date": "2025-04-19",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-04-20",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-04-21",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-04-22",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-04-23",
+      "books_sold": 5
+    },
+    {
+      "date": "2025-04-24",
+      "books_sold": 5
+    },
+    {
+      "date": "2025-04-25",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-04-26",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-04-27",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-04-28",
+      "books_sold": 5
+    },
+    {
+      "date": "2025-04-29",
+      "books_sold": 6
+    },
+    {
+      "date": "2025-04-30",
+      "books_sold": 5
+    },
+    {
+      "date": "2025-05-01",
+      "books_sold": 1
+    },
+    {
+      "date": "2025-05-02",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-05-03",
+      "books_sold": 2
+    },
+    {
+      "date": "2025-05-04",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-05-05",
+      "books_sold": 13
+    },
+    {
+      "date": "2025-05-06",
+      "books_sold": 6
+    },
+    {
+      "date": "2025-05-08",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-05-09",
       "books_sold": 11
     },
     {
-      "date": "2026-05-28",
+      "date": "2025-05-10",
+      "books_sold": 1
+    },
+    {
+      "date": "2025-05-11",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-05-12",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-05-13",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-05-14",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-05-15",
+      "books_sold": 2
+    },
+    {
+      "date": "2025-05-16",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-05-17",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-05-18",
+      "books_sold": 1
+    },
+    {
+      "date": "2025-05-19",
+      "books_sold": 11
+    },
+    {
+      "date": "2025-05-20",
+      "books_sold": 2
+    },
+    {
+      "date": "2025-05-21",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-05-22",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-05-23",
+      "books_sold": 10
+    },
+    {
+      "date": "2025-05-24",
+      "books_sold": 2
+    },
+    {
+      "date": "2025-05-25",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-05-26",
+      "books_sold": 2
+    },
+    {
+      "date": "2025-05-27",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-05-28",
+      "books_sold": 11
+    },
+    {
+      "date": "2025-05-29",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-05-30",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-05-31",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-06-01",
+      "books_sold": 2
+    },
+    {
+      "date": "2025-06-02",
+      "books_sold": 12
+    },
+    {
+      "date": "2025-06-03",
+      "books_sold": 11
+    },
+    {
+      "date": "2025-06-04",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-06-05",
+      "books_sold": 9
+    },
+    {
+      "date": "2025-06-06",
+      "books_sold": 1
+    },
+    {
+      "date": "2025-06-07",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-06-08",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-06-09",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-06-10",
+      "books_sold": 1
+    },
+    {
+      "date": "2025-06-11",
+      "books_sold": 6
+    },
+    {
+      "date": "2025-06-12",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-06-13",
+      "books_sold": 5
+    },
+    {
+      "date": "2025-06-14",
+      "books_sold": 8
+    },
+    {
+      "date": "2025-06-15",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-06-16",
+      "books_sold": 5
+    },
+    {
+      "date": "2025-06-17",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-06-18",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-06-19",
+      "books_sold": 8
+    },
+    {
+      "date": "2025-06-20",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-06-21",
+      "books_sold": 8
+    },
+    {
+      "date": "2025-06-22",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-06-23",
+      "books_sold": 2
+    },
+    {
+      "date": "2025-06-24",
+      "books_sold": 6
+    },
+    {
+      "date": "2025-06-25",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-06-26",
+      "books_sold": 22
+    },
+    {
+      "date": "2025-06-27",
+      "books_sold": 5
+    },
+    {
+      "date": "2025-06-28",
+      "books_sold": 10
+    },
+    {
+      "date": "2025-06-29",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-06-30",
+      "books_sold": 8
+    },
+    {
+      "date": "2025-07-01",
+      "books_sold": 10
+    },
+    {
+      "date": "2025-07-02",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-07-03",
+      "books_sold": 6
+    },
+    {
+      "date": "2025-07-04",
+      "books_sold": 6
+    },
+    {
+      "date": "2025-07-05",
+      "books_sold": 14
+    },
+    {
+      "date": "2025-07-06",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-07-07",
+      "books_sold": 13
+    },
+    {
+      "date": "2025-07-08",
+      "books_sold": 15
+    },
+    {
+      "date": "2025-07-09",
+      "books_sold": 5
+    },
+    {
+      "date": "2025-07-10",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-07-11",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-07-12",
+      "books_sold": 12
+    },
+    {
+      "date": "2025-07-13",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-07-14",
+      "books_sold": 1
+    },
+    {
+      "date": "2025-07-15",
+      "books_sold": 9
+    },
+    {
+      "date": "2025-07-16",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-07-17",
+      "books_sold": 9
+    },
+    {
+      "date": "2025-07-18",
+      "books_sold": 5
+    },
+    {
+      "date": "2025-07-19",
+      "books_sold": 10
+    },
+    {
+      "date": "2025-07-20",
+      "books_sold": 10
+    },
+    {
+      "date": "2025-07-21",
+      "books_sold": 11
+    },
+    {
+      "date": "2025-07-22",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-07-23",
+      "books_sold": 10
+    },
+    {
+      "date": "2025-07-24",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-07-25",
+      "books_sold": 10
+    },
+    {
+      "date": "2025-07-26",
+      "books_sold": 12
+    },
+    {
+      "date": "2025-07-27",
+      "books_sold": 6
+    },
+    {
+      "date": "2025-07-28",
+      "books_sold": 5
+    },
+    {
+      "date": "2025-07-29",
+      "books_sold": 2
+    },
+    {
+      "date": "2025-07-30",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-07-31",
+      "books_sold": 13
+    },
+    {
+      "date": "2025-08-01",
+      "books_sold": 19
+    },
+    {
+      "date": "2025-08-02",
+      "books_sold": 2
+    },
+    {
+      "date": "2025-08-03",
+      "books_sold": 14
+    },
+    {
+      "date": "2025-08-04",
+      "books_sold": 6
+    },
+    {
+      "date": "2025-08-05",
+      "books_sold": 2
+    },
+    {
+      "date": "2025-08-06",
+      "books_sold": 9
+    },
+    {
+      "date": "2025-08-07",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-08-08",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-08-09",
+      "books_sold": 6
+    },
+    {
+      "date": "2025-08-10",
+      "books_sold": 5
+    },
+    {
+      "date": "2025-08-11",
+      "books_sold": 11
+    },
+    {
+      "date": "2025-08-12",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-08-13",
+      "books_sold": 12
+    },
+    {
+      "date": "2025-08-14",
+      "books_sold": 9
+    },
+    {
+      "date": "2025-08-15",
+      "books_sold": 8
+    },
+    {
+      "date": "2025-08-16",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-08-17",
+      "books_sold": 8
+    },
+    {
+      "date": "2025-08-18",
+      "books_sold": 15
+    },
+    {
+      "date": "2025-08-19",
+      "books_sold": 9
+    },
+    {
+      "date": "2025-08-20",
+      "books_sold": 16
+    },
+    {
+      "date": "2025-08-21",
+      "books_sold": 9
+    },
+    {
+      "date": "2025-08-22",
+      "books_sold": 11
+    },
+    {
+      "date": "2025-08-23",
+      "books_sold": 13
+    },
+    {
+      "date": "2025-08-24",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-08-25",
+      "books_sold": 15
+    },
+    {
+      "date": "2025-08-26",
+      "books_sold": 8
+    },
+    {
+      "date": "2025-08-27",
+      "books_sold": 5
+    },
+    {
+      "date": "2025-08-28",
+      "books_sold": 10
+    },
+    {
+      "date": "2025-08-29",
+      "books_sold": 8
+    },
+    {
+      "date": "2025-08-30",
+      "books_sold": 11
+    },
+    {
+      "date": "2025-08-31",
+      "books_sold": 17
+    },
+    {
+      "date": "2025-09-01",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-09-02",
+      "books_sold": 16
+    },
+    {
+      "date": "2025-09-03",
+      "books_sold": 15
+    },
+    {
+      "date": "2025-09-04",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-09-05",
+      "books_sold": 15
+    },
+    {
+      "date": "2025-09-06",
+      "books_sold": 12
+    },
+    {
+      "date": "2025-09-07",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-09-08",
+      "books_sold": 15
+    },
+    {
+      "date": "2025-09-09",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-09-10",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-09-11",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-09-12",
+      "books_sold": 1
+    },
+    {
+      "date": "2025-09-13",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-09-14",
+      "books_sold": 17
+    },
+    {
+      "date": "2025-09-15",
+      "books_sold": 9
+    },
+    {
+      "date": "2025-09-16",
+      "books_sold": 10
+    },
+    {
+      "date": "2025-09-17",
+      "books_sold": 14
+    },
+    {
+      "date": "2025-09-18",
+      "books_sold": 5
+    },
+    {
+      "date": "2025-09-19",
+      "books_sold": 9
+    },
+    {
+      "date": "2025-09-20",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-09-21",
+      "books_sold": 19
+    },
+    {
+      "date": "2025-09-22",
+      "books_sold": 6
+    },
+    {
+      "date": "2025-09-23",
+      "books_sold": 5
+    },
+    {
+      "date": "2025-09-24",
+      "books_sold": 8
+    },
+    {
+      "date": "2025-09-25",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-09-26",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-09-27",
+      "books_sold": 8
+    },
+    {
+      "date": "2025-09-28",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-09-29",
+      "books_sold": 17
+    },
+    {
+      "date": "2025-09-30",
+      "books_sold": 13
+    },
+    {
+      "date": "2025-10-01",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-10-02",
+      "books_sold": 21
+    },
+    {
+      "date": "2025-10-03",
+      "books_sold": 8
+    },
+    {
+      "date": "2025-10-04",
+      "books_sold": 17
+    },
+    {
+      "date": "2025-10-05",
+      "books_sold": 5
+    },
+    {
+      "date": "2025-10-06",
+      "books_sold": 11
+    },
+    {
+      "date": "2025-10-07",
+      "books_sold": 11
+    },
+    {
+      "date": "2025-10-08",
+      "books_sold": 6
+    },
+    {
+      "date": "2025-10-09",
+      "books_sold": 10
+    },
+    {
+      "date": "2025-10-10",
+      "books_sold": 15
+    },
+    {
+      "date": "2025-10-11",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-10-12",
+      "books_sold": 15
+    },
+    {
+      "date": "2025-10-13",
+      "books_sold": 15
+    },
+    {
+      "date": "2025-10-14",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-10-15",
+      "books_sold": 11
+    },
+    {
+      "date": "2025-10-16",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-10-17",
+      "books_sold": 22
+    },
+    {
+      "date": "2025-10-18",
+      "books_sold": 10
+    },
+    {
+      "date": "2025-10-19",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-10-20",
+      "books_sold": 5
+    },
+    {
+      "date": "2025-10-21",
+      "books_sold": 10
+    },
+    {
+      "date": "2025-10-22",
+      "books_sold": 14
+    },
+    {
+      "date": "2025-10-23",
+      "books_sold": 8
+    },
+    {
+      "date": "2025-10-24",
+      "books_sold": 6
+    },
+    {
+      "date": "2025-10-25",
+      "books_sold": 5
+    },
+    {
+      "date": "2025-10-26",
+      "books_sold": 6
+    },
+    {
+      "date": "2025-10-27",
+      "books_sold": 6
+    },
+    {
+      "date": "2025-10-28",
+      "books_sold": 13
+    },
+    {
+      "date": "2025-10-29",
+      "books_sold": 13
+    },
+    {
+      "date": "2025-10-30",
+      "books_sold": 19
+    },
+    {
+      "date": "2025-10-31",
+      "books_sold": 5
+    },
+    {
+      "date": "2025-11-01",
+      "books_sold": 15
+    },
+    {
+      "date": "2025-11-02",
+      "books_sold": 5
+    },
+    {
+      "date": "2025-11-03",
+      "books_sold": 11
+    },
+    {
+      "date": "2025-11-04",
+      "books_sold": 20
+    },
+    {
+      "date": "2025-11-05",
+      "books_sold": 8
+    },
+    {
+      "date": "2025-11-06",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-11-07",
+      "books_sold": 8
+    },
+    {
+      "date": "2025-11-08",
+      "books_sold": 8
+    },
+    {
+      "date": "2025-11-09",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-11-10",
+      "books_sold": 18
+    },
+    {
+      "date": "2025-11-11",
+      "books_sold": 13
+    },
+    {
+      "date": "2025-11-12",
+      "books_sold": 6
+    },
+    {
+      "date": "2025-11-13",
+      "books_sold": 11
+    },
+    {
+      "date": "2025-11-14",
+      "books_sold": 16
+    },
+    {
+      "date": "2025-11-15",
+      "books_sold": 11
+    },
+    {
+      "date": "2025-11-16",
+      "books_sold": 8
+    },
+    {
+      "date": "2025-11-17",
+      "books_sold": 25
+    },
+    {
+      "date": "2025-11-18",
+      "books_sold": 9
+    },
+    {
+      "date": "2025-11-19",
+      "books_sold": 10
+    },
+    {
+      "date": "2025-11-20",
+      "books_sold": 13
+    },
+    {
+      "date": "2025-11-21",
+      "books_sold": 11
+    },
+    {
+      "date": "2025-11-22",
+      "books_sold": 18
+    },
+    {
+      "date": "2025-11-23",
+      "books_sold": 11
+    },
+    {
+      "date": "2025-11-24",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-11-25",
+      "books_sold": 13
+    },
+    {
+      "date": "2025-11-26",
+      "books_sold": 17
+    },
+    {
+      "date": "2025-11-27",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-11-28",
+      "books_sold": 18
+    },
+    {
+      "date": "2025-11-29",
+      "books_sold": 8
+    },
+    {
+      "date": "2025-11-30",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-12-01",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-12-02",
+      "books_sold": 8
+    },
+    {
+      "date": "2025-12-03",
+      "books_sold": 9
+    },
+    {
+      "date": "2025-12-04",
+      "books_sold": 6
+    },
+    {
+      "date": "2025-12-05",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-12-06",
+      "books_sold": 6
+    },
+    {
+      "date": "2025-12-07",
+      "books_sold": 10
+    },
+    {
+      "date": "2025-12-08",
+      "books_sold": 9
+    },
+    {
+      "date": "2025-12-09",
+      "books_sold": 15
+    },
+    {
+      "date": "2025-12-10",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-12-11",
+      "books_sold": 23
+    },
+    {
+      "date": "2025-12-12",
+      "books_sold": 3
+    },
+    {
+      "date": "2025-12-13",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-12-14",
+      "books_sold": 17
+    },
+    {
+      "date": "2025-12-15",
+      "books_sold": 12
+    },
+    {
+      "date": "2025-12-16",
+      "books_sold": 11
+    },
+    {
+      "date": "2025-12-17",
+      "books_sold": 4
+    },
+    {
+      "date": "2025-12-18",
+      "books_sold": 9
+    },
+    {
+      "date": "2025-12-19",
+      "books_sold": 19
+    },
+    {
+      "date": "2025-12-20",
+      "books_sold": 9
+    },
+    {
+      "date": "2025-12-21",
+      "books_sold": 11
+    },
+    {
+      "date": "2025-12-22",
+      "books_sold": 14
+    },
+    {
+      "date": "2025-12-23",
+      "books_sold": 10
+    },
+    {
+      "date": "2025-12-24",
+      "books_sold": 17
+    },
+    {
+      "date": "2025-12-25",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-12-26",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-12-27",
+      "books_sold": 6
+    },
+    {
+      "date": "2025-12-28",
+      "books_sold": 17
+    },
+    {
+      "date": "2025-12-29",
+      "books_sold": 1
+    },
+    {
+      "date": "2025-12-30",
+      "books_sold": 7
+    },
+    {
+      "date": "2025-12-31",
+      "books_sold": 9
+    },
+    {
+      "date": "2026-01-01",
+      "books_sold": 6
+    },
+    {
+      "date": "2026-01-02",
+      "books_sold": 12
+    },
+    {
+      "date": "2026-01-03",
+      "books_sold": 13
+    },
+    {
+      "date": "2026-01-04",
+      "books_sold": 5
+    },
+    {
+      "date": "2026-01-05",
+      "books_sold": 11
+    },
+    {
+      "date": "2026-01-06",
+      "books_sold": 2
+    },
+    {
+      "date": "2026-01-07",
+      "books_sold": 5
+    },
+    {
+      "date": "2026-01-08",
+      "books_sold": 9
+    },
+    {
+      "date": "2026-01-09",
+      "books_sold": 18
+    },
+    {
+      "date": "2026-01-10",
+      "books_sold": 10
+    },
+    {
+      "date": "2026-01-11",
+      "books_sold": 7
+    },
+    {
+      "date": "2026-01-12",
+      "books_sold": 9
+    },
+    {
+      "date": "2026-01-13",
+      "books_sold": 8
+    },
+    {
+      "date": "2026-01-14",
+      "books_sold": 13
+    },
+    {
+      "date": "2026-01-15",
+      "books_sold": 12
+    },
+    {
+      "date": "2026-01-16",
+      "books_sold": 16
+    },
+    {
+      "date": "2026-01-17",
+      "books_sold": 1
+    },
+    {
+      "date": "2026-01-18",
+      "books_sold": 8
+    },
+    {
+      "date": "2026-01-19",
+      "books_sold": 1
+    },
+    {
+      "date": "2026-01-20",
+      "books_sold": 7
+    },
+    {
+      "date": "2026-01-21",
+      "books_sold": 6
+    },
+    {
+      "date": "2026-01-22",
+      "books_sold": 5
+    },
+    {
+      "date": "2026-01-23",
+      "books_sold": 15
+    },
+    {
+      "date": "2026-01-24",
+      "books_sold": 11
+    },
+    {
+      "date": "2026-01-25",
+      "books_sold": 10
+    },
+    {
+      "date": "2026-01-26",
+      "books_sold": 6
+    },
+    {
+      "date": "2026-01-27",
+      "books_sold": 6
+    },
+    {
+      "date": "2026-01-28",
+      "books_sold": 3
+    },
+    {
+      "date": "2026-01-29",
+      "books_sold": 5
+    },
+    {
+      "date": "2026-01-30",
+      "books_sold": 2
+    },
+    {
+      "date": "2026-01-31",
+      "books_sold": 6
+    },
+    {
+      "date": "2026-02-01",
+      "books_sold": 15
+    },
+    {
+      "date": "2026-02-02",
+      "books_sold": 8
+    },
+    {
+      "date": "2026-02-03",
+      "books_sold": 6
+    },
+    {
+      "date": "2026-02-04",
+      "books_sold": 16
+    },
+    {
+      "date": "2026-02-05",
+      "books_sold": 11
+    },
+    {
+      "date": "2026-02-06",
+      "books_sold": 9
+    },
+    {
+      "date": "2026-02-07",
+      "books_sold": 13
+    },
+    {
+      "date": "2026-02-08",
+      "books_sold": 1
+    },
+    {
+      "date": "2026-02-09",
+      "books_sold": 11
+    },
+    {
+      "date": "2026-02-10",
+      "books_sold": 4
+    },
+    {
+      "date": "2026-02-11",
+      "books_sold": 8
+    },
+    {
+      "date": "2026-02-12",
+      "books_sold": 1
+    },
+    {
+      "date": "2026-02-13",
+      "books_sold": 1
+    },
+    {
+      "date": "2026-02-14",
+      "books_sold": 5
+    },
+    {
+      "date": "2026-02-15",
+      "books_sold": 5
+    },
+    {
+      "date": "2026-02-16",
+      "books_sold": 4
+    },
+    {
+      "date": "2026-02-17",
+      "books_sold": 8
+    },
+    {
+      "date": "2026-02-18",
+      "books_sold": 11
+    },
+    {
+      "date": "2026-02-19",
+      "books_sold": 7
+    },
+    {
+      "date": "2026-02-20",
+      "books_sold": 8
+    },
+    {
+      "date": "2026-02-21",
+      "books_sold": 5
+    },
+    {
+      "date": "2026-02-22",
+      "books_sold": 12
+    },
+    {
+      "date": "2026-02-23",
+      "books_sold": 2
+    },
+    {
+      "date": "2026-02-24",
+      "books_sold": 11
+    },
+    {
+      "date": "2026-02-25",
+      "books_sold": 4
+    },
+    {
+      "date": "2026-02-26",
+      "books_sold": 5
+    },
+    {
+      "date": "2026-02-27",
+      "books_sold": 12
+    },
+    {
+      "date": "2026-02-28",
+      "books_sold": 20
+    },
+    {
+      "date": "2026-03-01",
+      "books_sold": 6
+    },
+    {
+      "date": "2026-03-02",
+      "books_sold": 6
+    },
+    {
+      "date": "2026-03-03",
+      "books_sold": 3
+    },
+    {
+      "date": "2026-03-04",
+      "books_sold": 5
+    },
+    {
+      "date": "2026-03-05",
+      "books_sold": 3
+    },
+    {
+      "date": "2026-03-06",
+      "books_sold": 11
+    },
+    {
+      "date": "2026-03-07",
+      "books_sold": 6
+    },
+    {
+      "date": "2026-03-08",
+      "books_sold": 9
+    },
+    {
+      "date": "2026-03-09",
+      "books_sold": 2
+    },
+    {
+      "date": "2026-03-10",
+      "books_sold": 6
+    },
+    {
+      "date": "2026-03-11",
+      "books_sold": 7
+    },
+    {
+      "date": "2026-03-12",
+      "books_sold": 5
+    },
+    {
+      "date": "2026-03-13",
+      "books_sold": 3
+    },
+    {
+      "date": "2026-03-14",
+      "books_sold": 2
+    },
+    {
+      "date": "2026-03-15",
+      "books_sold": 6
+    },
+    {
+      "date": "2026-03-16",
+      "books_sold": 1
+    },
+    {
+      "date": "2026-03-17",
+      "books_sold": 7
+    },
+    {
+      "date": "2026-03-18",
+      "books_sold": 5
+    },
+    {
+      "date": "2026-03-19",
+      "books_sold": 4
+    },
+    {
+      "date": "2026-03-20",
+      "books_sold": 2
+    },
+    {
+      "date": "2026-03-22",
+      "books_sold": 7
+    },
+    {
+      "date": "2026-03-23",
+      "books_sold": 7
+    },
+    {
+      "date": "2026-03-24",
+      "books_sold": 6
+    },
+    {
+      "date": "2026-03-25",
+      "books_sold": 14
+    },
+    {
+      "date": "2026-03-26",
+      "books_sold": 2
+    },
+    {
+      "date": "2026-03-27",
+      "books_sold": 5
+    },
+    {
+      "date": "2026-03-28",
+      "books_sold": 9
+    },
+    {
+      "date": "2026-03-29",
+      "books_sold": 4
+    },
+    {
+      "date": "2026-03-30",
+      "books_sold": 6
+    },
+    {
+      "date": "2026-03-31",
+      "books_sold": 5
+    },
+    {
+      "date": "2026-04-01",
+      "books_sold": 9
+    },
+    {
+      "date": "2026-04-02",
+      "books_sold": 4
+    },
+    {
+      "date": "2026-04-03",
+      "books_sold": 4
+    },
+    {
+      "date": "2026-04-04",
+      "books_sold": 5
+    },
+    {
+      "date": "2026-04-05",
+      "books_sold": 8
+    },
+    {
+      "date": "2026-04-06",
+      "books_sold": 1
+    },
+    {
+      "date": "2026-04-07",
+      "books_sold": 5
+    },
+    {
+      "date": "2026-04-08",
+      "books_sold": 3
+    },
+    {
+      "date": "2026-04-09",
+      "books_sold": 7
+    },
+    {
+      "date": "2026-04-10",
+      "books_sold": 5
+    },
+    {
+      "date": "2026-04-11",
+      "books_sold": 7
+    },
+    {
+      "date": "2026-04-12",
+      "books_sold": 4
+    },
+    {
+      "date": "2026-04-13",
+      "books_sold": 2
+    },
+    {
+      "date": "2026-04-14",
+      "books_sold": 3
+    },
+    {
+      "date": "2026-04-15",
+      "books_sold": 7
+    },
+    {
+      "date": "2026-04-16",
+      "books_sold": 3
+    },
+    {
+      "date": "2026-04-17",
+      "books_sold": 4
+    },
+    {
+      "date": "2026-04-18",
+      "books_sold": 10
+    },
+    {
+      "date": "2026-04-19",
+      "books_sold": 4
+    },
+    {
+      "date": "2026-04-21",
+      "books_sold": 5
+    },
+    {
+      "date": "2026-04-22",
+      "books_sold": 5
+    },
+    {
+      "date": "2026-04-23",
+      "books_sold": 3
+    },
+    {
+      "date": "2026-04-24",
+      "books_sold": 2
+    },
+    {
+      "date": "2026-04-25",
+      "books_sold": 2
+    },
+    {
+      "date": "2026-04-26",
+      "books_sold": 2
+    },
+    {
+      "date": "2026-04-27",
+      "books_sold": 2
+    },
+    {
+      "date": "2026-04-28",
+      "books_sold": 7
+    },
+    {
+      "date": "2026-04-29",
+      "books_sold": 8
+    },
+    {
+      "date": "2026-04-30",
+      "books_sold": 3
+    },
+    {
+      "date": "2026-05-01",
+      "books_sold": 1
+    },
+    {
+      "date": "2026-05-02",
+      "books_sold": 8
+    },
+    {
+      "date": "2026-05-03",
+      "books_sold": 1
+    },
+    {
+      "date": "2026-05-04",
+      "books_sold": 7
+    },
+    {
+      "date": "2026-05-05",
+      "books_sold": 3
+    },
+    {
+      "date": "2026-05-06",
+      "books_sold": 2
+    },
+    {
+      "date": "2026-05-07",
+      "books_sold": 6
+    },
+    {
+      "date": "2026-05-08",
+      "books_sold": 6
+    },
+    {
+      "date": "2026-05-09",
+      "books_sold": 7
+    },
+    {
+      "date": "2026-05-10",
+      "books_sold": 1
+    },
+    {
+      "date": "2026-05-12",
+      "books_sold": 4
+    },
+    {
+      "date": "2026-05-14",
+      "books_sold": 3
+    },
+    {
+      "date": "2026-05-15",
+      "books_sold": 1
+    },
+    {
+      "date": "2026-05-16",
+      "books_sold": 1
+    },
+    {
+      "date": "2026-05-17",
+      "books_sold": 3
+    },
+    {
+      "date": "2026-05-19",
+      "books_sold": 10
+    },
+    {
+      "date": "2026-05-20",
+      "books_sold": 4
+    },
+    {
+      "date": "2026-05-21",
+      "books_sold": 1
+    },
+    {
+      "date": "2026-05-22",
+      "books_sold": 2
+    },
+    {
+      "date": "2026-05-23",
+      "books_sold": 2
+    },
+    {
+      "date": "2026-05-24",
+      "books_sold": 1
+    },
+    {
+      "date": "2026-05-25",
+      "books_sold": 2
+    },
+    {
+      "date": "2026-05-26",
+      "books_sold": 2
+    },
+    {
+      "date": "2026-05-27",
       "books_sold": 6
     },
     {
       "date": "2026-05-29",
-      "books_sold": 6
+      "books_sold": 1
     },
     {
       "date": "2026-05-30",
-      "books_sold": 17
+      "books_sold": 4
     },
     {
       "date": "2026-05-31",
-      "books_sold": 7
+      "books_sold": 1
     },
     {
       "date": "2026-06-01",
-      "books_sold": 9
+      "books_sold": 3
     },
     {
       "date": "2026-06-02",
-      "books_sold": 14
+      "books_sold": 4
     },
     {
       "date": "2026-06-03",
-      "books_sold": 16
+      "books_sold": 4
     },
     {
       "date": "2026-06-04",
-      "books_sold": 7
+      "books_sold": 2
     },
     {
       "date": "2026-06-05",
-      "books_sold": 13
+      "books_sold": 3
     },
     {
       "date": "2026-06-06",
-      "books_sold": 5
+      "books_sold": 1
     },
     {
       "date": "2026-06-07",
-      "books_sold": 11
-    },
-    {
-      "date": "2026-06-08",
-      "books_sold": 7
+      "books_sold": 3
     },
     {
       "date": "2026-06-09",
-      "books_sold": 11
-    },
-    {
-      "date": "2026-06-10",
-      "books_sold": 8
+      "books_sold": 1
     },
     {
       "date": "2026-06-11",
       "books_sold": 1
     },
     {
-      "date": "2026-06-12",
-      "books_sold": 3
-    },
-    {
       "date": "2026-06-13",
-      "books_sold": 11
-    },
-    {
-      "date": "2026-06-14",
-      "books_sold": 5
+      "books_sold": 6
     },
     {
       "date": "2026-06-15",
-      "books_sold": 11
+      "books_sold": 4
     },
     {
       "date": "2026-06-16",
-      "books_sold": 6
+      "books_sold": 4
     },
     {
       "date": "2026-06-18",
@@ -4707,67 +4101,39 @@
     },
     {
       "date": "2026-06-19",
-      "books_sold": 3
+      "books_sold": 1
     },
     {
       "date": "2026-06-20",
-      "books_sold": 4
+      "books_sold": 2
     },
     {
       "date": "2026-06-21",
-      "books_sold": 7
+      "books_sold": 4
     },
     {
       "date": "2026-06-22",
-      "books_sold": 7
-    },
-    {
-      "date": "2026-06-23",
-      "books_sold": 5
-    },
-    {
-      "date": "2026-06-25",
-      "books_sold": 8
-    },
-    {
-      "date": "2026-06-26",
-      "books_sold": 9
-    },
-    {
-      "date": "2026-06-27",
-      "books_sold": 11
+      "books_sold": 1
     },
     {
       "date": "2026-06-28",
-      "books_sold": 7
+      "books_sold": 2
     },
     {
       "date": "2026-06-29",
-      "books_sold": 6
+      "books_sold": 2
     },
     {
       "date": "2026-07-01",
-      "books_sold": 6
-    },
-    {
-      "date": "2026-07-02",
-      "books_sold": 20
-    },
-    {
-      "date": "2026-07-04",
-      "books_sold": 9
-    },
-    {
-      "date": "2026-07-05",
       "books_sold": 5
     },
     {
-      "date": "2026-07-06",
-      "books_sold": 2
+      "date": "2026-07-02",
+      "books_sold": 3
     },
     {
-      "date": "2026-07-07",
-      "books_sold": 2
+      "date": "2026-07-05",
+      "books_sold": 3
     },
     {
       "date": "2026-07-08",
@@ -4775,175 +4141,75 @@
     },
     {
       "date": "2026-07-09",
-      "books_sold": 4
-    },
-    {
-      "date": "2026-07-10",
-      "books_sold": 2
-    },
-    {
-      "date": "2026-07-11",
-      "books_sold": 4
-    },
-    {
-      "date": "2026-07-12",
-      "books_sold": 2
-    },
-    {
-      "date": "2026-07-13",
       "books_sold": 2
     },
     {
       "date": "2026-07-14",
-      "books_sold": 2
+      "books_sold": 1
     },
     {
       "date": "2026-07-15",
-      "books_sold": 6
+      "books_sold": 4
     },
     {
       "date": "2026-07-16",
-      "books_sold": 3
+      "books_sold": 2
     },
     {
       "date": "2026-07-17",
-      "books_sold": 9
-    },
-    {
-      "date": "2026-07-18",
       "books_sold": 1
     },
     {
       "date": "2026-07-19",
-      "books_sold": 7
-    },
-    {
-      "date": "2026-07-20",
-      "books_sold": 7
-    },
-    {
-      "date": "2026-07-21",
-      "books_sold": 3
-    },
-    {
-      "date": "2026-07-22",
-      "books_sold": 3
-    },
-    {
-      "date": "2026-07-23",
-      "books_sold": 3
-    },
-    {
-      "date": "2026-07-24",
-      "books_sold": 3
-    },
-    {
-      "date": "2026-07-25",
-      "books_sold": 8
-    },
-    {
-      "date": "2026-07-26",
-      "books_sold": 7
-    },
-    {
-      "date": "2026-07-28",
-      "books_sold": 3
-    },
-    {
-      "date": "2026-07-29",
       "books_sold": 5
     },
     {
-      "date": "2026-07-30",
+      "date": "2026-07-20",
+      "books_sold": 1
+    },
+    {
+      "date": "2026-07-21",
+      "books_sold": 1
+    },
+    {
+      "date": "2026-07-22",
+      "books_sold": 1
+    },
+    {
+      "date": "2026-07-23",
+      "books_sold": 1
+    },
+    {
+      "date": "2026-07-28",
       "books_sold": 1
     },
     {
       "date": "2026-08-01",
-      "books_sold": 3
-    },
-    {
-      "date": "2026-08-02",
       "books_sold": 2
     },
     {
       "date": "2026-08-03",
-      "books_sold": 4
-    },
-    {
-      "date": "2026-08-04",
-      "books_sold": 1
+      "books_sold": 2
     },
     {
       "date": "2026-08-05",
-      "books_sold": 3
-    },
-    {
-      "date": "2026-08-06",
       "books_sold": 1
     },
     {
       "date": "2026-08-10",
-      "books_sold": 2
+      "books_sold": 1
     },
     {
       "date": "2026-08-11",
-      "books_sold": 3
-    },
-    {
-      "date": "2026-08-12",
-      "books_sold": 1
-    },
-    {
-      "date": "2026-08-14",
-      "books_sold": 1
-    },
-    {
-      "date": "2026-08-15",
-      "books_sold": 5
-    },
-    {
-      "date": "2026-08-16",
-      "books_sold": 1
+      "books_sold": 2
     },
     {
       "date": "2026-08-17",
-      "books_sold": 3
-    },
-    {
-      "date": "2026-08-20",
-      "books_sold": 1
-    },
-    {
-      "date": "2026-08-22",
-      "books_sold": 1
-    },
-    {
-      "date": "2026-08-23",
-      "books_sold": 4
-    },
-    {
-      "date": "2026-08-25",
-      "books_sold": 10
+      "books_sold": 2
     },
     {
       "date": "2026-08-26",
-      "books_sold": 6
-    },
-    {
-      "date": "2026-09-01",
-      "books_sold": 3
-    },
-    {
-      "date": "2026-09-03",
-      "books_sold": 2
-    },
-    {
-      "date": "2026-09-06",
       "books_sold": 1
-    },
-    {
-      "date": "2026-09-14",
-      "books_sold": 2
     },
     {
       "date": "2026-09-15",
@@ -4952,57 +4218,13 @@
     {
       "date": "2026-09-24",
       "books_sold": 1
-    },
-    {
-      "date": "2026-09-25",
-      "books_sold": 6
-    },
-    {
-      "date": "2026-09-26",
-      "books_sold": 4
-    },
-    {
-      "date": "2026-10-01",
-      "books_sold": 1
-    },
-    {
-      "date": "2026-10-21",
-      "books_sold": 246
-    },
-    {
-      "date": "2026-10-25",
-      "books_sold": 13
-    },
-    {
-      "date": "2026-10-26",
-      "books_sold": 3
-    },
-    {
-      "date": "2026-11-04",
-      "books_sold": 1
-    },
-    {
-      "date": "2026-11-25",
-      "books_sold": 1
-    },
-    {
-      "date": "2026-11-26",
-      "books_sold": 5
-    },
-    {
-      "date": "2026-12-25",
-      "books_sold": 5
-    },
-    {
-      "date": "2026-12-26",
-      "books_sold": 3
     }
   ],
   "quality": {
     "rows_read": 10493,
     "exact_duplicate_rows_removed": 0,
-    "invalid_rows_removed": 2293,
-    "clean_rows": 8200,
+    "invalid_rows_removed": 8373,
+    "clean_rows": 2120,
     "user_rows_read": 3394,
     "real_users_after_reconciliation": 3221,
     "user_id_aliases_merged": 173,

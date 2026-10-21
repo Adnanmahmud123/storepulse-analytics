@@ -124,46 +124,54 @@ def parse_price_to_usd(value: Any) -> float | None:
     return float(number.quantize(CENT, rounding=ROUND_HALF_UP))
 
 
+
 def parse_timestamps(series: pd.Series) -> pd.Series:
-    """Parse mixed timestamp formats/timezones without losing source calendar dates.
+    """Parse explicit timestamps only; reject relative dates such as 'today'."""
+    import re
+    import pandas as pd
 
-    The source data contains both timezone-aware and timezone-naive values.
-    Parse each value separately, then remove timezone metadata without shifting
-    the displayed wall-clock time. This keeps the YYYY-MM-DD date as supplied
-    in the source timestamp while returning a consistent pandas datetime dtype.
-    Invalid values become NaT and are removed by order validation.
-    """
-    def parse_one(value: Any):
-        if is_blank(value):
-            return pd.NaT
-        raw = str(value).strip().replace(";", " ")
-        try:
-            stamp = pd.Timestamp(raw)
-        except (TypeError, ValueError, OverflowError):
-            stamp = pd.NaT
-        if pd.isna(stamp):
-            # Explicit fallbacks for non-ISO source timestamp variants.
-            formats = (
-                "%a %b %d %H:%M:%S %Y",
-                "%d-%b-%Y %H:%M:%S",
-                "%d-%b-%Y",
-                "%Y-%m-%d %H:%M:%S",
-                "%Y-%m-%d",
-            )
-            for fmt in formats:
-                try:
-                    stamp = pd.to_datetime(raw, format=fmt, errors="raise")
-                    break
-                except (TypeError, ValueError, OverflowError):
-                    continue
-        if pd.isna(stamp):
-            return pd.NaT
-        # Strip timezone while preserving the timestamp's displayed local time.
-        if getattr(stamp, "tzinfo", None) is not None:
-            stamp = stamp.tz_localize(None)
-        return stamp
+    relative_date = re.compile(
+        r"^\s*(today|now|yesterday|tomorrow|"
+        r"current date|current time)\b",
+        re.IGNORECASE,
+    )
 
-    return pd.to_datetime(series.map(parse_one), errors="coerce")
+    def parse_one(value):
+        if value is None or pd.isna(value):
+            return pd.NaT
+
+        raw = str(value).strip()
+        if not raw:
+            return pd.NaT
+
+        # Never allow relative date strings to become the current timestamp.
+        if relative_date.match(raw):
+            return pd.NaT
+
+        # Accept explicit ISO-style dates/timestamps.
+        if re.match(r"^\d{4}-\d{2}-\d{2}(?:$|[T ])", raw):
+            return pd.to_datetime(raw, errors="coerce", format="mixed", utc=True)
+
+        # Accept explicit textual formats present in the source data.
+        formats = (
+            "%a %b %d %H:%M:%S %Y",
+            "%d-%b-%Y %H:%M:%S",
+            "%d-%b-%Y",
+            "%Y-%m-%d %H:%M:%S",
+            "%Y-%m-%d",
+        )
+
+        for fmt in formats:
+            try:
+                stamp = pd.to_datetime(raw, format=fmt, errors="raise")
+                return stamp
+            except (TypeError, ValueError, OverflowError):
+                continue
+
+        return pd.NaT
+
+    parsed = series.map(parse_one)
+    return pd.to_datetime(parsed, errors="coerce", utc=True).dt.tz_localize(None)
 
 
 class DisjointSet:
